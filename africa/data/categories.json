@@ -1,0 +1,54 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "An unknown server-side error occurred while processing the command. Original error: Blocked a frame with origin \"https://cardanoafrica-staging.netlify.app\" from accessing a cross-origin frame. Protocols, domains, and ports must match. Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:4ed:3c3f:2e31:423c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-000A0C3E3403802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: d22518f816c0d8422449a8a3c1336bbf464eab6e",
+      "children" : [ {
+        "name" : "verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "8dc796896a2bb32d",
+        "parentUid" : "7540ad0dc51139da5993a79a7278d2ac",
+        "status" : "broken",
+        "time" : {
+          "duration" : 12731
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7540ad0dc51139da5993a79a7278d2ac"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ytp-progress-bar\"}   (Session info: chrome=88.0.4324.93) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:4ed:3c3f:2e31:423c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, systemPort: 8202, udid: RFCN20RC9JZ}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20RC9JZ, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20RC9JZ, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20RC9JZ, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: cfb2580f00184db5f16dfe408bf37ab4394399d9 *** Element info: {Using=css selector, value=.ytp-progress-bar}",
+      "children" : [ {
+        "name" : "verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "8809149eb63ef67f",
+        "parentUid" : "3fb0ce01b052cdf0d04cf273fa357dac",
+        "status" : "broken",
+        "time" : {
+          "duration" : 20005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3fb0ce01b052cdf0d04cf273fa357dac"
+    }, {
+      "name" : "An element could not be located on the page using the given search parameters. For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:4ed:3c3f:2e31:423c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-0005453E0A90402E, useXctestrunFile: true, webStorageEnabled: false} Session ID: 2460ee3f96c9173c6f8eb046081c57e2f9bc0352 *** Element info: {Using=xpath, value=//*[@name='Allow']}",
+      "children" : [ {
+        "name" : "verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "5e3ab986fedb4294",
+        "parentUid" : "ec3cd07016bf95d2966aa091416e1d6a",
+        "status" : "broken",
+        "time" : {
+          "duration" : 145870
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ec3cd07016bf95d2966aa091416e1d6a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

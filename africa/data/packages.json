@@ -1,0 +1,453 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "MobileTests.AfricaMobileHomePageTest",
+    "children" : [ {
+      "name" : "verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "8dc796896a2bb32d",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "broken",
+      "time" : {
+        "duration" : 12731
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "8809149eb63ef67f",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "broken",
+      "time" : {
+        "duration" : 20005
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "5e3ab986fedb4294",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "broken",
+      "time" : {
+        "duration" : 145870
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "5b428de14a07905d",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50522
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyMobileHomePageMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "5b63c291bfd8a908",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 150204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignupSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "41e3a57af2679206",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18364
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "968e222a4abd8e08",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 77695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyMobileHomePageMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "ed471e35c94f791",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 32229
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "664b734a6f089c65",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 71485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "92633c488e1d2a5a",
+      "parentUid" : "94ae7ff809fa31f61299e6a1c2819c7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 78566
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "DesktopTests.AfricaHomePageTest",
+    "children" : [ {
+      "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "f0226b627d89ef2f",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 28323
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "7a2120af99c6a04a",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "97737992a68ad89",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 224675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "cddcb8d097391be7",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "fffb07e4aab76f02",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19431
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "bfda503b61958673",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "dec74ac66828df97",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26211
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "d31ad731862e3947",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19061
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "3d9ba8483cc78318",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 47912
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "9730cdd9b81d98e8",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23784
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "95ae0ddb389e4712",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 32950
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "22c654e39c306621",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 103595
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "7faab420f4c6aa2d",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 59656
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "82cb6eff604a0f1",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "4dc4f2940c5b6c6a",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 45263
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "8bd1bb539d3e815b",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 155875
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "3b70b8cca62fb2dc",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27916
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "398b62ed5de1788a",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 75995
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "59d0a26eddc72af6",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "1947943025377eb5",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 58700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "2b784ecf1ee150b9",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 28452
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "e81070802ab79af",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 53453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "c37aa1a057377ebb",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26844
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "337e77e3d924ee6c",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22928
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "ef32850d0edf6da7",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "974344d31658143e",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29557
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "8c53528e50f56490",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20778
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "7388abdb14f9193e",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "2747770cc9d1dd9a",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 46366
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "c036d6c23ac88578",
+      "parentUid" : "a87681a1f3482bfff982943b37a0860d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29677
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "DesktopTests.AfricaHomePageTest"
+  } ]
+}

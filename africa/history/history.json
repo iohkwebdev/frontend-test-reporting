@@ -1,0 +1,685 @@
+{
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b70b8cca62fb2dc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27916
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d31ad731862e3947",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19061
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef32850d0edf6da7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40841
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7388abdb14f9193e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13933
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82cb6eff604a0f1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18383
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "664b734a6f089c65",
+      "status" : "passed",
+      "time" : {
+        "duration" : 71485
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97737992a68ad89",
+      "status" : "passed",
+      "time" : {
+        "duration" : 224675
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyMobileHomePageMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b63c291bfd8a908",
+      "status" : "passed",
+      "time" : {
+        "duration" : 150204
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyMobileHomePageMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed471e35c94f791",
+      "status" : "passed",
+      "time" : {
+        "duration" : 32229
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d9ba8483cc78318",
+      "status" : "passed",
+      "time" : {
+        "duration" : 47912
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c53528e50f56490",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20778
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e81070802ab79af",
+      "status" : "passed",
+      "time" : {
+        "duration" : 53453
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b784ecf1ee150b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 28452
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySignupSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41e3a57af2679206",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18364
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e3ab986fedb4294",
+      "status" : "broken",
+      "statusDetails" : "An element could not be located on the page using the given search parameters. For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:4ed:3c3f:2e31:423c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-0005453E0A90402E, useXctestrunFile: true, webStorageEnabled: false} Session ID: 2460ee3f96c9173c6f8eb046081c57e2f9bc0352 *** Element info: {Using=xpath, value=//*[@name='Allow']}",
+      "time" : {
+        "duration" : 145870
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c036d6c23ac88578",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29677
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2747770cc9d1dd9a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 46366
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b428de14a07905d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50522
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95ae0ddb389e4712",
+      "status" : "passed",
+      "time" : {
+        "duration" : 32950
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0226b627d89ef2f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 28323
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "337e77e3d924ee6c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22928
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7faab420f4c6aa2d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 59656
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "398b62ed5de1788a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 75995
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cddcb8d097391be7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15199
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22c654e39c306621",
+      "status" : "passed",
+      "time" : {
+        "duration" : 103595
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c37aa1a057377ebb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26844
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fffb07e4aab76f02",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19431
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8dc796896a2bb32d",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Blocked a frame with origin \"https://cardanoafrica-staging.netlify.app\" from accessing a cross-origin frame. Protocols, domains, and ports must match. Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:4ed:3c3f:2e31:423c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-000A0C3E3403802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: d22518f816c0d8422449a8a3c1336bbf464eab6e",
+      "time" : {
+        "duration" : 12731
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8809149eb63ef67f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ytp-progress-bar\"}   (Session info: chrome=88.0.4324.93) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:4ed:3c3f:2e31:423c%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, systemPort: 8202, udid: RFCN20RC9JZ}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20RC9JZ, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20RC9JZ, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20RC9JZ, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: cfb2580f00184db5f16dfe408bf37ab4394399d9 *** Element info: {Using=css selector, value=.ytp-progress-bar}",
+      "time" : {
+        "duration" : 20005
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a2120af99c6a04a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10608
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9730cdd9b81d98e8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23784
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59d0a26eddc72af6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29614
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dec74ac66828df97",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26211
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "974344d31658143e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29557
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bd1bb539d3e815b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 155875
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfda503b61958673",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24508
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4dc4f2940c5b6c6a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 45263
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92633c488e1d2a5a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 78566
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySocialMediaLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "968e222a4abd8e08",
+      "status" : "passed",
+      "time" : {
+        "duration" : 77695
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1947943025377eb5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 58700
+      }
+    } ]
+  }
+}

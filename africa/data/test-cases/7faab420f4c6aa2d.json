@@ -1,0 +1,53 @@
+{
+  "uid" : "7faab420f4c6aa2d",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "historyId" : "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 59656
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "423d60d516b42d8f",
+      "name" : "System out",
+      "source" : "423d60d516b42d8f.txt",
+      "type" : "text/plain",
+      "size" : 281
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7faab420f4c6aa2d.json",
+  "parameterValues" : [ ]
+}

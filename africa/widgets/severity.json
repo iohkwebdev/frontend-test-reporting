@@ -1,0 +1,321 @@
+[ {
+  "uid" : "e81070802ab79af",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 53453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "968e222a4abd8e08",
+  "name" : "verifySocialMediaLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 77695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed471e35c94f791",
+  "name" : "verifyMobileHomePageMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 32229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cddcb8d097391be7",
+  "name" : "verifyVideoSection@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fffb07e4aab76f02",
+  "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19431
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bd1bb539d3e815b",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 155875
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef32850d0edf6da7",
+  "name" : "verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b428de14a07905d",
+  "name" : "verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 50522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b63c291bfd8a908",
+  "name" : "verifyMobileHomePageMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 150204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c37aa1a057377ebb",
+  "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 26844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97737992a68ad89",
+  "name" : "verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 224675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dc796896a2bb32d",
+  "name" : "verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 12731
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bfda503b61958673",
+  "name" : "verifyHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 24508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1947943025377eb5",
+  "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 58700
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "664b734a6f089c65",
+  "name" : "verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 71485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8809149eb63ef67f",
+  "name" : "verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 20005
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8c53528e50f56490",
+  "name" : "verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 20778
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82cb6eff604a0f1",
+  "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 18383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "398b62ed5de1788a",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 75995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59d0a26eddc72af6",
+  "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 29614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0226b627d89ef2f",
+  "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 28323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2747770cc9d1dd9a",
+  "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 46366
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dc4f2940c5b6c6a",
+  "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 45263
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7faab420f4c6aa2d",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 59656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "974344d31658143e",
+  "name" : "verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 29557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92633c488e1d2a5a",
+  "name" : "verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 78566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e3ab986fedb4294",
+  "name" : "verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 145870
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7388abdb14f9193e",
+  "name" : "verifyHomePageTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c036d6c23ac88578",
+  "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 29677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a2120af99c6a04a",
+  "name" : "verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 10608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d31ad731862e3947",
+  "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b784ecf1ee150b9",
+  "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 28452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "337e77e3d924ee6c",
+  "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22928
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22c654e39c306621",
+  "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 103595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b70b8cca62fb2dc",
+  "name" : "verifySignUpSectionTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 27916
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41e3a57af2679206",
+  "name" : "verifySignupSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 18364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9730cdd9b81d98e8",
+  "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 23784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95ae0ddb389e4712",
+  "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 32950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dec74ac66828df97",
+  "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 26211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d9ba8483cc78318",
+  "name" : "verifySocialMediaLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 47912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
