@@ -1,0 +1,103 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Current url is not containing \"about:blank\"     Current url: https://bak.or.ke/",
+      "children" : [ {
+        "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+        "uid" : "9ccd2c94ec841ba",
+        "parentUid" : "e8a9e3d607295cbe53c44f926a0aad55",
+        "status" : "failed",
+        "time" : {
+          "duration" : 18584
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e8a9e3d607295cbe53c44f926a0aad55"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+        "uid" : "7bff7d64b29b669d",
+        "parentUid" : "c4da11de867fbca2481a34e0b0b06843",
+        "status" : "broken",
+        "time" : {
+          "duration" : 148010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c4da11de867fbca2481a34e0b0b06843"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$305/0x0000000801007840@658a2b99 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 58b9536d87efdc0bfc3b82155b7..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 58b9536d87efdc0bfc3b82155b7e32a42d6b0ff4",
+      "children" : [ {
+        "name" : "verifySocialLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "1e700a56e7846953",
+        "parentUid" : "451e85d6936244daaddb35064d9f55ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 27729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "451e85d6936244daaddb35064d9f55ca"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$305/0x0000000801007840@514f20ee (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 62898b8662ba131d1ca481170b9..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 62898b8662ba131d1ca481170b91fb54a176074c",
+      "children" : [ {
+        "name" : "verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "85a3f7565674e7e4",
+        "parentUid" : "82952162b624668e425288faf083bba1",
+        "status" : "broken",
+        "time" : {
+          "duration" : 29844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82952162b624668e425288faf083bba1"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 968353291b2300d12c763fa6ddd..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 968353291b2300d12c763fa6dddca58b199755ba *** Element info: {Using=css selector, value=.videoModal iframe}",
+      "children" : [ {
+        "name" : "verifyVideosFromHomePageTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "809a852637e51582",
+        "parentUid" : "1a97374316ba1e06847f67eda165f449",
+        "status" : "broken",
+        "time" : {
+          "duration" : 12083
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a97374316ba1e06847f67eda165f449"
+    }, {
+      "name" : "The element reference of <button id=\"menu-button--menu--22\" type=\"button\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200602222727, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 8072, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0e23524211c6fbd3fe0a259ad5b...} Session ID: 0e23524211c6fbd3fe0a259ad5bf7550b29db152",
+      "children" : [ {
+        "name" : "verifyHomePageMenuItemsTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+        "uid" : "f2baedeb72219f5a",
+        "parentUid" : "5c47a1fecff758f6ed1852a33f29428c",
+        "status" : "broken",
+        "time" : {
+          "duration" : 48362
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c47a1fecff758f6ed1852a33f29428c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

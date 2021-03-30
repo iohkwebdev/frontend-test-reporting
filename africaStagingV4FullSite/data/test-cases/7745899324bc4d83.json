@@ -1,0 +1,53 @@
+{
+  "uid" : "7745899324bc4d83",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "historyId" : "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 41404
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9549851a47d3d2da",
+      "name" : "System out",
+      "source" : "9549851a47d3d2da.txt",
+      "type" : "text/plain",
+      "size" : 28428
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "AfricaHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "AfricaHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "AfricaHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7745899324bc4d83.json",
+  "parameterValues" : [ ]
+}

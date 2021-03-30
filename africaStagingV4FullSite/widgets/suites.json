@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "5d034d17a026fc1db975ef3dc00403c4",
+    "name" : "AfricaHomePageTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 42
+    }
+  } ]
+}

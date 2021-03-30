@@ -1,0 +1,5 @@
+[ {
+  "name" : "Maven",
+  "type" : "maven",
+  "buildName" : "junit5-allure-report-testReporter"
+} ]

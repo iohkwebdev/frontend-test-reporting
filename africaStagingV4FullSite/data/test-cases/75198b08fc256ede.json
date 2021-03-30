@@ -1,0 +1,53 @@
+{
+  "uid" : "75198b08fc256ede",
+  "name" : "verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "historyId" : "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 69675
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9549851a47d3d2da",
+      "name" : "System out",
+      "source" : "9549851a47d3d2da.txt",
+      "type" : "text/plain",
+      "size" : 28428
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "AfricaHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "AfricaHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "AfricaHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75198b08fc256ede.json",
+  "parameterValues" : [ ]
+}

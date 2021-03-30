@@ -1,0 +1,722 @@
+{
+  "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1269fd5aaa698c67",
+      "status" : "passed",
+      "time" : {
+        "duration" : 42316
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyDiscoverAndLetsTalkLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2147aaaf74e5347d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19480
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyAllHomePageElementsPresentTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b51d6caffc9ac54",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22223
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePageMenuItemsTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a455a4bc90732d98",
+      "status" : "passed",
+      "time" : {
+        "duration" : 93068
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyVideosFromHomePageTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "809a852637e51582",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 968353291b2300d12c763fa6ddd..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 968353291b2300d12c763fa6dddca58b199755ba *** Element info: {Using=css selector, value=.videoModal iframe}",
+      "time" : {
+        "duration" : 12083
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyDiscoverAndLetsTalkLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6181f3ec91a2724f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 125145
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePageMenuItemsTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18c58b4d48a6b56b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 90708
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa37f77ad8a87fd5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 101846
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyAllHomePageElementsPresentTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2121b7b17204553c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 33092
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75198b08fc256ede",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69675
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bff7d64b29b669d",
+      "status" : "broken",
+      "statusDetails" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "duration" : 148010
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7745899324bc4d83",
+      "status" : "passed",
+      "time" : {
+        "duration" : 41404
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyVideosFromHomePageTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a4f6a6f135920dc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 121654
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyDiscoverAndLetsTalkLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c4f13cbe6e4f573",
+      "status" : "passed",
+      "time" : {
+        "duration" : 125977
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyVideosFromHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a31dc61b579c1da",
+      "status" : "passed",
+      "time" : {
+        "duration" : 121712
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifySocialLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33bbea7ad95deefe",
+      "status" : "passed",
+      "time" : {
+        "duration" : 61558
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyVideosFromHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57c3b0b77c14d253",
+      "status" : "passed",
+      "time" : {
+        "duration" : 126452
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePageMenuItemsTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "134ce7f0f0fde93",
+      "status" : "passed",
+      "time" : {
+        "duration" : 90633
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ccd2c94ec841ba",
+      "status" : "failed",
+      "statusDetails" : "Current url is not containing \"about:blank\"     Current url: https://bak.or.ke/",
+      "time" : {
+        "duration" : 18584
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyAllHomePageElementsPresentTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca2f7799d7f4c131",
+      "status" : "passed",
+      "time" : {
+        "duration" : 34756
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyDiscoverAndLetsTalkLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "934f599c9de937b4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 149885
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifySocialLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e700a56e7846953",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$305/0x0000000801007840@658a2b99 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 58b9536d87efdc0bfc3b82155b7..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 58b9536d87efdc0bfc3b82155b7e32a42d6b0ff4",
+      "time" : {
+        "duration" : 27729
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1767858873b0324",
+      "status" : "passed",
+      "time" : {
+        "duration" : 540839
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePageMenuItemsTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2af2a7354fe2abc9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 135333
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePageMenuItemsTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2baedeb72219f5a",
+      "status" : "broken",
+      "statusDetails" : "The element reference of <button id=\"menu-button--menu--22\" type=\"button\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200602222727, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 8072, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0e23524211c6fbd3fe0a259ad5b...} Session ID: 0e23524211c6fbd3fe0a259ad5bf7550b29db152",
+      "time" : {
+        "duration" : 48362
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78f53f240a915e91",
+      "status" : "passed",
+      "time" : {
+        "duration" : 126583
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyAllHomePageElementsPresentTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67f721a5af4b9b21",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23173
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifySocialLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2adf778d2f78817",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69286
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyAllHomePageElementsPresentTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24896e8a6ce6e172",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19620
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyAllHomePageElementsPresentTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81bf9aab3295b332",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22377
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyDiscoverAndLetsTalkLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a26db0a8606f2621",
+      "status" : "passed",
+      "time" : {
+        "duration" : 115065
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyDiscoverAndLetsTalkLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9888ea4ef2207472",
+      "status" : "passed",
+      "time" : {
+        "duration" : 123105
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85a3f7565674e7e4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$305/0x0000000801007840@514f20ee (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:18f5:e02:b13d:2315%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 62898b8662ba131d1ca481170b9..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 62898b8662ba131d1ca481170b91fb54a176074c",
+      "time" : {
+        "duration" : 29844
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePageMenuItemsTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b4f93503dae4a89",
+      "status" : "passed",
+      "time" : {
+        "duration" : 83168
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifySocialLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83d11d9aae35fe09",
+      "status" : "passed",
+      "time" : {
+        "duration" : 92499
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51559c9195168ffb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 319983
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47f339e2e57a2fee",
+      "status" : "passed",
+      "time" : {
+        "duration" : 60470
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifySocialLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e851b91541300fb0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 49998
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifySocialLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1afb9b8a59bc5a58",
+      "status" : "passed",
+      "time" : {
+        "duration" : 54806
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9544a9b38c731b4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 110786
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyVideosFromHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "425694c9dda9c3b5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 120747
+      }
+    } ]
+  },
+  "AfricaHomePageTest:AfricaHomePageTest#verifyVideosFromHomePageTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee198e645e65e14f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 119325
+      }
+    } ]
+  }
+}
