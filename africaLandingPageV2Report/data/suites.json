@@ -1,0 +1,541 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "DesktopTests.AfricaHomePageTest",
+    "children" : [ {
+      "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "22977a1558cdb1ef",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "65c864894408a449",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25915
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "de64bea6b50f74ed",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "broken",
+      "time" : {
+        "duration" : 16869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "c22c0c7139e917f0",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19811
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "cbd7e580227e6030",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "f504a9c8047534d2",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26410
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "3d5a7352ecaf2b39",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "860969813e8770a3",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10752
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "c4665be6cdc7d3c7",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 56615
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "38c106cc3d652ea5",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "d3bc4795255f170c",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "broken",
+      "time" : {
+        "duration" : 61395
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "eb4965b3144a9e86",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "9520bb075262f8e0",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18801
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "3c4f1814efdaac3d",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19698
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "990ec2a6e5070bd7",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "d981ec4711a63880",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18414
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "9e3fd785ba2d4349",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 32147
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "db967c8e1b275c3e",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "5c71fbe9ace5a9b",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "failed",
+      "time" : {
+        "duration" : 21734
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "1b195cacb5125d7c",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24476
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "6c2c26db3183b606",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "138ec3d495c1b83",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 187777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "b2fd4e2be2752d0a",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "broken",
+      "time" : {
+        "duration" : 17539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "178bd02154c830d9",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+      "uid" : "106f17d232b4b3ad",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "561c51294a606698",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22688
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "f44d7831d20ddb53",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "d1761d39a273cbb8",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 48563
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "c3e40b2c46af7baa",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22798
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "d087c52c124f5b20",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "fb7d33cd4d869644",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "failed",
+      "time" : {
+        "duration" : 39143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+      "uid" : "6b4eaeabbc5693b4",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17568
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"MAC\")",
+      "uid" : "92fa1e41d5744534",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23775
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+      "uid" : "4aea2024305c5f0d",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 127767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+      "uid" : "68668c248d75fdc5",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9050
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+      "uid" : "8ef3b96bff6633bb",
+      "parentUid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 44557
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5"
+  }, {
+    "name" : "MobileTests.AfricaMobileHomePageTest",
+    "children" : [ {
+      "name" : "verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "b004c3ec68cf1901",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "broken",
+      "time" : {
+        "duration" : 19472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "4df74d3fa93c15e8",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "broken",
+      "time" : {
+        "duration" : 27023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "b72ce63bbbd1868d",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 78125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySocialMediaLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "9690125903bf4d6c",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 84720
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "68ae98e762e79505",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 12125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "16ee6ede962dc875",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11545
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "33b3ced76c4de005",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "broken",
+      "time" : {
+        "duration" : 17714
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySignupSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "380b9039b30db239",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19320
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "de343c8bf3e039f3",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "broken",
+      "time" : {
+        "duration" : 20247
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyMobileHomePageMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "421667322e0ea1e2",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 144425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "f5892870a11ba1d7",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23136
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyMobileHomePageMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "e2f53e5341dc4d6e",
+      "parentUid" : "98308e743db171344a42d33601061690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "98308e743db171344a42d33601061690"
+  } ]
+}

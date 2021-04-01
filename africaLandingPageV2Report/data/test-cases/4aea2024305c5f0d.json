@@ -1,0 +1,53 @@
+{
+  "uid" : "4aea2024305c5f0d",
+  "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 127767
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c3ffc815bde4ec61",
+      "name" : "System out",
+      "source" : "c3ffc815bde4ec61.txt",
+      "type" : "text/plain",
+      "size" : 20764
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4aea2024305c5f0d.json",
+  "parameterValues" : [ ]
+}

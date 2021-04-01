@@ -1,0 +1,17 @@
+{
+  "reportName": "Cardano Africa Landing Page -> Staging Report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 2,
+    "broken": 7,
+    "skipped": 0,
+    "passed": 39,
+    "unknown": 0,
+    "total": 48
+  },
+  "time": {
+    "minDuration": 9050,
+    "maxDuration": 187777,
+    "sumDuration": 1648540
+  }
+}

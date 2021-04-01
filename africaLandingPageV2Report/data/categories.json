@@ -1,0 +1,143 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "An unknown server-side error occurred while processing the command. Original error: Blocked a frame with origin \"https://cardanoafrica-staging.netlify.app\" from accessing a cross-origin frame. Protocols, domains, and ports must match. Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001448942298802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: 829bb847686a5700e9a8c00aaa3d621942371515",
+      "children" : [ {
+        "name" : "verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "b004c3ec68cf1901",
+        "parentUid" : "aff21a60c71f315f2babd4d84afedbc7",
+        "status" : "broken",
+        "time" : {
+          "duration" : 19472
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aff21a60c71f315f2babd4d84afedbc7"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101ac40@21fa19e4 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 8bd3eb456c7c03ef323ede1fbfd..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 8bd3eb456c7c03ef323ede1fbfdf82d0d436ce30",
+      "children" : [ {
+        "name" : "verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "de64bea6b50f74ed",
+        "parentUid" : "58fb042f4eddba12454a5e60581ca986",
+        "status" : "broken",
+        "time" : {
+          "duration" : 16869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "58fb042f4eddba12454a5e60581ca986"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101ac40@2522bea6 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18084, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18084, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://85.20..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8204, udid: RFCN20BKBJR}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20BKBJR, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20BKBJR, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://85.20..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8204, takesScreenshot: true, udid: RFCN20BKBJR, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 21f8e938007a2235c6483be90feb174c899b2ae6",
+      "children" : [ {
+        "name" : "verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "4df74d3fa93c15e8",
+        "parentUid" : "2be253d64cd23f48451e8c940e11e684",
+        "status" : "broken",
+        "time" : {
+          "duration" : 27023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2be253d64cd23f48451e8c940e11e684"
+    }, {
+      "name" : "Failed to decode response from marionette Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200602222727, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 9300, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 22d954e638f31733819fe7500bf...} Session ID: 22d954e638f31733819fe7500bf05d07c4a7fe3b",
+      "children" : [ {
+        "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+        "uid" : "d3bc4795255f170c",
+        "parentUid" : "252dd72f4cff7421e9f28eb20983e401",
+        "status" : "broken",
+        "time" : {
+          "duration" : 61395
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "252dd72f4cff7421e9f28eb20983e401"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101ac40@25b531b2 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001E59EE3CDB802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: d3b0448b066e5a54c19ce14cd9bc5e8b6cf04896",
+      "children" : [ {
+        "name" : "verifyNavBarButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "33b3ced76c4de005",
+        "parentUid" : "49f4982c7cc4affbd8d7c8220777da92",
+        "status" : "broken",
+        "time" : {
+          "duration" : 17714
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49f4982c7cc4affbd8d7c8220777da92"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101ac40@37b04a2a (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 07db390a8483f690f684ec13496..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 07db390a8483f690f684ec1349651b542d22745b",
+      "children" : [ {
+        "name" : "verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "b2fd4e2be2752d0a",
+        "parentUid" : "5fba61756cb06f845ef40f5a10f3c389",
+        "status" : "broken",
+        "time" : {
+          "duration" : 17539
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5fba61756cb06f845ef40f5a10f3c389"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ytp-progress-bar\"}   (Session info: chrome=88.0.4324.93) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1ce9:af0f:3b1c:cefe%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18083, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18083, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8203, udid: RFCN20SFE3R}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SFE3R, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SFE3R, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8203, takesScreenshot: true, udid: RFCN20SFE3R, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 4474b6f85010a90204b00e4e1969565d498f41bd *** Element info: {Using=css selector, value=.ytp-progress-bar}",
+      "children" : [ {
+        "name" : "verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "de343c8bf3e039f3",
+        "parentUid" : "cdfd9431636ecbfc8923f246d0b28bde",
+        "status" : "broken",
+        "time" : {
+          "duration" : 20247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cdfd9431636ecbfc8923f246d0b28bde"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "children" : [ {
+        "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")",
+        "uid" : "5c71fbe9ace5a9b",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 21734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")",
+        "uid" : "fb7d33cd4d869644",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 39143
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
