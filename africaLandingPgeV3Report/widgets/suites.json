@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+    "name" : "DesktopTests.AfricaHomePageTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 42
+    }
+  }, {
+    "uid" : "98308e743db171344a42d33601061690",
+    "name" : "MobileTests.AfricaMobileHomePageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 12
+    }
+  } ]
+}

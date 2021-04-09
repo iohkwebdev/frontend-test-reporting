@@ -1,0 +1,929 @@
+{
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acd387554fa1bfad",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24307
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c48057061f5059ba",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19532
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2777eda36a3a284d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17011
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyMobileHomePageMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cca516a3c51ef04b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23949
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyMobileHomePageMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6330435b5a10ddc6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 144151
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33674e6c7c6e6f26",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22273
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "128751817d1ae569",
+      "status" : "passed",
+      "time" : {
+        "duration" : 47187
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySignupSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72aa6173ebbe5e55",
+      "status" : "passed",
+      "time" : {
+        "duration" : 16593
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b59c8410d35269d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10288
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1e29b32e9fd599",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27544
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cc40d2fe982fff3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22095
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e968cfe05c2cfe5b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 28413
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89ec892be9f3460a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11938
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c9423e8b10cbd63",
+      "status" : "passed",
+      "time" : {
+        "duration" : 21974
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c9446e2492c8807",
+      "status" : "broken",
+      "statusDetails" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "duration" : 84645
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76314b9802f2a914",
+      "status" : "passed",
+      "time" : {
+        "duration" : 76443
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2319a94ddb7415ca",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17976
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b372a0bcaa510df1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22998
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyVideoSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76bb8fa134cd389c",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Blocked a frame with origin \"https://cardanoafrica-staging.netlify.app\" from accessing a cross-origin frame. Protocols, domains, and ports must match. Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001448942298802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: f581cd5130fd6d499a58bec4801f71bfba19f848",
+      "time" : {
+        "duration" : 18109
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5229f9f4cfa3fe02",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26441
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15cee68c2e0c57d4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20810
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efb8fa392d073654",
+      "status" : "passed",
+      "time" : {
+        "duration" : 23106
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5dedf6e2d78a0971",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11442
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35560936e6d54891",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24008
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e2b5a22bea5ef94",
+      "status" : "passed",
+      "time" : {
+        "duration" : 46376
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b88f6989cbf71bb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9485
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySocialMediaLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bdf512a631fd0fc1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 118412
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "939e464b37087a86",
+      "status" : "broken",
+      "statusDetails" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "duration" : 57458
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f53a54c9abbaf8e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 30769
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0403da28e7380d0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17224
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "118a9563d83c7a69",
+      "status" : "passed",
+      "time" : {
+        "duration" : 77560
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c06f73c85b3fae77",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15619
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "100c57ac448abe94",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101a440@6c056020 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 527a96bec694173f00ca2945cc5..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 527a96bec694173f00ca2945cc5a1d4940a13aec",
+      "time" : {
+        "duration" : 15092
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13940edb5cf84250",
+      "status" : "passed",
+      "time" : {
+        "duration" : 306197
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77e99a5c0d035e19",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11054
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "964aaf6eed6f4658",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26575
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84fbaa10ec19e013",
+      "status" : "passed",
+      "time" : {
+        "duration" : 67462
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a639b86d6dc93e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17441
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27d7631ad64facb0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 675853
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a721db85a55a3acc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22241
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6f255240df16bd3",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101a440@68997634 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18086, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18086, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8206, udid: RFCN20RBXQB}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20RBXQB, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20RBXQB, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8206, takesScreenshot: true, udid: RFCN20RBXQB, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: b757de8d8b98592ccad06e1c0f9e9980449f0511",
+      "time" : {
+        "duration" : 23921
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55be51b423831edd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 51998
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "beaeb753e3f263d4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39452
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyVideoSection@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "551910d0cc83a448",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24249
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54ea0823c7f921be",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13691
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyNavBarButtonsTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaa29df8e141902b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 142595
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyVideoSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f1206882acd2d88",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ytp-progress-bar\"}   (Session info: chrome=88.0.4324.93) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18080, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18080, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8200, udid: RFCN20SGQQB}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SGQQB, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SGQQB, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8200, takesScreenshot: true, udid: RFCN20SGQQB, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 1366a0cfb4ef25a1bd7c94ccfdf14bbd104e54e9 *** Element info: {Using=css selector, value=.ytp-progress-bar}",
+      "time" : {
+        "duration" : 18996
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6047526566e2ac7f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101a440@22071f0 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: a053b07d027390a317f9facfd99..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: a053b07d027390a317f9facfd990573e3652a75a",
+      "time" : {
+        "duration" : 16296
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c31f98024467f063",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24131
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a020259a1172345",
+      "status" : "passed",
+      "time" : {
+        "duration" : 33345
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d784378be78bb6d6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8030
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "794d96da093b8919",
+      "status" : "failed",
+      "statusDetails" : "Current url is not containing \"about:blank\"     Current url: https://chaptrglobal.com/",
+      "time" : {
+        "duration" : 49858
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9423eff974ed3bc9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 56602
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1a69fc29dea35b",
+      "status" : "broken",
+      "statusDetails" : "Failed to decode response from marionette Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:c09:7f74:2e8e:a7b9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200602222727, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7368, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0a195c329ed5503471cf473cb0d...} Session ID: 0a195c329ed5503471cf473cb0d9d870fc740bdc",
+      "time" : {
+        "duration" : 37461
+      }
+    } ]
+  }
+}

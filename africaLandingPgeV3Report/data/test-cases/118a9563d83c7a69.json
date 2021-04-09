@@ -1,0 +1,53 @@
+{
+  "uid" : "118a9563d83c7a69",
+  "name" : "verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 77560
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bf3b0017377e082f",
+      "name" : "System out",
+      "source" : "bf3b0017377e082f.txt",
+      "type" : "text/plain",
+      "size" : 17516
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "118a9563d83c7a69.json",
+  "parameterValues" : [ ]
+}
