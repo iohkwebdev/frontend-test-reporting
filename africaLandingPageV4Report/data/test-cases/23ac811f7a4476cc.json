@@ -1,0 +1,53 @@
+{
+  "uid" : "23ac811f7a4476cc",
+  "name" : "verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "historyId" : "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 73693
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ec411c347e510af6",
+      "name" : "System out",
+      "source" : "ec411c347e510af6.txt",
+      "type" : "text/plain",
+      "size" : 24486
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTests.AfricaHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23ac811f7a4476cc.json",
+  "parameterValues" : [ ]
+}

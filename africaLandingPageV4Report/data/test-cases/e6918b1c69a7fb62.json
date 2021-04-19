@@ -1,0 +1,53 @@
+{
+  "uid" : "e6918b1c69a7fb62",
+  "name" : "verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 11252
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1e34f0e956883cf2",
+      "name" : "System out",
+      "source" : "1e34f0e956883cf2.txt",
+      "type" : "text/plain",
+      "size" : 14561
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6918b1c69a7fb62.json",
+  "parameterValues" : [ ]
+}

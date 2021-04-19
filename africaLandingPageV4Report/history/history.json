@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5d7d8b8f759afd04",
+      "uid" : "a6df3becf0642969",
       "status" : "passed",
       "time" : {
         "duration" : 20202
@@ -26,7 +26,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a23544b88314793d",
+      "uid" : "bd4a68eb94c6f985",
       "status" : "passed",
       "time" : {
         "duration" : 16840
@@ -43,7 +43,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "319f430188fdb84c",
+      "uid" : "1bb60c2cca57139f",
       "status" : "passed",
       "time" : {
         "duration" : 17339
@@ -60,7 +60,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "aa53d2db22fcc791",
+      "uid" : "3450e78d618165b1",
       "status" : "passed",
       "time" : {
         "duration" : 19262
@@ -77,7 +77,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "532834ee6baf38c8",
+      "uid" : "e8106279f4353516",
       "status" : "passed",
       "time" : {
         "duration" : 79444
@@ -94,7 +94,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8acbb4c82bea8848",
+      "uid" : "aef46973b10ff127",
       "status" : "passed",
       "time" : {
         "duration" : 74094
@@ -111,7 +111,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2626c56890816fb3",
+      "uid" : "f4fe17905fa9612a",
       "status" : "passed",
       "time" : {
         "duration" : 221906
@@ -128,7 +128,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1a6d2a2a5e94b67e",
+      "uid" : "e11e660005801fde",
       "status" : "passed",
       "time" : {
         "duration" : 23046
@@ -145,7 +145,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c5a36be0918c204c",
+      "uid" : "11678bc725849f80",
       "status" : "passed",
       "time" : {
         "duration" : 23771
@@ -162,7 +162,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f5eb1294e0cae7c8",
+      "uid" : "e9c82ff7ae546880",
       "status" : "passed",
       "time" : {
         "duration" : 144558
@@ -179,7 +179,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3b673f2b207701b",
+      "uid" : "771df8f2697313",
       "status" : "broken",
       "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$293/0x0000000800f23040@6705b763 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:d11b:c17:52c5:116d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 422e3a8445022a4ed514305132a..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 422e3a8445022a4ed514305132abc6d40a3f226b",
       "time" : {
@@ -197,7 +197,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "106edec8ff6557ec",
+      "uid" : "2f573be7efac1406",
       "status" : "passed",
       "time" : {
         "duration" : 174121
@@ -214,7 +214,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f6665f27cc7f16b",
+      "uid" : "658f72a6f9c94f04",
       "status" : "passed",
       "time" : {
         "duration" : 10779
@@ -231,7 +231,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b5bb59a7749a32e6",
+      "uid" : "d427275ba32d3e83",
       "status" : "passed",
       "time" : {
         "duration" : 23157
@@ -248,7 +248,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5f2f877ec7fc1be8",
+      "uid" : "23ac811f7a4476cc",
       "status" : "passed",
       "time" : {
         "duration" : 73693
@@ -265,7 +265,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9681910411dc83d5",
+      "uid" : "e14f994a892d5e0c",
       "status" : "passed",
       "time" : {
         "duration" : 17555
@@ -282,7 +282,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c885c15bbdd6c86d",
+      "uid" : "bdb97d7c822bbe20",
       "status" : "passed",
       "time" : {
         "duration" : 20076
@@ -299,7 +299,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2de43f5773f36444",
+      "uid" : "a5587c4a3ca08b0",
       "status" : "passed",
       "time" : {
         "duration" : 138431
@@ -316,7 +316,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2b046c7f7d0cd1c6",
+      "uid" : "c8113b1e1c312db4",
       "status" : "passed",
       "time" : {
         "duration" : 10072
@@ -333,62 +333,11 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b75507920769cfb6",
+      "uid" : "b07861f59289a459",
       "status" : "broken",
       "statusDetails" : "Index 1 out of bounds for length 0",
       "time" : {
         "duration" : 79509
-      }
-    } ]
-  },
-  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "f5b8eddcefb50772",
-      "status" : "passed",
-      "time" : {
-        "duration" : 25187
-      }
-    } ]
-  },
-  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "11d34544ab16f40d",
-      "status" : "passed",
-      "time" : {
-        "duration" : 61727
-      }
-    } ]
-  },
-  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "83f5b91c2a650e",
-      "status" : "passed",
-      "time" : {
-        "duration" : 22250
       }
     } ]
   },
@@ -402,11 +351,62 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "312189bc9259afdc",
+      "uid" : "d43ade963a328ec6",
       "status" : "broken",
       "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$293/0x0000000800f23040@3dcafc9c (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:d11b:c17:52c5:116d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18084, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18084, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8204, udid: RFCN20SGR9H}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SGR9H, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SGR9H, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8204, takesScreenshot: true, udid: RFCN20SGR9H, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 7f979b920e0c79097dd6b524047d1f723378222b",
       "time" : {
         "duration" : 23702
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b266a27a53c4fe1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 61727
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdbbde944f15b753",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25187
+      }
+    } ]
+  },
+  "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90d1bf7ea41cf4e3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22250
       }
     } ]
   },
@@ -420,27 +420,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "719eaacafe49ed89",
+      "uid" : "c95e291788113a37",
       "status" : "passed",
       "time" : {
         "duration" : 27078
-      }
-    } ]
-  },
-  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "8067ea11a5886c06",
-      "status" : "passed",
-      "time" : {
-        "duration" : 17308
       }
     } ]
   },
@@ -454,10 +437,27 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "995548c1d2b1f12b",
+      "uid" : "e81e812c6d572d75",
       "status" : "passed",
       "time" : {
         "duration" : 11931
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1949c174f01ccd3c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17308
       }
     } ]
   },
@@ -471,27 +471,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ac355c47a58f3ecd",
+      "uid" : "ed81b21147290410",
       "status" : "passed",
       "time" : {
         "duration" : 141583
-      }
-    } ]
-  },
-  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "1a1984030a63c9ac",
-      "status" : "passed",
-      "time" : {
-        "duration" : 74406
       }
     } ]
   },
@@ -505,14 +488,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1baa16dcf4f73aa6",
+      "uid" : "ba521def96827b8a",
       "status" : "failed",
       "time" : {
         "duration" : 92465
       }
     } ]
   },
-  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -522,10 +505,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dcfc4758e0afc011",
+      "uid" : "ffd48ccec2fc5c3c",
       "status" : "passed",
       "time" : {
-        "duration" : 18559
+        "duration" : 74406
       }
     } ]
   },
@@ -539,10 +522,27 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e6b314e8d8cdbde9",
+      "uid" : "530e47bc17de15ba",
       "status" : "passed",
       "time" : {
         "duration" : 23055
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9a3bb906d3ac327",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18559
       }
     } ]
   },
@@ -556,7 +556,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9df69be2dbc2a471",
+      "uid" : "5423d17345394db3",
       "status" : "broken",
       "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$293/0x0000000800f23040@cfe72b0 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:d11b:c17:52c5:116d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 06e45aab851462631a354cb1b6f..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 06e45aab851462631a354cb1b6fa6f67b5473ff5",
       "time" : {
@@ -574,7 +574,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a92fde21da47b1e0",
+      "uid" : "873a58f517f4a727",
       "status" : "passed",
       "time" : {
         "duration" : 26624
@@ -591,7 +591,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1595aaa9229f1653",
+      "uid" : "e577f096aab0e449",
       "status" : "passed",
       "time" : {
         "duration" : 17265
@@ -608,7 +608,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ede64ab3079fea21",
+      "uid" : "900b264af9babbb5",
       "status" : "passed",
       "time" : {
         "duration" : 21162
@@ -625,7 +625,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "750331d9ec00571a",
+      "uid" : "7db88c697a2b5d1b",
       "status" : "passed",
       "time" : {
         "duration" : 20681
@@ -642,7 +642,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d3cb8c3897b2f569",
+      "uid" : "6cd9f5003abf5191",
       "status" : "passed",
       "time" : {
         "duration" : 9407
@@ -659,7 +659,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "71a9302029d68af3",
+      "uid" : "e6314bbbea59ca87",
       "status" : "passed",
       "time" : {
         "duration" : 12951
@@ -676,27 +676,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "53d57c9627825130",
+      "uid" : "5c94cea1bef92009",
       "status" : "passed",
       "time" : {
         "duration" : 27539
-      }
-    } ]
-  },
-  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d3482d66fa6cad7c",
-      "status" : "failed",
-      "time" : {
-        "duration" : 92849
       }
     } ]
   },
@@ -710,10 +693,27 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e1227b29e8b7a755",
+      "uid" : "edbbf5c8f73bc530",
       "status" : "passed",
       "time" : {
         "duration" : 46355
+      }
+    } ]
+  },
+  "DesktopTests.AfricaHomePageTest:DesktopTests.AfricaHomePageTest#verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "932c7055a2f0df2a",
+      "status" : "failed",
+      "time" : {
+        "duration" : 92849
       }
     } ]
   },
@@ -727,7 +727,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "685e4ce00e3ab913",
+      "uid" : "535e41b1d0394c3e",
       "status" : "broken",
       "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$293/0x0000000800f23040@5ad92945 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:d11b:c17:52c5:116d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18084, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18084, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8204, udid: RFCN20RCVTW}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20RCVTW, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20RCVTW, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8204, takesScreenshot: true, udid: RFCN20RCVTW, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: fad531061c59d7abfa56af23d3a61342c61f3f2f",
       "time" : {
@@ -745,7 +745,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "94c41a8ceccbdc39",
+      "uid" : "c1ffdc02f9d4de7",
       "status" : "passed",
       "time" : {
         "duration" : 47957
@@ -762,7 +762,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "474f61f9ea0c7fed",
+      "uid" : "e6918b1c69a7fb62",
       "status" : "passed",
       "time" : {
         "duration" : 11252
@@ -779,7 +779,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "96159e9633b73aa6",
+      "uid" : "3e5d45e875cdfe7c",
       "status" : "passed",
       "time" : {
         "duration" : 79523
@@ -796,7 +796,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "26f9c9a9014c1b4e",
+      "uid" : "f10f51333d05306c",
       "status" : "broken",
       "statusDetails" : "Browsing context has been discarded Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:d11b:c17:52c5:116d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 77.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200602222727, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7112, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 652ff856112af50f04109e00087...} Session ID: 652ff856112af50f04109e00087e40c5a1c1ff70",
       "time" : {
@@ -814,7 +814,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e334c3d2472f58a2",
+      "uid" : "873424847f47b96b",
       "status" : "broken",
       "statusDetails" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:d11b:c17:52c5:116d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
       "time" : {
