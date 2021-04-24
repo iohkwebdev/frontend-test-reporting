@@ -1,0 +1,17 @@
+{
+  "reportName" : "Africa Landing Page Regression Test Report",
+  "testRuns" : [ ],
+  "statistic" : {
+    "failed" : 1,
+    "broken" : 9,
+    "skipped" : 0,
+    "passed" : 38,
+    "unknown" : 0,
+    "total" : 48
+  },
+  "time" : {
+    "minDuration" : 10942,
+    "maxDuration" : 311178,
+    "sumDuration" : 2306135
+  }
+}
