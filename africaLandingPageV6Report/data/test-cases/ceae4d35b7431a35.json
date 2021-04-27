@@ -1,0 +1,53 @@
+{
+  "uid" : "ceae4d35b7431a35",
+  "name" : "verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileTests.AfricaMobileHomePageTest:MobileTests.AfricaMobileHomePageTest#verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 16994
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "27cdc0d415060c3e",
+      "name" : "System out",
+      "source" : "27cdc0d415060c3e.txt",
+      "type" : "text/plain",
+      "size" : 9312
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTests.AfricaMobileHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ceae4d35b7431a35.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,433 @@
+[ {
+  "uid" : "dd8737eca00bc9f8",
+  "name" : "verifyPartnerLogoButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 13870
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "f1e487743b628659",
+  "name" : "verifyNavBarButtonsTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13812
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8d7a3c3f5894789a",
+  "name" : "verifySignUpSectionTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21820
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "420f1ec2b7e8d262",
+  "name" : "verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19625
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6d9671b94cc05b6a",
+  "name" : "verifyFooterLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 9496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ab7679a2571ef5d",
+  "name" : "verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15190
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "c8be4196b5b555b",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 14845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5338496c27187bb0",
+  "name" : "verifyHomePagePartnerLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 573328
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "dc7bf74f54d878fd",
+  "name" : "verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15710
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "cfeaf50cfd156c7c",
+  "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 19122
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "aecac5162a91aa68",
+  "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19775
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5ea53ed6171741d3",
+  "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 26568
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1bef67495f30e13f",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 12562
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0fa8ea98debb51",
+  "name" : "verifyHomePageTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13291
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1afa6de027ce8fa",
+  "name" : "verifySignUpSectionTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 19853
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3749833e00732b9f",
+  "name" : "verifyFooterLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 8775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46ca9727709c5899",
+  "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 16945
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "594538859d070983",
+  "name" : "verifyPartnerLogoButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 205849
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "511d5b18407a6a90",
+  "name" : "verifyNavBarButtonsTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 16861
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c2820bd58c3af481",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 12013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea9c44a72e80b3ec",
+  "name" : "verifyMobileHomePageMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 19132
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "69128e4d6ef9ff43",
+  "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 58683
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d7e92bb62f69bae2",
+  "name" : "verifyHomePageTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 45972
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9f8dd291c99fdef5",
+  "name" : "verifyVideoSection@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 60750
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9ca205f9976d0bb6",
+  "name" : "verifyNavBarButtonsTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 25070
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3c6e7f9d26ef707b",
+  "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 25435
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a1bb04d100e9955e",
+  "name" : "verifySocialMediaLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 71948
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fb7b40f382c4f532",
+  "name" : "verifyVideoSection@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 33174
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7d2415d9f53bde3c",
+  "name" : "verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 370723
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1ca89ddf6b3c3e64",
+  "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 18726
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "14fce9018b500458",
+  "name" : "verifyFooterLinksTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 12253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca6c40b8e3355ddc",
+  "name" : "verifyVideoSection@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 28615
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "dc2f878e102a937d",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 13374
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f40edd827f02e60",
+  "name" : "verifySignupSectionMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 74764
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bed2391051ce52ed",
+  "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 55278
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d881864c6ea5f441",
+  "name" : "verifySocialMediaLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 47389
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b1f447a16a033381",
+  "name" : "verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 324352
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "2eb53d19e34b9234",
+  "name" : "verifyNavBarButtonsTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 16733
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c2c21788efaa474",
+  "name" : "verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 17076
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "490cd955aa9b7957",
+  "name" : "verifySocialMediaLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 45607
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "4674210ba9f01fcd",
+  "name" : "verifySocialMediaLinksMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 80455
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ceae4d35b7431a35",
+  "name" : "verifyNavBarButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 16994
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d14cef49c04738f2",
+  "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 20257
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "49a8fedd40164daa",
+  "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 22007
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "6dc0811a75b03d5f",
+  "name" : "verifySocialMediaLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 55052
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "144c83dc4269db98",
+  "name" : "verifyNavBarButtonsTest@Chrome(version=\"87\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 20552
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ac09dc6a3e401830",
+  "name" : "verifyNavBarButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 73199
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f92c10179e921912",
+  "name" : "verifySignupSectionMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 16160
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8fbed1a81581747a",
+  "name" : "verifyFooterLinksMobileTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 9337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b04c8830a6cd4c9",
+  "name" : "verifyHomePageTest@Edge(version=\"83\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 35934
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "89679c463e83ea7d",
+  "name" : "verifySignUpSectionTest@Chrome(version=\"87\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 18464
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c8becfbeaeba208e",
+  "name" : "verifyHomePageTest@Firefox(version=\"77\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19960
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "625592090d3de81",
+  "name" : "verifyVideoSection@Safari(version=\"13\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22889
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d22fd1ee7eca7361",
+  "name" : "verifyMobileHomePageMobileTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 117208
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

@@ -1,0 +1,117 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101a440@267a3722 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:447:7316:c83f:4f97%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8202, udid: RFCN20SFJ8Y}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SFJ8Y, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SFJ8Y, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20SFJ8Y, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: c8200d13b5c5ed2913e62189acd95b1b82b3fa3e",
+      "children" : [ {
+        "name" : "verifyPartnerLogoButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "dd8737eca00bc9f8",
+        "parentUid" : "867a9d7cfaeda159bddd2d230986a4b3",
+        "status" : "broken",
+        "time" : {
+          "duration" : 13870
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "867a9d7cfaeda159bddd2d230986a4b3"
+    }, {
+      "name" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:447:7316:c83f:4f97%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "verifyHomePagePartnerLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "8ab7679a2571ef5d",
+        "parentUid" : "a8e47b075d4124c875d73b51baf24603",
+        "status" : "broken",
+        "time" : {
+          "duration" : 15190
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePagePartnerLinksTest@Chrome(version=\"87\", platform=\"MAC\")",
+        "uid" : "b1f447a16a033381",
+        "parentUid" : "a8e47b075d4124c875d73b51baf24603",
+        "status" : "broken",
+        "time" : {
+          "duration" : 324352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"MAC\")",
+        "uid" : "d14cef49c04738f2",
+        "parentUid" : "a8e47b075d4124c875d73b51baf24603",
+        "status" : "broken",
+        "time" : {
+          "duration" : 20257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"77\", platform=\"WINDOWS\")",
+        "uid" : "49a8fedd40164daa",
+        "parentUid" : "a8e47b075d4124c875d73b51baf24603",
+        "status" : "broken",
+        "time" : {
+          "duration" : 22007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8e47b075d4124c875d73b51baf24603"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101a440@2258228f (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:447:7316:c83f:4f97%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: ec0d3a7fc19b940a3425a71c101..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: ec0d3a7fc19b940a3425a71c101e12a517350561",
+      "children" : [ {
+        "name" : "verifySignUpSectionTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "dc7bf74f54d878fd",
+        "parentUid" : "8062a14b441995c212bc70295ec24f02",
+        "status" : "broken",
+        "time" : {
+          "duration" : 15710
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8062a14b441995c212bc70295ec24f02"
+    }, {
+      "name" : "Index 3 out of bounds for length 0",
+      "children" : [ {
+        "name" : "verifyPartnerLogoButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "594538859d070983",
+        "parentUid" : "d8e2724cc95806ad00087d2020c4e062",
+        "status" : "broken",
+        "time" : {
+          "duration" : 205849
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d8e2724cc95806ad00087d2020c4e062"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$332/0x000000080101a440@eb09112 (tried for 3 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:447:7316:c83f:4f97%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 13.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 19G2021, safari:platformVersion: 10.15.6, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 68d14dc2efa1176dec5420290f2..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 68d14dc2efa1176dec5420290f2809891ce47fb4",
+      "children" : [ {
+        "name" : "verifySocialMediaLinksTest@Safari(version=\"13\", platform=\"MAC\")",
+        "uid" : "c2c21788efaa474",
+        "parentUid" : "2df1d1f41b631d71976c196b8ce06055",
+        "status" : "broken",
+        "time" : {
+          "duration" : 17076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2df1d1f41b631d71976c196b8ce06055"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
