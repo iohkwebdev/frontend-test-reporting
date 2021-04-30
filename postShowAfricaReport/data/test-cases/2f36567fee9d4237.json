@@ -1,0 +1,53 @@
+{
+  "uid" : "2f36567fee9d4237",
+  "name" : "verifyContactFormTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTests.MobileContactTest:MobileTests.MobileContactTest#verifyContactFormTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 34579
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f847d3ed5b26f5ef",
+      "name" : "System out",
+      "source" : "f847d3ed5b26f5ef.txt",
+      "type" : "text/plain",
+      "size" : 22532
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTests.MobileContactTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTests.MobileContactTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTests.MobileContactTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f36567fee9d4237.json",
+  "parameterValues" : [ ]
+}

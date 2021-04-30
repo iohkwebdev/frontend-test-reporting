@@ -1,0 +1,176 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Element is no longer attached to the DOM For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:592f:320f:9a3a:512%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-0010185A1A85802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: eac52da34a07c2e85eda687d0fdc129a25d0f242",
+      "children" : [ {
+        "name" : "verifyFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "31762a37baa26b77",
+        "parentUid" : "f27fe1198389ef342cd076f13ad62f8b",
+        "status" : "broken",
+        "time" : {
+          "duration" : 17895
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f27fe1198389ef342cd076f13ad62f8b"
+    }, {
+      "name" : "An unknown server-side error occurred while processing the command. Original error: Blocked a frame with origin \"https://cardanoafrica-staging.netlify.app\" from accessing a cross-origin frame. Protocols, domains, and ports must match. Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:592f:320f:9a3a:512%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-00143532368B802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: c340c68a6cf09804e99f783732cbdcedebb6f8d1",
+      "children" : [ {
+        "name" : "verifyVideosFromHomePageTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "d5b3bea0ff91eb5c",
+        "parentUid" : "a4fcd8eb9d19ca9ae625f9796bde8422",
+        "status" : "broken",
+        "time" : {
+          "duration" : 16781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a4fcd8eb9d19ca9ae625f9796bde8422"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ytp-progress-bar\"}   (Session info: chrome=89.0.4389.105) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:592f:320f:9a3a:512%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8202, udid: RFCN20RCTDV}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20RCTDV, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20RCTDV, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20RCTDV, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: c3fbdbd345958f89114b358a252953d43295f5d3 *** Element info: {Using=css selector, value=.ytp-progress-bar}",
+      "children" : [ {
+        "name" : "verifyVideosFromHomePageTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "82060d2a08a7bd34",
+        "parentUid" : "1ca27115ac9711d0e50b6b69e49db53a",
+        "status" : "broken",
+        "time" : {
+          "duration" : 19410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1ca27115ac9711d0e50b6b69e49db53a"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=89.0.4389.105) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: '2a02:2f0e:70b:b600:592f:320f:9a3a:512%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://85.20..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8202, udid: RFCN20AXNSV}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20AXNSV, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20AXNSV, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://85.20..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20AXNSV, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: a9bb0085ad8b9c9fb604ec7d8872304dcec6f607",
+      "children" : [ {
+        "name" : "verifyFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "290043bb42f2d509",
+        "parentUid" : "092035a9bd3266857d7c28ecfd32fade",
+        "status" : "broken",
+        "time" : {
+          "duration" : 14957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "092035a9bd3266857d7c28ecfd32fade"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element is not displayed",
+      "children" : [ {
+        "name" : "verifyContactFormTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "84d259649318424",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 23798
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a59b5351c4689bc6959c6affe8ae3c"
+    }, {
+      "name" : "Current url is not containing \"https://www.youtube.com/c/IohkIo\"     Current url: https://cardanoafrica-staging.netlify.app/",
+      "children" : [ {
+        "name" : "verifySocialLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "d9b99e201ef2a448",
+        "parentUid" : "52261b4c5fe4a916374e55daedb8a7f0",
+        "status" : "failed",
+        "time" : {
+          "duration" : 39624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySocialLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "56e08d29dd7fa73d",
+        "parentUid" : "52261b4c5fe4a916374e55daedb8a7f0",
+        "status" : "failed",
+        "time" : {
+          "duration" : 40995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52261b4c5fe4a916374e55daedb8a7f0"
+    }, {
+      "children" : [ {
+        "name" : "verifySocialLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "e70b9ae43c7f5974",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 139433
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "2e7c6f420ea31d0a",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 145227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "90ed0a16438534e1",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 17049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySocialLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "fbd9c7622ad6e26b",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 139766
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    }, {
+      "name" : "Current url is not containing \"about:blank\"     Current url: https://sonergy.io/",
+      "children" : [ {
+        "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "b05f0ed32adca487",
+        "parentUid" : "192c05690b4cda06e85a607c1b3c4203",
+        "status" : "failed",
+        "time" : {
+          "duration" : 19027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "192c05690b4cda06e85a607c1b3c4203"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

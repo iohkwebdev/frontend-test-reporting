@@ -1,0 +1,53 @@
+{
+  "uid" : "6650e44f6541fa89",
+  "name" : "verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "DesktopTests.AfricaContactTest:DesktopTests.AfricaContactTest#verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 37400
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8c156a4e81d3cfd",
+      "name" : "System out",
+      "source" : "8c156a4e81d3cfd.txt",
+      "type" : "text/plain",
+      "size" : 279
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTests.AfricaContactTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTests.AfricaContactTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTests.AfricaContactTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6650e44f6541fa89.json",
+  "parameterValues" : [ ]
+}

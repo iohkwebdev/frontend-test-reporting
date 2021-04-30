@@ -1,0 +1,53 @@
+{
+  "uid" : "84f7a12ad4c9005e",
+  "name" : "verifySocialLinks@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTests.AfricaContactTest:DesktopTests.AfricaContactTest#verifySocialLinks@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 42030
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8c156a4e81d3cfd",
+      "name" : "System out",
+      "source" : "8c156a4e81d3cfd.txt",
+      "type" : "text/plain",
+      "size" : 279
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTests.AfricaContactTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTests.AfricaContactTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTests.AfricaContactTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "84f7a12ad4c9005e.json",
+  "parameterValues" : [ ]
+}

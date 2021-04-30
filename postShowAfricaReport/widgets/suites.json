@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "63246dc21bf8faab2492e826da254431",
+    "name" : "MobileTests.MobileHomeTest",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 14
+    }
+  }, {
+    "uid" : "34644117343748eb04ea9ada06b36773",
+    "name" : "MobileTests.MobileContactTest",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "2bca1c6c1ef0a2e5fa02050b6f36bde5",
+    "name" : "DesktopTests.AfricaHomePageTest",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 40,
+      "unknown" : 0,
+      "total" : 42
+    }
+  }, {
+    "uid" : "e8c35154a8143f476ed1a6a4944b1e78",
+    "name" : "DesktopTests.AfricaContactTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    }
+  } ]
+}

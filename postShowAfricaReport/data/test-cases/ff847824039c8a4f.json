@@ -1,0 +1,53 @@
+{
+  "uid" : "ff847824039c8a4f",
+  "name" : "verifyHomePagePartnerLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTests.MobileHomeTest:MobileTests.MobileHomeTest#verifyHomePagePartnerLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 34219
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9df440f4c362c469",
+      "name" : "System out",
+      "source" : "9df440f4c362c469.txt",
+      "type" : "text/plain",
+      "size" : 23773
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTests.MobileHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTests.MobileHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTests.MobileHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff847824039c8a4f.json",
+  "parameterValues" : [ ]
+}

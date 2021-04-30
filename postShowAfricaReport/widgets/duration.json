@@ -1,0 +1,641 @@
+[ {
+  "uid" : "c3e93e74b49b61c9",
+  "name" : "verifyHomePageMenuItemsTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "248c4807d9dbec8d",
+  "name" : "verifyFooterLinks@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 108016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b00ea043163058d3",
+  "name" : "verifyHomePagePartnerLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 142219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36764769d5c533a8",
+  "name" : "verifyContactForm@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 27072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31762a37baa26b77",
+  "name" : "verifyFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 17895
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2ef32ce84c0cf304",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 12443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96ac181c98d3676f",
+  "name" : "verifyVideosFromHomePageTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 183392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9a51562fb83400e",
+  "name" : "verifyAllHomePageElementsPresentTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 17217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84d259649318424",
+  "name" : "verifyContactFormTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 23798
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f7ca6ff49c123e6",
+  "name" : "verifySocialLinks@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 45858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f36567fee9d4237",
+  "name" : "verifyContactFormTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 34579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd0210b6bb3c9800",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 47175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db8caa7fc3f1a676",
+  "name" : "verifyHomePagePartnerLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 84803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "351a94f614ef674f",
+  "name" : "verifyAllHomePageElementsPresentTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 32140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83658a8acafb3f65",
+  "name" : "verifyFooterLinks@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 43746
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7aaba3bbe1359252",
+  "name" : "verifyContactForm@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 30321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a56afacc0fc327cb",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 131425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c08118cc90e73f8e",
+  "name" : "verifyHomePagePartnerLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 29375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9b99e201ef2a448",
+  "name" : "verifySocialLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 39624
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "23137ef67d03145c",
+  "name" : "verifyAllHomePageElementsPresentTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 17650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba3a121193291e66",
+  "name" : "verifyVideosFromHomePageTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 203893
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2547e05d08eacbf",
+  "name" : "verifySocialLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 38218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10c99d087a5babc0",
+  "name" : "verifyHomePageMenuItemsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 19325
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3a41da6335534e9",
+  "name" : "verifyFooterLinks@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 62554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "444299ca28c83755",
+  "name" : "verifyAllHomePageElementsPresentTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15549
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b77454011a0a5bde",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 7190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "774118c48be975bf",
+  "name" : "verifyVideosFromHomePageTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 177650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6650e44f6541fa89",
+  "name" : "verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 37400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff847824039c8a4f",
+  "name" : "verifyHomePagePartnerLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 34219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2df59e842420757",
+  "name" : "verifyContactForm@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 25860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "667bff562a71cb12",
+  "name" : "verifySocialLinks@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 41145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5ccfbac438b0715",
+  "name" : "verifyHomePageMenuItemsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 14670
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b3078d570fbba3c",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 52534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60bda9182706ae7",
+  "name" : "verifyFooterLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 44257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb47b77120451ff8",
+  "name" : "verifyVideosFromHomePageTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 167192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b9d91d867a23045",
+  "name" : "verifySocialLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 59739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f0cc5845bcaa063",
+  "name" : "verifySocialLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40083
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba4f9c047ee46984",
+  "name" : "verifyHomePageMenuItemsTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5b3bea0ff91eb5c",
+  "name" : "verifyVideosFromHomePageTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 16781
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "319f4e23d8c6e36a",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 11337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bed4e8410b85f46",
+  "name" : "verifyAllHomePageElementsPresentTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 16748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af959569b6d29533",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 10554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbf715c1601dd3df",
+  "name" : "verifyContactForm@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 30071
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f2f5eaef87ca8ff",
+  "name" : "verifyHomePageMenuItemsTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 15699
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10245b295a51ef60",
+  "name" : "verifyHomePagePartnerLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 286858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0a8adf2ed95d08c",
+  "name" : "verifyHomePageMenuItemsTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 15971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d38fcfcdfba6e255",
+  "name" : "verifyContactForm@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22986
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1128fa3db4685e31",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 39109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24990f126f7a3572",
+  "name" : "verifyFooterLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 113183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0e49205408dd105",
+  "name" : "verifySocialLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 37813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84f7a12ad4c9005e",
+  "name" : "verifySocialLinks@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 42030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54d2747afd2c2c81",
+  "name" : "verifySocialLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6829526ffb4e889",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 11252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26ab26affe6a1d25",
+  "name" : "verifyVideosFromHomePageTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 188959
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e70b9ae43c7f5974",
+  "name" : "verifySocialLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 139433
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f79079df761c9213",
+  "name" : "verifyContactForm@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 26917
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93982efa821aeee9",
+  "name" : "verifyAllHomePageElementsPresentTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 16399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82060d2a08a7bd34",
+  "name" : "verifyVideosFromHomePageTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 19410
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "56e08d29dd7fa73d",
+  "name" : "verifySocialLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 40995
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc5b9173d8e14dd4",
+  "name" : "verifySocialLinks@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "290043bb42f2d509",
+  "name" : "verifyFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 14957
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2e7c6f420ea31d0a",
+  "name" : "verifyFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 145227
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e35afe307f7271ea",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 9419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1a77a7fc8921067",
+  "name" : "verifyFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 52709
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1268398d700bb0b4",
+  "name" : "verifyHomePageMenuItemsTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 22580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90ed0a16438534e1",
+  "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 17049
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "34f2a392815d19f3",
+  "name" : "verifyAllHomePageElementsPresentTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d29e9b57769b69c",
+  "name" : "verifySocialLinks@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 44030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "698135226cdb901",
+  "name" : "verifyHomePageMenuItemsTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 16789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17d9f90bfe2f38ec",
+  "name" : "verifySocialLinks@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 67738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b97399306e55e7c",
+  "name" : "verifyVideosFromHomePageTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 193102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b05f0ed32adca487",
+  "name" : "verifyHomePagePartnerLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 19027
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "61279be804f7d0e0",
+  "name" : "verifyFooterLinks@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 41254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca132cbc851e58e7",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 9864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87616026deb3b405",
+  "name" : "verifyHomePagePartnerLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 170721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85e5191334432569",
+  "name" : "verifyFooterLinks@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 198885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbd9c7622ad6e26b",
+  "name" : "verifySocialLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 139766
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb05c8ab9e0c2c90",
+  "name" : "verifyDiscoverAndLetsTalkLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 11601
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45b4fe5ef693dc13",
+  "name" : "verifyAllHomePageElementsPresentTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 16209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c21ba7e2e72fff",
+  "name" : "verifySocialLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 45813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,17 @@
+{
+  "reportName" : "Post show Cardano Africa Report",
+  "testRuns" : [ ],
+  "statistic" : {
+    "failed" : 8,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 68,
+    "unknown" : 0,
+    "total" : 80
+  },
+  "time" : {
+    "minDuration" : 7190,
+    "maxDuration" : 286858,
+    "sumDuration" : 4575587
+  }
+}

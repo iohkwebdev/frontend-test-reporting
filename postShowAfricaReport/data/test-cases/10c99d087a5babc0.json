@@ -1,0 +1,53 @@
+{
+  "uid" : "10c99d087a5babc0",
+  "name" : "verifyHomePageMenuItemsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTests.MobileHomeTest:MobileTests.MobileHomeTest#verifyHomePageMenuItemsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 19325
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9df440f4c362c469",
+      "name" : "System out",
+      "source" : "9df440f4c362c469.txt",
+      "type" : "text/plain",
+      "size" : 23773
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTests.MobileHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTests.MobileHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTests.MobileHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10c99d087a5babc0.json",
+  "parameterValues" : [ ]
+}
