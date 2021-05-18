@@ -1,0 +1,149 @@
+{
+  "uid" : "f27a62d473d9af40",
+  "name" : "verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21992
+  },
+  "status" : "broken",
+  "statusMessage" : "no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"query\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 43 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-225-17', ip: '10.144.225.17', os.name: 'windows', os.arch: 'x86', os.version: '6.2', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:1943}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir2096_1506770575}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 18364f12bba0c674acea75e5ee54a173 *** Element info: {Using=name, value=query} Command duration or timeout: 0 milliseconds",
+  "statusTrace" : "org.openqa.selenium.NoSuchElementException: \nno such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"query\"}\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 43 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'\nSystem info: host: '10-144-225-17', ip: '10.144.225.17', os.name: 'windows', os.arch: 'x86', os.version: '6.2', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:1943}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir2096_1506770575}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 18364f12bba0c674acea75e5ee54a173\n*** Element info: {Using=name, value=query}\nCommand duration or timeout: 0 milliseconds\n\tat IohkIoTest.IohkIoBlogTest.verifySearchBoxValidation(IohkIoBlogTest.java:88)\nCaused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken\n\tat IohkIoTest.IohkIoBlogTest.verifySearchBoxValidation(IohkIoBlogTest.java:88)\nCaused by: org.openqa.selenium.NoSuchElementException: \nno such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"query\"}\n  (Session info: chrome=90.0.4430.72)\n  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 43 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'\nSystem info: host: '10-144-225-17', ip: '10.144.225.17', os.name: 'windows', os.arch: 'x86', os.version: '6.2', java.version: '1.8.0_181'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:1943}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir2096_1506770575}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 18364f12bba0c674acea75e5ee54a173\n*** Element info: {Using=name, value=query}\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'\nDriver info: driver.version: EventFiringWebDriver\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ {
+      "name" : "18:00:29.015 [main] INFO com.github.webdriverextensions.junitrunner.WebDriverRunner - Running test IohkIoBlogTest.verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.016 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.016 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1237586315",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.016 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.021 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.023 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.023 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@305700980",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.023 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:00:29.027 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2ba509b3eeab1635",
+      "name" : "System out",
+      "source" : "2ba509b3eeab1635.txt",
+      "type" : "text/plain",
+      "size" : 9855
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f27a62d473d9af40.json",
+  "parameterValues" : [ ]
+}

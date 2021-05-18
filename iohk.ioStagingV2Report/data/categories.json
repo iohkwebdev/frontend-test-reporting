@@ -1,0 +1,143 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Unable to locate element: .PaginatedItems__Container-uoqn2s-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7704, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.2, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: d099a8949bbb4b781fb240f0a54...} Session ID: d099a8949bbb4b781fb240f0a54a64b5f9e27e2a *** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}",
+      "children" : [ {
+        "name" : "verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "8bf1dbee4cd2e81f",
+        "parentUid" : "6b300d32e8d42b92bbc6d9f55b7aa3b9",
+        "status" : "broken",
+        "time" : {
+          "duration" : 22303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b300d32e8d42b92bbc6d9f55b7aa3b9"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"query\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 43 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-225-17', ip: '10.144.225.17', os.name: 'windows', os.arch: 'x86', os.version: '6.2', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:1943}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir2096_1506770575}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 18364f12bba0c674acea75e5ee54a173 *** Element info: {Using=name, value=query} Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "f27a62d473d9af40",
+        "parentUid" : "9b136781466b3218b38e2b1e1e72c58c",
+        "status" : "broken",
+        "time" : {
+          "duration" : 21992
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b136781466b3218b38e2b1e1e72c58c"
+    }, {
+      "name" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 796, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 3c096c0eef5d27b8403b9520ec0...} Session ID: 3c096c0eef5d27b8403b9520ec01fb81d9e41be2 *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "6b10e909f6b6ac34",
+        "parentUid" : "a724a7c89d2be5d13869919fb0c8e634",
+        "status" : "broken",
+        "time" : {
+          "duration" : 21348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a724a7c89d2be5d13869919fb0c8e634"
+    }, {
+      "name" : "Could not start Browser / Emulator (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 163.42 seconds Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "verifyContactForm@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "9276f4e57f489d1e",
+        "parentUid" : "31be929a4bc50c343360ee3d95cb6961",
+        "status" : "broken",
+        "time" : {
+          "duration" : 209637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31be929a4bc50c343360ee3d95cb6961"
+    }, {
+      "name" : "Unable to locate element: [data-ui='open-jobs-button'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 81184, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: a6609d02b46c17c30898b6b82b2...} Session ID: a6609d02b46c17c30898b6b82b2178c37a8a3095 *** Element info: {Using=css selector, value=[data-ui='open-jobs-button']}",
+      "children" : [ {
+        "name" : "verifyCareersPage@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "6c5adbcb7144cf7b",
+        "parentUid" : "509c7688c82cafb3b75c848b0c198807",
+        "status" : "broken",
+        "time" : {
+          "duration" : 15584
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "509c7688c82cafb3b75c848b0c198807"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[name='query']\"}   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:2464}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 0a4647a070fe58a4db73f0fdde7...} Session ID: 0a4647a070fe58a4db73f0fdde739b77b6c399ae *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchBoxValidation@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "1f399d4bd3755d9b",
+        "parentUid" : "44666475c5d081e46ae7268cd11e2703",
+        "status" : "broken",
+        "time" : {
+          "duration" : 37298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "44666475c5d081e46ae7268cd11e2703"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element is not displayed",
+      "children" : [ {
+        "name" : "verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "d9d1dd130a756e0c",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 21519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a59b5351c4689bc6959c6affe8ae3c"
+    }, {
+      "children" : [ {
+        "name" : "verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "35e002d531d9b897",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 27296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLogoRedirectsToHomepage@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "c1483b395d6c9fa1",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 30139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

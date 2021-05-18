@@ -1,0 +1,149 @@
+{
+  "uid" : "8bf1dbee4cd2e81f",
+  "name" : "verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "historyId" : "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 22303
+  },
+  "status" : "broken",
+  "statusMessage" : "Unable to locate element: .PaginatedItems__Container-uoqn2s-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7704, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.2, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: d099a8949bbb4b781fb240f0a54...} Session ID: d099a8949bbb4b781fb240f0a54a64b5f9e27e2a *** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}",
+  "statusTrace" : "org.openqa.selenium.NoSuchElementException: \nUnable to locate element: .PaginatedItems__Container-uoqn2s-0\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7704, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.2, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: d099a8949bbb4b781fb240f0a54...}\nSession ID: d099a8949bbb4b781fb240f0a54a64b5f9e27e2a\n*** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}\n\tat IohkIoTest.IohkIoBlogTest.verifyBlogPage(IohkIoBlogTest.java:78)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ {
+      "name" : "18:06:10.219 [main] INFO com.github.webdriverextensions.junitrunner.WebDriverRunner - Running test IohkIoBlogTest.verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.219 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.219 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1043260983",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.219 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.224 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.226 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.226 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@623837370",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.226 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "18:06:10.230 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2ba509b3eeab1635",
+      "name" : "System out",
+      "source" : "2ba509b3eeab1635.txt",
+      "type" : "text/plain",
+      "size" : 9855
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8bf1dbee4cd2e81f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,817 @@
+[ {
+  "uid" : "fb6a9115290f9854",
+  "name" : "verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 88982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9073edb91c11aaaf",
+  "name" : "verifyResearchPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 49017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c6df797139e7329",
+  "name" : "verifySearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 28208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8b0766beee921b9",
+  "name" : "verifyAboutLinks@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 70688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abee9bb6a70ba28c",
+  "name" : "verifyContactForm@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c60581949a4134eb",
+  "name" : "verifyNoSearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 32034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f74246c03d6e89f",
+  "name" : "verifyAboutLinks@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 63104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcd8a3bedb33300f",
+  "name" : "verifyResearchPage@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 51946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95bbe554987dad71",
+  "name" : "verifyChangingAnimationHomeScreen@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 137195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9276f4e57f489d1e",
+  "name" : "verifyContactForm@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 209637
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cafaff58972b9e1",
+  "name" : "verifyTeamMembers@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 7995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42fe1338ea3adc6c",
+  "name" : "verifyResearchersTeamPage@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 176700
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75fa158e68201985",
+  "name" : "verifyContactForm@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 34017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abfff8ff26cc125e",
+  "name" : "verifyResearchersTeamPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 315728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31594e29860f8a56",
+  "name" : "verifyRssFeeds@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 11230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "277432d42a077045",
+  "name" : "verifyResearchersTeamPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 207612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c5adbcb7144cf7b",
+  "name" : "verifyCareersPage@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15584
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "503aeeab459f659b",
+  "name" : "verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39d5f46fa355a53c",
+  "name" : "verifySearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 67432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d199b65f85ae4b82",
+  "name" : "verifyRssFeeds@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 10556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf21a959c0b55353",
+  "name" : "verifyCareersPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 42097
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "238d7ce6e84b6c6e",
+  "name" : "verifyMenuRedirection@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 62051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55076bd0dc3a5cb7",
+  "name" : "verifyBlogPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 20814
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a01b8e77c5efab66",
+  "name" : "verifyTeamMembers@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 14833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2cc8047271befcb",
+  "name" : "verifyCareersPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46886
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f27a62d473d9af40",
+  "name" : "verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21992
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "372d3e217e1f60da",
+  "name" : "verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 53216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b7275f576a81183",
+  "name" : "verifyLogoRedirectsToHomepage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 38069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d687e3a37cf9839",
+  "name" : "verifyAboutLinks@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 78723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a05cc6ac5229adf0",
+  "name" : "verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 129888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ed6fd5564e318f3",
+  "name" : "verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 57545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4957fcb14cf45c83",
+  "name" : "verifyInformationModalOnAnimation@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 811966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "164a769a37854cbf",
+  "name" : "verifyContactForm@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 36164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e0ba14c6a4baa55",
+  "name" : "verifySearchBoxValidation@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 24032
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f399d4bd3755d9b",
+  "name" : "verifySearchBoxValidation@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 37298
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "53b31ff3e1ba408d",
+  "name" : "verifyResearchPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 55122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29dbe739d00fbbdb",
+  "name" : "verifyRssFeeds@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 11561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "495d798bd7d59881",
+  "name" : "verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 459261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "748ecefc6ee86af0",
+  "name" : "verifyFooterLinks@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 223621
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93b509885c943345",
+  "name" : "verifyHomePageMenuItems@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 120509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "481f03bb69ea417c",
+  "name" : "verifyFooterLinks@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 228269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8eb0ee161bc1a887",
+  "name" : "verifyBlogPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 15974
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eba550e1d64df19b",
+  "name" : "verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 102826
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "444f9021d14a0daf",
+  "name" : "verifyBlogPage@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 18315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a034581b97ed720",
+  "name" : "verifyCareersPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 33477
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a739c76409f249f",
+  "name" : "verifyNoSearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 24857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e538e5eb3e8227b",
+  "name" : "verifyResearchersTeamPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 344323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e7491e750d40ba5",
+  "name" : "verifyResearchPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 62813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abc0a00bb5cf17c8",
+  "name" : "verifySearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 27793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2374ff4f715abf05",
+  "name" : "verifyResearchersTeamPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 220162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6056a239b71cab1",
+  "name" : "verifyMenuRedirection@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 67872
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75246857c94d990c",
+  "name" : "verifySearchBoxValidation@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 27173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41971dba63a01b2f",
+  "name" : "verifyChangingAnimationHomeScreen@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 393236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1483b395d6c9fa1",
+  "name" : "verifyLogoRedirectsToHomepage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 30139
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "35e002d531d9b897",
+  "name" : "verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 27296
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2057d86139e834a",
+  "name" : "verifyFooterLinks@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 116398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d424a68b220f442d",
+  "name" : "verifySearchBoxValidation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 43263
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4b039f95c345226",
+  "name" : "verifyContactForm@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 30713
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4bd6d9b26fdba4",
+  "name" : "verifyTeamMembers@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 20214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e51cca4358db258",
+  "name" : "verifyResearchPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 66160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ca47ad3c1d7252a",
+  "name" : "verifyTeamMembers@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 19269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b85d27bf21b430e",
+  "name" : "verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 125715
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96efa14935df6c2c",
+  "name" : "verifyCareersPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 23101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "483740fa42fea2ae",
+  "name" : "verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 23953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f53cd480a6d4e1b",
+  "name" : "verifyChangingAnimationHomeScreen@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 72578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be66ec17f63dd7ff",
+  "name" : "verifyHomePageMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 167475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "946b9588f771bb49",
+  "name" : "verifyRssFeeds@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 12706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9d1dd130a756e0c",
+  "name" : "verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21519
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f41ca23251597890",
+  "name" : "verifyTeamMembers@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 11707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c9c8b57d8a2ee5c",
+  "name" : "verifyChangingAnimationHomeScreen@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 149429
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea495f8ec31dce39",
+  "name" : "verifyCareersPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 27185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29eb9b5a63805af0",
+  "name" : "verifySearchBoxValidation@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 30657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9b3b8cddd45b428",
+  "name" : "verifyMenuRedirection@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 39979
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53f6a3ec63d0bc05",
+  "name" : "verifyContactForm@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 34721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce66bd7f09cedcd4",
+  "name" : "verifyFooterLinks@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 101345
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe1d199928dcf08c",
+  "name" : "verifyBlogPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 61129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be01ac9a4d35783b",
+  "name" : "verifyLogoRedirectsToHomepage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 99013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eeec20740ca703bc",
+  "name" : "verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 296928
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9a7e09270a7f39c",
+  "name" : "verifyResearchPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 94582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd07b03660e43bce",
+  "name" : "verifyFooterLinks@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 117749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c771e4cb9665786c",
+  "name" : "verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 59233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c9aa3489f378644",
+  "name" : "verifyAboutLinks@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 79090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "249cb92540884e71",
+  "name" : "verifyChangingAnimationHomeScreen@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 68010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17bd592bb3cd997c",
+  "name" : "verifySearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 28413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a4b494753ad0886",
+  "name" : "verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 50304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e72f19fb913a9f2",
+  "name" : "verifyLogoRedirectsToHomepage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 69551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7273e55911faf097",
+  "name" : "verifyAboutLinks@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 91639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb2272a9ed9ccad4",
+  "name" : "verifySearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 48534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "623716bf8c290ea3",
+  "name" : "verifyMenuRedirection@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 38659
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c372ee208c5659b",
+  "name" : "verifyMenuRedirection@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 130541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bf1dbee4cd2e81f",
+  "name" : "verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 22303
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2421d3cbf74e95d6",
+  "name" : "verifyTeamMembers@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 11867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ee7c55c795bbdd",
+  "name" : "verifyResearchersTeamPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 160288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7488e28269045964",
+  "name" : "verifyRssFeeds@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 13482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6c0b567bf9d0bed",
+  "name" : "verifyChangingAnimationHomeScreen@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 188164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b10e909f6b6ac34",
+  "name" : "verifySearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21348
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "825310f9db97cb7d",
+  "name" : "verifyMenuRedirection@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 37159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a06fee53ad659a4f",
+  "name" : "verifyRssFeeds@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 10689
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d11510c0a83df6db",
+  "name" : "verifyAboutLinks@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 66760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3589f33f874eed3",
+  "name" : "verifyInformationModalOnAnimation@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 116983
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9eb92480739cbc8",
+  "name" : "verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 69544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56538ac553f9e4a",
+  "name" : "verifyBlogPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 28678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,53 @@
+{
+  "uid" : "c771e4cb9665786c",
+  "name" : "verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"MAC\")",
+  "historyId" : "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 59233
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4496fe10942b33a",
+      "name" : "System out",
+      "source" : "4496fe10942b33a.txt",
+      "type" : "text/plain",
+      "size" : 1383
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c771e4cb9665786c.json",
+  "parameterValues" : [ ]
+}

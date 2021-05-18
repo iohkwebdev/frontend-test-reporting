@@ -1,0 +1,53 @@
+{
+  "uid" : "96efa14935df6c2c",
+  "name" : "verifyCareersPage@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 23101
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7fa7f6368322ad6b",
+      "name" : "System out",
+      "source" : "7fa7f6368322ad6b.txt",
+      "type" : "text/plain",
+      "size" : 1851
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoCareersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoCareersTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoCareersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96efa14935df6c2c.json",
+  "parameterValues" : [ ]
+}

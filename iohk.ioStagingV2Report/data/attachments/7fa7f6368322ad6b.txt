@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: IohkIoTest.IohkIoCareersTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 226.662 sec <<< FAILURE!
+verifyCareersPage@Firefox(version="88", platform="MAC")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 15.584 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: [data-ui='open-jobs-button']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c05:4c75:3717:2c51%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 81184, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: a6609d02b46c17c30898b6b82b2...}
+Session ID: a6609d02b46c17c30898b6b82b2178c37a8a3095
+*** Element info: {Using=css selector, value=[data-ui='open-jobs-button']}
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+

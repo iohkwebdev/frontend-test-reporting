@@ -1,0 +1,53 @@
+{
+  "uid" : "7c4bd6d9b26fdba4",
+  "name" : "verifyTeamMembers@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 20214
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4496fe10942b33a",
+      "name" : "System out",
+      "source" : "4496fe10942b33a.txt",
+      "type" : "text/plain",
+      "size" : 1383
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c4bd6d9b26fdba4.json",
+  "parameterValues" : [ ]
+}

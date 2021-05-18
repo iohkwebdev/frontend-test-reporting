@@ -1,0 +1,17 @@
+{
+  "reportName": "Iohk.io Staging Report 18.05.2021",
+  "testRuns": [],
+  "statistic": {
+    "failed": 3,
+    "broken": 6,
+    "skipped": 0,
+    "passed": 93,
+    "unknown": 0,
+    "total": 102
+  },
+  "time": {
+    "minDuration": 7995,
+    "maxDuration": 811966,
+    "sumDuration": 8832725
+  }
+}

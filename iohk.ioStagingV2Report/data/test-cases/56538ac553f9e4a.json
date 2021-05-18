@@ -1,0 +1,53 @@
+{
+  "uid" : "56538ac553f9e4a",
+  "name" : "verifyBlogPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 28678
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ba509b3eeab1635",
+      "name" : "System out",
+      "source" : "2ba509b3eeab1635.txt",
+      "type" : "text/plain",
+      "size" : 9855
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoBlogTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56538ac553f9e4a.json",
+  "parameterValues" : [ ]
+}
