@@ -1,0 +1,213 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element is not displayed",
+      "children" : [ {
+        "name" : "verifyCareersPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "481e3f4109b1f528",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 32527
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCareersPage@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "5a137d4c80895d4",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 15204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCareersPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "e35711615d91ff3b",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 32724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCareersPage@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "b747ce361f7981f6",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 16708
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCareersPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "1ebc1fc92d10e77e",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 38892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "9fafba07cff07040",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 29923
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a59b5351c4689bc6959c6affe8ae3c"
+    }, {
+      "children" : [ {
+        "name" : "verifyLogoRedirectsToHomepage@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "b60742bee9b08215",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 30139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "5993219ebcb14a6c",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 27296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    }, {
+      "name" : "Element is not displayed     Element: <input name=\"query\" required=\"\" />",
+      "children" : [ {
+        "name" : "verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "1dd2f8dcc7821d6d",
+        "parentUid" : "e9ae2726c485c5db1c9da28ff66a68a4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 21962
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9ae2726c485c5db1c9da28ff66a68a4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[name='query']\"}   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:2605}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 8c0b59b48d01a13193b09f83ec0...} Session ID: 8c0b59b48d01a13193b09f83ec09e0952ec52f48 *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchBoxValidation@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "1215a1ec7f324e67",
+        "parentUid" : "88b7d391a07b447cdb24e2ee4048b575",
+        "status" : "broken",
+        "time" : {
+          "duration" : 26807
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88b7d391a07b447cdb24e2ee4048b575"
+    }, {
+      "name" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 3240, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: e4edffdcd653ccb0583876aab74...} Session ID: e4edffdcd653ccb0583876aab74d07437203a7a3 *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchBoxValidation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "1199cbdadbddd73",
+        "parentUid" : "54a578c6f7835a3503529166640b07b4",
+        "status" : "broken",
+        "time" : {
+          "duration" : 25337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "54a578c6f7835a3503529166640b07b4"
+    }, {
+      "name" : "Index 3 out of bounds for length 0",
+      "children" : [ {
+        "name" : "verifyNoSearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "13265abe531342ab",
+        "parentUid" : "d8e2724cc95806ad00087d2020c4e062",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d8e2724cc95806ad00087d2020c4e062"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"query\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 78 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-226-196', ip: '10.144.226.196', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:2492}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir10260_693711341}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 1ca911ae4341f1aa7baeb0e1dac53a8e *** Element info: {Using=name, value=query} Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifySearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "e106d59041dea104",
+        "parentUid" : "0edc30a8b9c043391938afe537c69523",
+        "status" : "broken",
+        "time" : {
+          "duration" : 27524
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0edc30a8b9c043391938afe537c69523"
+    }, {
+      "name" : "Could not start Browser / Emulator (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 163.42 seconds Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "verifyContactForm@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "ddf8e15ce29ac37e",
+        "parentUid" : "31be929a4bc50c343360ee3d95cb6961",
+        "status" : "broken",
+        "time" : {
+          "duration" : 209637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31be929a4bc50c343360ee3d95cb6961"
+    }, {
+      "name" : "Index 5 out of bounds for length 0",
+      "children" : [ {
+        "name" : "verifyCareersPage@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "1e9f638187475157",
+        "parentUid" : "f0ab0ae31489d5af989abc1328326fef",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7972
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f0ab0ae31489d5af989abc1328326fef"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

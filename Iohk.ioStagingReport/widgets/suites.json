@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "01238cf8660e2104a9c8f04f55851bdc",
+    "name" : "IohkIoTest.IohkIoCareersTest",
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "500871e07cda1aab042a3790a38ae6f9",
+    "name" : "IohkIoTest.IohkIoBlogTest",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 24
+    }
+  }, {
+    "uid" : "78d0e8b7e748d5ecf33aab438d3a93f2",
+    "name" : "IohkIoTest.IohkIoHomeTest",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 57,
+      "unknown" : 0,
+      "total" : 60
+    }
+  }, {
+    "uid" : "82c072e68d79c2a104283575438ff3ea",
+    "name" : "IohkIoTest.IohkIoResearchTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    }
+  } ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid" : "ddf8e15ce29ac37e",
+  "name" : "verifyContactForm@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 209637
+  },
+  "status" : "broken",
+  "statusMessage" : "Could not start Browser / Emulator (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 163.42 seconds Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: driver.version: RemoteWebDriver",
+  "statusTrace" : "org.openqa.selenium.WebDriverException: \nCould not start Browser / Emulator (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 163.42 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'\nDriver info: driver.version: RemoteWebDriver\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ae5ca93e5cc3680",
+      "name" : "System out",
+      "source" : "5ae5ca93e5cc3680.txt",
+      "type" : "text/plain",
+      "size" : 1383
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ddf8e15ce29ac37e.json",
+  "parameterValues" : [ ]
+}

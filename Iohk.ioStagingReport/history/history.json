@@ -1,0 +1,1749 @@
+{
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa452630aef82e8f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 91639
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "521e0110f4cb761c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11867
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40fbc1af8edb8525",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24887
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87049479533da56e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13482
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "956144690b1fe98a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38069
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46f2cf01ce4c45d8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 129888
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13265abe531342ab",
+      "status" : "broken",
+      "statusDetails" : "Index 3 out of bounds for length 0",
+      "time" : {
+        "duration" : 7544
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39939ef86446482c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11707
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d60f3b5266c2eee",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37159
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15637eaa7d58bdbb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 34721
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50456d2701ec6fc9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 223621
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c5b6a0aa2a0e73d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 59233
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cad5b9857fac2f1c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 34679
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a137d4c80895d4",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 15204
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ebc1fc92d10e77e",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 38892
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccd8242889f06355",
+      "status" : "passed",
+      "time" : {
+        "duration" : 30713
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90732fe08ebed7f2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14833
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6baac72c8bcd14d7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 62141
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb545fd4cc4d9868",
+      "status" : "passed",
+      "time" : {
+        "duration" : 393236
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0c349eb1fadafbb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 188164
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9c537b137eaf3d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19269
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee701bee635b1434",
+      "status" : "passed",
+      "time" : {
+        "duration" : 117749
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea0457dcf9552725",
+      "status" : "passed",
+      "time" : {
+        "duration" : 94582
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3890b31184ad5af",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17249
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67775717595c53ba",
+      "status" : "passed",
+      "time" : {
+        "duration" : 90377
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa6172196e272176",
+      "status" : "passed",
+      "time" : {
+        "duration" : 296928
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87c5a6a4a4fc3c70",
+      "status" : "passed",
+      "time" : {
+        "duration" : 57545
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1199cbdadbddd73",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 3240, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: e4edffdcd653ccb0583876aab74...} Session ID: e4edffdcd653ccb0583876aab74d07437203a7a3 *** Element info: {Using=name, value=query}",
+      "time" : {
+        "duration" : 25337
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f10558920991edea",
+      "status" : "passed",
+      "time" : {
+        "duration" : 79090
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9dd75c52a4b3576",
+      "status" : "passed",
+      "time" : {
+        "duration" : 46215
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3489d99a527c8fcb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 60821
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eedd70a554ab6dce",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39979
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cdf53fd6d70bc55",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24896
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68cb8c06041056d4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 344323
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f42b9f281f9a2f55",
+      "status" : "passed",
+      "time" : {
+        "duration" : 66160
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39724f18d4175561",
+      "status" : "passed",
+      "time" : {
+        "duration" : 34017
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e57c174705148ff",
+      "status" : "passed",
+      "time" : {
+        "duration" : 130541
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4873d90fa6c7335",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25879
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "481e3f4109b1f528",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 32527
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9683937ba8e428b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 125715
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1dd2f8dcc7821d6d",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed     Element: <input name=\"query\" required=\"\" />",
+      "time" : {
+        "duration" : 21962
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ded5cfd1a6f799a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 315728
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e00f8ce33c586675",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11230
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "149733c3ef2d3b76",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69551
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21dd4fb7444ced91",
+      "status" : "passed",
+      "time" : {
+        "duration" : 66760
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "414c7e5ce8a3c6c9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 28761
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "658f44ead0d210e9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 167475
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "795546b45ac8f3fa",
+      "status" : "passed",
+      "time" : {
+        "duration" : 12706
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54ca96989273b4fb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38659
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b5635f023bcb12f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 149429
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7bb7d0451a520e3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17570
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5993219ebcb14a6c",
+      "status" : "failed",
+      "time" : {
+        "duration" : 27296
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b4df9103726ba13",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50304
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4cfcde269b6ec83c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 160288
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12753f299816d628",
+      "status" : "passed",
+      "time" : {
+        "duration" : 55122
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "578ccf55cfb34656",
+      "status" : "passed",
+      "time" : {
+        "duration" : 72578
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d320883cf0d178a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 88982
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a69a5076909f0b8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 67872
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fa20b12ad54260c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10689
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "986a56e5a45fed26",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14527
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "367b151ff5bb2efb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 70688
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc939c6adfb5f621",
+      "status" : "passed",
+      "time" : {
+        "duration" : 102826
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e997c59e6996969d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 68010
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23fe8c55063e791c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 176700
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4614988927cbb436",
+      "status" : "passed",
+      "time" : {
+        "duration" : 35411
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12bd315eeb2017ea",
+      "status" : "passed",
+      "time" : {
+        "duration" : 459261
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e9f638187475157",
+      "status" : "broken",
+      "statusDetails" : "Index 5 out of bounds for length 0",
+      "time" : {
+        "duration" : 7972
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f16e20ad20f2a831",
+      "status" : "passed",
+      "time" : {
+        "duration" : 62051
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da2f5e548f9f7cce",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24895
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9f46877511ea247",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36164
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b76eb900546a404",
+      "status" : "passed",
+      "time" : {
+        "duration" : 99013
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e35711615d91ff3b",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 32724
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b747ce361f7981f6",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 16708
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2739d32e164d2eb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 62813
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b097615b6994ce24",
+      "status" : "passed",
+      "time" : {
+        "duration" : 58151
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1ad510b2eb53780",
+      "status" : "passed",
+      "time" : {
+        "duration" : 811966
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "993b8ca70d387c58",
+      "status" : "passed",
+      "time" : {
+        "duration" : 116983
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9fafba07cff07040",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 29923
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df6cc4fab14eebd1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 137195
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b60742bee9b08215",
+      "status" : "failed",
+      "time" : {
+        "duration" : 30139
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79aa2ae38ea83270",
+      "status" : "passed",
+      "time" : {
+        "duration" : 30320
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be270252d0a89a5d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69544
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2b229639d67131b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 228269
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb696f1d36094aee",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10556
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f0172f878908671",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27917
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaf31dbeab070ff6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 78723
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "736dce28443dd7f5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 55640
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "570a6dec062cc3bc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 101345
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14697df607edb13d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 51946
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4f6663b24cd0dd2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 7995
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d143f40efe948333",
+      "status" : "passed",
+      "time" : {
+        "duration" : 63104
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66fb0b6a56e0a90f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 116398
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86420b0fa65f78ef",
+      "status" : "passed",
+      "time" : {
+        "duration" : 120509
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddf8e15ce29ac37e",
+      "status" : "broken",
+      "statusDetails" : "Could not start Browser / Emulator (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 163.42 seconds Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "duration" : 209637
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90b64fbad24c1da2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17907
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c94caa947bb46f1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 207612
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56ae7276affbb991",
+      "status" : "passed",
+      "time" : {
+        "duration" : 220162
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1215a1ec7f324e67",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"*[name='query']\"}   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:2605}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 8c0b59b48d01a13193b09f83ec0...} Session ID: 8c0b59b48d01a13193b09f83ec09e0952ec52f48 *** Element info: {Using=name, value=query}",
+      "time" : {
+        "duration" : 26807
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ca360451294e086",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11561
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4d5234b39db4ccb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20214
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a260546cbbe1f531",
+      "status" : "passed",
+      "time" : {
+        "duration" : 49017
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e106d59041dea104",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"query\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 78 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-226-196', ip: '10.144.226.196', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:2492}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir10260_693711341}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 1ca911ae4341f1aa7baeb0e1dac53a8e *** Element info: {Using=name, value=query} Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 27524
+      }
+    } ]
+  }
+}

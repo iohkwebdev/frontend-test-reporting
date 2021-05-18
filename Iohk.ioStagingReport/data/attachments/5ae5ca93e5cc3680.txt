@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: IohkIoTest.IohkIoHomeTest
+-------------------------------------------------------------------------------
+Tests run: 60, Failures: 2, Errors: 1, Skipped: 0, Time elapsed: 6,437.919 sec <<< FAILURE!
+verifyLogoRedirectsToHomepage@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 30.139 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at IohkIoTest.IohkIoHomeTest.verifyLogoRedirectsToHomepage(IohkIoHomeTest.java:99)
+
+verifyLogoRedirectsToHomepage@Firefox(version="88", platform="MAC")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 27.296 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at IohkIoTest.IohkIoHomeTest.verifyLogoRedirectsToHomepage(IohkIoHomeTest.java:99)
+
+verifyContactForm@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 209.637 sec  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Could not start Browser / Emulator (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 163.42 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: RemoteWebDriver
+

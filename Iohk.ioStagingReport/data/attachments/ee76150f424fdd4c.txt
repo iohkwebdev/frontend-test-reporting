@@ -1,0 +1,77 @@
+-------------------------------------------------------------------------------
+Test set: IohkIoTest.IohkIoBlogTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 2, Errors: 4, Skipped: 0, Time elapsed: 948.596 sec <<< FAILURE!
+verifySearchResultsPresent@Chrome(version="90", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 27.524 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"name","selector":"query"}
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 78 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: '10-144-226-196', ip: '10.144.226.196', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:2492}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\Windows\proxy\scoped_dir10260_693711341}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 1ca911ae4341f1aa7baeb0e1dac53a8e
+*** Element info: {Using=name, value=query}
+Command duration or timeout: 0 milliseconds
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:98)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:98)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"name","selector":"query"}
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 78 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: '10-144-226-196', ip: '10.144.226.196', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:2492}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\Windows\proxy\scoped_dir10260_693711341}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 1ca911ae4341f1aa7baeb0e1dac53a8e
+*** Element info: {Using=name, value=query}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: EventFiringWebDriver
+
+verifySearchResultsPresent@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 29.923 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:98)
+
+verifySearchBoxValidation@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 26.807 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"*[name='query']"}
+  (Session info: MicrosoftEdge=90.0.818.39)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:2605}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 8c0b59b48d01a13193b09f83ec0...}
+Session ID: 8c0b59b48d01a13193b09f83ec09e0952ec52f48
+*** Element info: {Using=name, value=query}
+	at IohkIoTest.IohkIoBlogTest.verifySearchBoxValidation(IohkIoBlogTest.java:88)
+
+verifySearchBoxValidation@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 25.337 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: *[name='query']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2HEO061', ip: '192.168.1.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 3240, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: e4edffdcd653ccb0583876aab74...}
+Session ID: e4edffdcd653ccb0583876aab74d07437203a7a3
+*** Element info: {Using=name, value=query}
+	at IohkIoTest.IohkIoBlogTest.verifySearchBoxValidation(IohkIoBlogTest.java:88)
+
+verifyNoSearchResultsPresent@Chrome(version="90", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 21.962 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: 
+Element is not displayed
+    Element: <input name="query" required="" />
+	at IohkIoTest.IohkIoBlogTest.verifyNoSearchResultsPresent(IohkIoBlogTest.java:111)
+
+verifyNoSearchResultsPresent@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 7.544 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 0
+	at IohkIoTest.IohkIoBlogTest.verifyNoSearchResultsPresent(IohkIoBlogTest.java:111)
+

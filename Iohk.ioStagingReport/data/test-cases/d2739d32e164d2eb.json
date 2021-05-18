@@ -1,0 +1,53 @@
+{
+  "uid" : "d2739d32e164d2eb",
+  "name" : "verifyResearchPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 62813
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1f1c458aa6976f7",
+      "name" : "System out",
+      "source" : "e1f1c458aa6976f7.txt",
+      "type" : "text/plain",
+      "size" : 279
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoResearchTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoResearchTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoResearchTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2739d32e164d2eb.json",
+  "parameterValues" : [ ]
+}

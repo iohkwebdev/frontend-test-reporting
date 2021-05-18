@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: IohkIoTest.IohkIoCareersTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 5, Errors: 1, Skipped: 0, Time elapsed: 180.73 sec <<< FAILURE!
+verifyCareersPage@Chrome(version="90", platform="MAC")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 15.204 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+
+verifyCareersPage@Chrome(version="90", platform="WINDOWS")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 38.892 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+
+verifyCareersPage@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 32.527 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+
+verifyCareersPage@Firefox(version="88", platform="MAC")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 16.708 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+
+verifyCareersPage@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 32.724 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+
+verifyCareersPage@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoCareersTest)  Time elapsed: 7.972 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 5 out of bounds for length 0
+	at IohkIoTest.IohkIoCareersTest.verifyCareersPage(IohkIoCareersTest.java:72)
+
