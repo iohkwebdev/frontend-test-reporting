@@ -1,0 +1,92 @@
+-------------------------------------------------------------------------------
+Test set: IohkIoTest.IohkIoBlogTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 7, Errors: 5, Skipped: 0, Time elapsed: 1,364.712 sec <<< FAILURE!
+verifySearchResultsPresent@Chrome(version="90", platform="MAC")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 37.718 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:100)
+
+verifySearchResultsPresent@Chrome(version="90", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 63.347 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:100)
+
+verifySearchResultsPresent@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 114.495 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:100)
+
+verifySearchResultsPresent@Firefox(version="88", platform="MAC")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 38.892 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:100)
+
+verifySearchResultsPresent@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 45.232 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: *[name='query']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 5020, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: df021c18684a0f7576edc78e0e4...}
+Session ID: df021c18684a0f7576edc78e0e4693e3cbd65dd0
+*** Element info: {Using=name, value=query}
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:100)
+
+verifySearchResultsPresent@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 31.814 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifySearchResultsPresent(IohkIoBlogTest.java:100)
+
+verifySearchBoxValidation@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 65.346 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: *[name='query']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7528, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 437180ad2588b13e4077a41bef8...}
+Session ID: 437180ad2588b13e4077a41bef804139f429fe33
+*** Element info: {Using=name, value=query}
+	at IohkIoTest.IohkIoBlogTest.verifySearchBoxValidation(IohkIoBlogTest.java:90)
+
+verifySearchBoxValidation@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 20.535 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.0.3, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20D91, safari:platformVersion: 11.2.3, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 6caeaa2f67fc6da31059c2283d3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 6caeaa2f67fc6da31059c2283d30706030bd71a3
+*** Element info: {Using=name, value=query}
+	at IohkIoTest.IohkIoBlogTest.verifySearchBoxValidation(IohkIoBlogTest.java:90)
+
+verifyBlogPage@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 54.061 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: .PaginatedItems__Container-uoqn2s-0
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 8652, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 35c8a0191550de1548e19c32635...}
+Session ID: 35c8a0191550de1548e19c32635898a419600b5a
+*** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}
+	at IohkIoTest.IohkIoBlogTest.verifyBlogPage(IohkIoBlogTest.java:80)
+
+verifyBlogPage@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 21.97 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20E241, safari:platformVersion: 11.3.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 56b857fbec8f2a845fb67d1e7b3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 56b857fbec8f2a845fb67d1e7b307ca8935a06e3
+*** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}
+	at IohkIoTest.IohkIoBlogTest.verifyBlogPage(IohkIoBlogTest.java:80)
+
+verifyNoSearchResultsPresent@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 71.948 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifyNoSearchResultsPresent(IohkIoBlogTest.java:113)
+
+verifyNoSearchResultsPresent@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoBlogTest)  Time elapsed: 59.855 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at IohkIoTest.IohkIoBlogTest.verifyNoSearchResultsPresent(IohkIoBlogTest.java:113)
+

@@ -1,0 +1,53 @@
+{
+  "uid" : "987189f0e05b6193",
+  "name" : "verifyTechnologyTest@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 42090
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ca8cd654af4511a8",
+      "name" : "System out",
+      "source" : "ca8cd654af4511a8.txt",
+      "type" : "text/plain",
+      "size" : 277
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoTechnologyTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoTechnologyTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoTechnologyTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "987189f0e05b6193.json",
+  "parameterValues" : [ ]
+}

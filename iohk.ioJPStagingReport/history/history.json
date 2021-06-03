@@ -1,0 +1,1863 @@
+{
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ead315db6b53144",
+      "status" : "passed",
+      "time" : {
+        "duration" : 89236
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f41cb88b14a6f028",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19928
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c120890c5a32d77",
+      "status" : "passed",
+      "time" : {
+        "duration" : 33107
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40d6b0d770c41a09",
+      "status" : "passed",
+      "time" : {
+        "duration" : 52770
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "106f3bde638916e9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 141664
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77f1741a67368b72",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24774
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6befe1804cc1de2a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 35120
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6810880c72aa99c0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 21150
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b5b5d2e6ce48afb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 41518
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3b29091ea47f63",
+      "status" : "passed",
+      "time" : {
+        "duration" : 68545
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29181c712be5eb45",
+      "status" : "passed",
+      "time" : {
+        "duration" : 239028
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f05df7fce270b7be",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69773
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaf5a3e3c990cba8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 45412
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "384df82d18dfcda",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38034
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14ebac1e5809434b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 60426
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e99fa2f47f771736",
+      "status" : "passed",
+      "time" : {
+        "duration" : 41698
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ac3c097318dfb90",
+      "status" : "broken",
+      "statusDetails" : "Index 1 out of bounds for length 0",
+      "time" : {
+        "duration" : 337210
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "182f96a2df9ae06",
+      "status" : "passed",
+      "time" : {
+        "duration" : 46279
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "735892be2ab4ac7f",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 71948
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "359f1f888785c022",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: msedge on WINDOWS (bac25d0e81a547bcb8de8b6f0982cba65cab215a)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:5756}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: bac25d0e81a547bcb8de8b6f098...} Session ID: bac25d0e81a547bcb8de8b6f0982cba65cab215a",
+      "time" : {
+        "duration" : 95326
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "231c97af36e55b1f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 266082
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fda2e36c273b182",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39335
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "780ae50b26cab4bf",
+      "status" : "passed",
+      "time" : {
+        "duration" : 116194
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99ed623b42e722ed",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ContentNavigation__Container-sc-1m4cwm0-0\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 347 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-226-174', ip: '10.144.226.174', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7801}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir8552_473865749}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 79910a53922f94ff04c0b64243cce143 *** Element info: {Using=css selector, value=.ContentNavigation__Container-sc-1m4cwm0-0} Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 65888
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b7674bf294fc04d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25759
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff7de774c8dc484d",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.0.3, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20D91, safari:platformVersion: 11.2.3, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 6caeaa2f67fc6da31059c2283d3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 6caeaa2f67fc6da31059c2283d30706030bd71a3 *** Element info: {Using=name, value=query}",
+      "time" : {
+        "duration" : 20535
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "448d3d2934f1a788",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: firefox on WINDOWS (0237282d84117204094b87c5b8fa865cbe742124)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 4668, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0237282d84117204094b87c5b8f...} Session ID: 0237282d84117204094b87c5b8fa865cbe742124",
+      "time" : {
+        "duration" : 104819
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5c4b2c5794313184",
+      "status" : "passed",
+      "time" : {
+        "duration" : 66403
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bed0896312e8513",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7528, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 437180ad2588b13e4077a41bef8...} Session ID: 437180ad2588b13e4077a41bef804139f429fe33 *** Element info: {Using=name, value=query}",
+      "time" : {
+        "duration" : 65346
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3333d740589262fe",
+      "status" : "passed",
+      "time" : {
+        "duration" : 112437
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0cea26807492ede",
+      "status" : "passed",
+      "time" : {
+        "duration" : 55588
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6293794738a576bc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 60404
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ab7263e6dc7def9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50963
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23261f014398d7a1",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 37718
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "46407ec285384d47",
+      "status" : "passed",
+      "time" : {
+        "duration" : 299562
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f0910a93042124b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36210
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "746047fb71a32eee",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: .ContentNavigation__Container-sc-1m4cwm0-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 1348, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0903877a08a3d8d68039a2eb7d1...} Session ID: 0903877a08a3d8d68039a2eb7d1d36cd9dd05d9c *** Element info: {Using=css selector, value=.ContentNavigation__Container-sc-1m4cwm0-0}",
+      "time" : {
+        "duration" : 67443
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a53b8dd33cb257d",
+      "status" : "failed",
+      "statusDetails" : "Current url is not equal to \"https://deploy-preview-716--iohk-io-staging.netlify.app/jp/technology/\"     Current url: https://deploy-preview-716--iohk-io-staging.netlify.app/jp/",
+      "time" : {
+        "duration" : 59063
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f083c75e4c922e9f",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 38892
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7e7b57d92a9b357",
+      "status" : "passed",
+      "time" : {
+        "duration" : 64574
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8740a3fb691f48b4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 146521
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3624bb358f148131",
+      "status" : "passed",
+      "time" : {
+        "duration" : 56978
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c3946b5c0a1c80c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 335501
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92f3682e1b27cdde",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40800
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "987189f0e05b6193",
+      "status" : "passed",
+      "time" : {
+        "duration" : 42090
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b835c76cf1f49f8d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69131
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78e20eaf2b276a9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 54465
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "114af596fcc774e3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 32037
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7e54313e00f6866",
+      "status" : "passed",
+      "time" : {
+        "duration" : 177646
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c087642e6f65feb3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20302
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff6fccff0926376b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 49534
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c73c903ac679ac6f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 84575
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "358acf90418a3e5d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 74290
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e14713396051fd20",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25764
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3983465c13e9abef",
+      "status" : "passed",
+      "time" : {
+        "duration" : 51297
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ec22f54d37170fa",
+      "status" : "passed",
+      "time" : {
+        "duration" : 82718
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "289c168a9418c98e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 183964
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea0a609b1691898c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 172141
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f742b0c85016215",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$339/0x0000000801031440@3d0f53c3 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: /var/folders/yj/h3bj394n2tn...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54624}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 90.0.4430.72, webStorageEnabled: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 37f368224eaf1c68e9c84891847...} Session ID: 37f368224eaf1c68e9c84891847e89aa7dde8a4e",
+      "time" : {
+        "duration" : 66453
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c161020c5bec7606",
+      "status" : "passed",
+      "time" : {
+        "duration" : 84350
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ffa35572f3eefee6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 455774
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c752fa49cd5ef65f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 78857
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6911fed43c8c7d89",
+      "status" : "passed",
+      "time" : {
+        "duration" : 16715
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2eac18040e475e6f",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20E241, safari:platformVersion: 11.3.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 56b857fbec8f2a845fb67d1e7b3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 56b857fbec8f2a845fb67d1e7b307ca8935a06e3 *** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}",
+      "time" : {
+        "duration" : 21970
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "429ed59d9c6e7fb3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 68620
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6711732922480a01",
+      "status" : "broken",
+      "statusDetails" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "duration" : 77985
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eab0a5da991f220b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 84598
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15d2e1694998d421",
+      "status" : "passed",
+      "time" : {
+        "duration" : 154012
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20b6d471c1953359",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 59855
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ff92887672a36fe",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: chrome on WINDOWS (c78a0ce0b63fc86990f22284d1361352041a2308)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5415}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 90.0.4430.72, webStorageEnabled: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: c78a0ce0b63fc86990f22284d13...} Session ID: c78a0ce0b63fc86990f22284d1361352041a2308",
+      "time" : {
+        "duration" : 85519
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c539e6552c1fd510",
+      "status" : "passed",
+      "time" : {
+        "duration" : 30427
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyMenuRedirection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4333696c3b6a7e0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 73349
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb5f7df227a808d7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 123355
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b31c0bb8f727617",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: .PaginatedItems__Container-uoqn2s-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 8652, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 35c8a0191550de1548e19c32635...} Session ID: 35c8a0191550de1548e19c32635898a419600b5a *** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}",
+      "time" : {
+        "duration" : 54061
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5183945f7b3410",
+      "status" : "passed",
+      "time" : {
+        "duration" : 65580
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7ba7179e9a0e2fd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 112081
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdd0822f796fc562",
+      "status" : "passed",
+      "time" : {
+        "duration" : 61593
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf0cff58e8a8c95f",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: [data-ui='open-jobs-button'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 43796, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 8d70c12fbda31462150053e35ba...} Session ID: 8d70c12fbda31462150053e35ba1385d891c02ec *** Element info: {Using=css selector, value=[data-ui='open-jobs-button']}",
+      "time" : {
+        "duration" : 24775
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "383c84b06efbe8a",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$339/0x0000000801031440@5ca5624d (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:7491}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: aa3572f585c712b4ae987b20137...} Session ID: aa3572f585c712b4ae987b201378da2430cb0022",
+      "time" : {
+        "duration" : 118223
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c584507c426f5b5b",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 114495
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d7cdb6b94f4add",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: msedge on WINDOWS (7ee022c66675a2bc4f59f0a2299511ffbb62ea1e)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4617}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 7ee022c66675a2bc4f59f0a2299...} Session ID: 7ee022c66675a2bc4f59f0a2299511ffbb62ea1e",
+      "time" : {
+        "duration" : 78442
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoTechnologyTest:IohkIoTest.IohkIoTechnologyTest#verifyTechnologyTest@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d4139fe503674a5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 45698
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyInformationModalOnAnimation@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a72a6498b4cf3589",
+      "status" : "passed",
+      "time" : {
+        "duration" : 136254
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4f22c11a54447fa",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 5020, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: df021c18684a0f7576edc78e0e4...} Session ID: df021c18684a0f7576edc78e0e4693e3cbd65dd0 *** Element info: {Using=name, value=query}",
+      "time" : {
+        "duration" : 45232
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyChangingAnimationHomeScreen@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b93bd47ebf835c9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 231657
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyLogoRedirectsToHomepage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5b551c2f329ad9e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 99407
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af3598e02a120cf0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39868
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "465e1149832619ca",
+      "status" : "passed",
+      "time" : {
+        "duration" : 322765
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba906c7cca209618",
+      "status" : "passed",
+      "time" : {
+        "duration" : 94331
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ace6236b96066e5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 30212
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6df3cb449a71e41e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39381
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4651e0f9daf16fb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 52727
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56d0fdd8d6e319e2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 62276
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "738978e234f70953",
+      "status" : "passed",
+      "time" : {
+        "duration" : 106054
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac4bbdcf543f4b34",
+      "status" : "passed",
+      "time" : {
+        "duration" : 42715
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac82e47660d93d4a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19181
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyAboutLinks@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "71a9e59dbbd5193b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 71956
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyFooterLinks@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c190f33c0c78085a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 155503
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyHomePageMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d2faad958ab1089",
+      "status" : "passed",
+      "time" : {
+        "duration" : 91241
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyContactForm@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb024182377fb690",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39858
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa6c62932d1670fb",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 31814
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f48870dad7caeab",
+      "status" : "passed",
+      "time" : {
+        "duration" : 230610
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchersTeamPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86e025ef54be517f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 225801
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchBoxValidation@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "183322414bab307e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 94477
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyRssFeeds@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "282b9e6a095c992b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20964
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoHomeTest:IohkIoTest.IohkIoHomeTest#verifyTeamMembers@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "895618f91e6b90ca",
+      "status" : "passed",
+      "time" : {
+        "duration" : 57636
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoResearchTest:IohkIoTest.IohkIoResearchTest#verifyResearchPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b15591233c4b369b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$339/0x0000000801031440@38b4d7c7 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20E241, safari:platformVersion: 11.3.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: a234499ec32f6c466b076561c88..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: a234499ec32f6c466b076561c883dff48b821330",
+      "time" : {
+        "duration" : 150113
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoBlogTest:IohkIoTest.IohkIoBlogTest#verifySearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddafc585126b0f27",
+      "status" : "failed",
+      "statusDetails" : "Element is not displayed",
+      "time" : {
+        "duration" : 63347
+      }
+    } ]
+  }
+}

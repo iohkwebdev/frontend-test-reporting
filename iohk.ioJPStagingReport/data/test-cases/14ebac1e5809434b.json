@@ -1,0 +1,53 @@
+{
+  "uid" : "14ebac1e5809434b",
+  "name" : "verifyCareersPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "IohkIoTest.IohkIoCareersTest:IohkIoTest.IohkIoCareersTest#verifyCareersPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 60426
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "729be2d3e8dc9ab4",
+      "name" : "System out",
+      "source" : "729be2d3e8dc9ab4.txt",
+      "type" : "text/plain",
+      "size" : 1851
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoCareersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoCareersTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoCareersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14ebac1e5809434b.json",
+  "parameterValues" : [ ]
+}

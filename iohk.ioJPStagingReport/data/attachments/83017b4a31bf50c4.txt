@@ -1,0 +1,62 @@
+-------------------------------------------------------------------------------
+Test set: IohkIoTest.IohkIoHomeTest
+-------------------------------------------------------------------------------
+Tests run: 60, Failures: 1, Errors: 6, Skipped: 0, Time elapsed: 6,247.168 sec <<< FAILURE!
+verifyTeamMembers@Chrome(version="90", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 337.21 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
+	at IohkIoTest.IohkIoHomeTest.setupTest(IohkIoHomeTest.java:71)
+
+verifyFooterLinks@Safari(version="14", platform="MAC")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 77.985 sec  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Remote browser did not respond to getCurrentUrl
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: driver.version: RemoteWebDriver
+	at IohkIoTest.IohkIoHomeTest.verifyFooterLinks(IohkIoHomeTest.java:91)
+
+verifyMenuRedirection@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 59.063 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: 
+Current url is not equal to "https://deploy-preview-716--iohk-io-staging.netlify.app/jp/technology/"
+    Current url: https://deploy-preview-716--iohk-io-staging.netlify.app/jp/
+	at IohkIoTest.IohkIoHomeTest.verifyMenuRedirection(IohkIoHomeTest.java:131)
+
+verifyInformationModalOnAnimation@Chrome(version="90", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 85.519 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of [[RemoteWebDriver: chrome on WINDOWS (c78a0ce0b63fc86990f22284d1361352041a2308)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Windows\proxy\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5415}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 90.0.4430.72, webStorageEnabled: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: c78a0ce0b63fc86990f22284d13...}
+Session ID: c78a0ce0b63fc86990f22284d1361352041a2308
+	at IohkIoTest.IohkIoHomeTest.verifyInformationModalOnAnimation(IohkIoHomeTest.java:121)
+
+verifyInformationModalOnAnimation@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 78.442 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of [[RemoteWebDriver: msedge on WINDOWS (7ee022c66675a2bc4f59f0a2299511ffbb62ea1e)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4617}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 7ee022c66675a2bc4f59f0a2299...}
+Session ID: 7ee022c66675a2bc4f59f0a2299511ffbb62ea1e
+	at IohkIoTest.IohkIoHomeTest.verifyInformationModalOnAnimation(IohkIoHomeTest.java:121)
+
+verifyInformationModalOnAnimation@Firefox(version="88", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 104.819 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of [[RemoteWebDriver: firefox on WINDOWS (0237282d84117204094b87c5b8fa865cbe742124)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 4668, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0237282d84117204094b87c5b8f...}
+Session ID: 0237282d84117204094b87c5b8fa865cbe742124
+	at IohkIoTest.IohkIoHomeTest.verifyInformationModalOnAnimation(IohkIoHomeTest.java:121)
+
+verifyChangingAnimationHomeScreen@Edge(version="90", platform="WINDOWS")(IohkIoTest.IohkIoHomeTest)  Time elapsed: 95.326 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of [[RemoteWebDriver: msedge on WINDOWS (bac25d0e81a547bcb8de8b6f0982cba65cab215a)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:5756}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: bac25d0e81a547bcb8de8b6f098...}
+Session ID: bac25d0e81a547bcb8de8b6f0982cba65cab215a
+	at IohkIoTest.IohkIoHomeTest.verifyChangingAnimationHomeScreen(IohkIoHomeTest.java:111)
+

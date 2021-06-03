@@ -1,0 +1,364 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: msedge on WINDOWS (7ee022c66675a2bc4f59f0a2299511ffbb62ea1e)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4617}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 7ee022c66675a2bc4f59f0a2299...} Session ID: 7ee022c66675a2bc4f59f0a2299511ffbb62ea1e",
+      "children" : [ {
+        "name" : "verifyInformationModalOnAnimation@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "8d7cdb6b94f4add",
+        "parentUid" : "eca7e6de5e7135f82483baf5ac83a199",
+        "status" : "broken",
+        "time" : {
+          "duration" : 78442
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eca7e6de5e7135f82483baf5ac83a199"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".ContentNavigation__Container-sc-1m4cwm0-0\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 347 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-226-174', ip: '10.144.226.174', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7801}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir8552_473865749}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 79910a53922f94ff04c0b64243cce143 *** Element info: {Using=css selector, value=.ContentNavigation__Container-sc-1m4cwm0-0} Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyResearchPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "99ed623b42e722ed",
+        "parentUid" : "bf01ea2618817d263dab8e05fc7b7ed3",
+        "status" : "broken",
+        "time" : {
+          "duration" : 65888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf01ea2618817d263dab8e05fc7b7ed3"
+    }, {
+      "name" : "Unable to locate element: .ContentNavigation__Container-sc-1m4cwm0-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 1348, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0903877a08a3d8d68039a2eb7d1...} Session ID: 0903877a08a3d8d68039a2eb7d1d36cd9dd05d9c *** Element info: {Using=css selector, value=.ContentNavigation__Container-sc-1m4cwm0-0}",
+      "children" : [ {
+        "name" : "verifyResearchPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "746047fb71a32eee",
+        "parentUid" : "22d871a0a226f3978b0e444b5731c90b",
+        "status" : "broken",
+        "time" : {
+          "duration" : 67443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "22d871a0a226f3978b0e444b5731c90b"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$339/0x0000000801031440@5ca5624d (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:7491}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: aa3572f585c712b4ae987b20137...} Session ID: aa3572f585c712b4ae987b201378da2430cb0022",
+      "children" : [ {
+        "name" : "verifyResearchPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "383c84b06efbe8a",
+        "parentUid" : "f81a4e69633b2e95f9b87597fb4e418e",
+        "status" : "broken",
+        "time" : {
+          "duration" : 118223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f81a4e69633b2e95f9b87597fb4e418e"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: chrome on WINDOWS (c78a0ce0b63fc86990f22284d1361352041a2308)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5415}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 90.0.4430.72, webStorageEnabled: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: c78a0ce0b63fc86990f22284d13...} Session ID: c78a0ce0b63fc86990f22284d1361352041a2308",
+      "children" : [ {
+        "name" : "verifyInformationModalOnAnimation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "9ff92887672a36fe",
+        "parentUid" : "42d83a2be35602fe35062230e3126df0",
+        "status" : "broken",
+        "time" : {
+          "duration" : 85519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "42d83a2be35602fe35062230e3126df0"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20E241, safari:platformVersion: 11.3.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 56b857fbec8f2a845fb67d1e7b3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 56b857fbec8f2a845fb67d1e7b307ca8935a06e3 *** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}",
+      "children" : [ {
+        "name" : "verifyBlogPage@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "2eac18040e475e6f",
+        "parentUid" : "f6faafed2f309be168b2857974a88aa2",
+        "status" : "broken",
+        "time" : {
+          "duration" : 21970
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6faafed2f309be168b2857974a88aa2"
+    }, {
+      "name" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "verifyFooterLinks@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "6711732922480a01",
+        "parentUid" : "d017d712328aef13bb800018166e7d36",
+        "status" : "broken",
+        "time" : {
+          "duration" : 77985
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d017d712328aef13bb800018166e7d36"
+    }, {
+      "name" : "Unable to locate element: [data-ui='open-jobs-button'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 43796, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 8d70c12fbda31462150053e35ba...} Session ID: 8d70c12fbda31462150053e35ba1385d891c02ec *** Element info: {Using=css selector, value=[data-ui='open-jobs-button']}",
+      "children" : [ {
+        "name" : "verifyCareersPage@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "bf0cff58e8a8c95f",
+        "parentUid" : "2c2d3cea8901423330f109c1829466c0",
+        "status" : "broken",
+        "time" : {
+          "duration" : 24775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c2d3cea8901423330f109c1829466c0"
+    }, {
+      "name" : "Index 1 out of bounds for length 0",
+      "children" : [ {
+        "name" : "verifyTeamMembers@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "6ac3c097318dfb90",
+        "parentUid" : "47d82206d557e7edbd0d77bb385542aa",
+        "status" : "broken",
+        "time" : {
+          "duration" : 337210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47d82206d557e7edbd0d77bb385542aa"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.0.3, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20D91, safari:platformVersion: 11.2.3, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 6caeaa2f67fc6da31059c2283d3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 6caeaa2f67fc6da31059c2283d30706030bd71a3 *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchBoxValidation@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "ff7de774c8dc484d",
+        "parentUid" : "89840f3dcb9e0f5b9a2a1c10ba584b5d",
+        "status" : "broken",
+        "time" : {
+          "duration" : 20535
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89840f3dcb9e0f5b9a2a1c10ba584b5d"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: msedge on WINDOWS (bac25d0e81a547bcb8de8b6f0982cba65cab215a)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:5756}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: bac25d0e81a547bcb8de8b6f098...} Session ID: bac25d0e81a547bcb8de8b6f0982cba65cab215a",
+      "children" : [ {
+        "name" : "verifyChangingAnimationHomeScreen@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "359f1f888785c022",
+        "parentUid" : "f96c275603ecaf6dfc93be9e8aae94cb",
+        "status" : "broken",
+        "time" : {
+          "duration" : 95326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f96c275603ecaf6dfc93be9e8aae94cb"
+    }, {
+      "name" : "Unable to locate element: .PaginatedItems__Container-uoqn2s-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 8652, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 35c8a0191550de1548e19c32635...} Session ID: 35c8a0191550de1548e19c32635898a419600b5a *** Element info: {Using=css selector, value=.PaginatedItems__Container-uoqn2s-0}",
+      "children" : [ {
+        "name" : "verifyBlogPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "5b31c0bb8f727617",
+        "parentUid" : "91fdccddb868b9baa65038b05f2d1309",
+        "status" : "broken",
+        "time" : {
+          "duration" : 54061
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "91fdccddb868b9baa65038b05f2d1309"
+    }, {
+      "name" : "Expected condition failed: waiting for visibility of [[RemoteWebDriver: firefox on WINDOWS (0237282d84117204094b87c5b8fa865cbe742124)] -> css selector: .Layout__Main-sc-1l0f2l4-0 iframe] (tried for 30 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 4668, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 0237282d84117204094b87c5b8f...} Session ID: 0237282d84117204094b87c5b8fa865cbe742124",
+      "children" : [ {
+        "name" : "verifyInformationModalOnAnimation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "448d3d2934f1a788",
+        "parentUid" : "1563af7627534609037ba5616cddb227",
+        "status" : "broken",
+        "time" : {
+          "duration" : 104819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1563af7627534609037ba5616cddb227"
+    }, {
+      "name" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 5020, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: df021c18684a0f7576edc78e0e4...} Session ID: df021c18684a0f7576edc78e0e4693e3cbd65dd0 *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "c4f22c11a54447fa",
+        "parentUid" : "4453d138807b2ecff2134385a2494f13",
+        "status" : "broken",
+        "time" : {
+          "duration" : 45232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4453d138807b2ecff2134385a2494f13"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$339/0x0000000801031440@38b4d7c7 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20E241, safari:platformVersion: 11.3.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: a234499ec32f6c466b076561c88..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: a234499ec32f6c466b076561c883dff48b821330",
+      "children" : [ {
+        "name" : "verifyResearchPage@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "b15591233c4b369b",
+        "parentUid" : "987d00265820db8649a8b04103a7f74d",
+        "status" : "broken",
+        "time" : {
+          "duration" : 150113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "987d00265820db8649a8b04103a7f74d"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$339/0x0000000801031440@3d0f53c3 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: /var/folders/yj/h3bj394n2tn...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54624}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 90.0.4430.72, webStorageEnabled: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 37f368224eaf1c68e9c84891847...} Session ID: 37f368224eaf1c68e9c84891847e89aa7dde8a4e",
+      "children" : [ {
+        "name" : "verifyResearchPage@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "1f742b0c85016215",
+        "parentUid" : "326c6121ecbb60964cb8e6e0ecf820b9",
+        "status" : "broken",
+        "time" : {
+          "duration" : 66453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "326c6121ecbb60964cb8e6e0ecf820b9"
+    }, {
+      "name" : "Unable to locate element: *[name='query'] For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c52:e704:857f:7283%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7528, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 437180ad2588b13e4077a41bef8...} Session ID: 437180ad2588b13e4077a41bef804139f429fe33 *** Element info: {Using=name, value=query}",
+      "children" : [ {
+        "name" : "verifySearchBoxValidation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "bed0896312e8513",
+        "parentUid" : "5ee7dc2c16225e1bf93620cb4f52a0a7",
+        "status" : "broken",
+        "time" : {
+          "duration" : 65346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ee7dc2c16225e1bf93620cb4f52a0a7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element is not displayed",
+      "children" : [ {
+        "name" : "verifySearchResultsPresent@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "aa6c62932d1670fb",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 31814
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySearchResultsPresent@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "f083c75e4c922e9f",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 38892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySearchResultsPresent@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "ddafc585126b0f27",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 63347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySearchResultsPresent@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "23261f014398d7a1",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 37718
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyNoSearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "735892be2ab4ac7f",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 71948
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySearchResultsPresent@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "c584507c426f5b5b",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 114495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyNoSearchResultsPresent@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "20b6d471c1953359",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 59855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a59b5351c4689bc6959c6affe8ae3c"
+    }, {
+      "name" : "Current url is not equal to \"https://deploy-preview-716--iohk-io-staging.netlify.app/jp/technology/\"     Current url: https://deploy-preview-716--iohk-io-staging.netlify.app/jp/",
+      "children" : [ {
+        "name" : "verifyMenuRedirection@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "a53b8dd33cb257d",
+        "parentUid" : "9eb4609f966a633f02dfc83fc8c6a6f4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 59063
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9eb4609f966a633f02dfc83fc8c6a6f4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
