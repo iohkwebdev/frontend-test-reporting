@@ -1,5 +1,5 @@
 {
-  "reportName" : "Allure Report",
+  "reportName" : "Iohk.io JP Translations Regression test Report",
   "testRuns" : [ ],
   "statistic" : {
     "failed" : 8,
