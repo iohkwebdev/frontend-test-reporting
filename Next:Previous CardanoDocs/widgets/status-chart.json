@@ -1,0 +1,49 @@
+[ {
+  "uid" : "ccf860d7dba7c450",
+  "name" : "verifyNextPrevNavigation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 693851
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f33f75cfde09316",
+  "name" : "verifyNextPrevNavigation@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 692014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70fe04975fa3a3a8",
+  "name" : "verifyNextPrevNavigation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 735136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7ac96040c4ea154",
+  "name" : "verifyNextPrevNavigation@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 890965
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f6b896371f35edf",
+  "name" : "verifyNextPrevNavigation@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 630101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c7ec1e874b574c4",
+  "name" : "verifyNextPrevNavigation@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 824774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

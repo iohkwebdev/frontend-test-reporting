@@ -1,0 +1,17 @@
+{
+  "reportName": "Next/Previous CardanoDocs Report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 0,
+    "broken": 0,
+    "skipped": 0,
+    "passed": 6,
+    "unknown": 0,
+    "total": 6
+  },
+  "time": {
+    "minDuration": 630101,
+    "maxDuration": 890965,
+    "sumDuration": 4466841
+  }
+}

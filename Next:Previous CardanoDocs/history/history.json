@@ -1,0 +1,104 @@
+{
+  "DesktopTest.CardanoDocNextPrevTest:DesktopTest.CardanoDocNextPrevTest#verifyNextPrevNavigation@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7ac96040c4ea154",
+      "status" : "passed",
+      "time" : {
+        "duration" : 890965
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocNextPrevTest:DesktopTest.CardanoDocNextPrevTest#verifyNextPrevNavigation@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c7ec1e874b574c4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 824774
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocNextPrevTest:DesktopTest.CardanoDocNextPrevTest#verifyNextPrevNavigation@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ccf860d7dba7c450",
+      "status" : "passed",
+      "time" : {
+        "duration" : 693851
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocNextPrevTest:DesktopTest.CardanoDocNextPrevTest#verifyNextPrevNavigation@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f6b896371f35edf",
+      "status" : "passed",
+      "time" : {
+        "duration" : 630101
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocNextPrevTest:DesktopTest.CardanoDocNextPrevTest#verifyNextPrevNavigation@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f33f75cfde09316",
+      "status" : "passed",
+      "time" : {
+        "duration" : 692014
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocNextPrevTest:DesktopTest.CardanoDocNextPrevTest#verifyNextPrevNavigation@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70fe04975fa3a3a8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 735136
+      }
+    } ]
+  }
+}

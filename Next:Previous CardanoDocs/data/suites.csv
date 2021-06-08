@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","693851","","DesktopTest.CardanoDocNextPrevTest","","DesktopTest.CardanoDocNextPrevTest","","verifyNextPrevNavigation@Chrome(version=""90"", platform=""WINDOWS"")",""
+"passed","","","692014","","DesktopTest.CardanoDocNextPrevTest","","DesktopTest.CardanoDocNextPrevTest","","verifyNextPrevNavigation@Firefox(version=""88"", platform=""MAC"")",""
+"passed","","","735136","","DesktopTest.CardanoDocNextPrevTest","","DesktopTest.CardanoDocNextPrevTest","","verifyNextPrevNavigation@Firefox(version=""88"", platform=""WINDOWS"")",""
+"passed","","","890965","","DesktopTest.CardanoDocNextPrevTest","","DesktopTest.CardanoDocNextPrevTest","","verifyNextPrevNavigation@Edge(version=""90"", platform=""WINDOWS"")",""
+"passed","","","630101","","DesktopTest.CardanoDocNextPrevTest","","DesktopTest.CardanoDocNextPrevTest","","verifyNextPrevNavigation@Safari(version=""14"", platform=""MAC"")",""
+"passed","","","824774","","DesktopTest.CardanoDocNextPrevTest","","DesktopTest.CardanoDocNextPrevTest","","verifyNextPrevNavigation@Chrome(version=""90"", platform=""MAC"")",""
