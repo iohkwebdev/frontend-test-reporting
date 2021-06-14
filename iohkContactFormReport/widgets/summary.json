@@ -1,0 +1,17 @@
+{
+  "reportName": "Iohk.io - Commercial contact form  report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 0,
+    "broken": 0,
+    "skipped": 0,
+    "passed": 6,
+    "unknown": 0,
+    "total": 6
+  },
+  "time": {
+    "minDuration": 66581,
+    "maxDuration": 223161,
+    "sumDuration": 906261
+  }
+}

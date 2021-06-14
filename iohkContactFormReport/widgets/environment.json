@@ -1,0 +1,28 @@
+[ {
+  "values" : [ "Version, platform , capabilities used for testing" ],
+  "name" : "Browsers"
+}, {
+  "values" : [ "Tested on Browserstack Mac OS" ],
+  "name" : "MacSection"
+}, {
+  "values" : [ "(version=\"90\", platform = Platform.MAC, desiredCapabilities = BrowserStackCapabilities.cardanoAfricaLandingPageEnvironmentSettings)" ],
+  "name" : "@ChromeMac"
+}, {
+  "values" : [ "(version=\"88\", platform = Platform.MAC, desiredCapabilities = BrowserStackCapabilities.cardanoAfricaLandingPageEnvironmentSettings)" ],
+  "name" : "@FirefoxMac"
+}, {
+  "values" : [ "(version = \"14\", platform = Platform.MAC, desiredCapabilities = BrowserStackCapabilities.cardanoAfricaLandingPageEnvironmentSettings)" ],
+  "name" : "@Safari"
+}, {
+  "values" : [ "Tested on Browserstack Windows OS" ],
+  "name" : "WindowsSection"
+}, {
+  "values" : [ "(version=\"90\", platform = Platform.WINDOWS, desiredCapabilities = BrowserStackCapabilities.cardanoAfricaLandingPageEnvironmentSettings)" ],
+  "name" : "@ChromeWindows"
+}, {
+  "values" : [ "(version=\"88\", platform = Platform.WINDOWS, desiredCapabilities = BrowserStackCapabilities.cardanoAfricaLandingPageEnvironmentSettings)" ],
+  "name" : "@FirefoxWindows"
+}, {
+  "values" : [ "(version = \"90\", platform = Platform.WINDOWS, desiredCapabilities = BrowserStackCapabilities.cardanoAfricaLandingPageEnvironmentSettings)" ],
+  "name" : "@Edge"
+} ]

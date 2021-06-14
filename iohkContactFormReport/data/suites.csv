@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","96782","","IohkIoTest.IohkIoContactTest","","IohkIoTest.IohkIoContactTest","","verifyContactPageTest@Firefox(version=""88"", platform=""WINDOWS"")",""
+"passed","","","141665","","IohkIoTest.IohkIoContactTest","","IohkIoTest.IohkIoContactTest","","verifyContactPageTest@Firefox(version=""88"", platform=""MAC"")",""
+"passed","","","179224","","IohkIoTest.IohkIoContactTest","","IohkIoTest.IohkIoContactTest","","verifyContactPageTest@Chrome(version=""90"", platform=""MAC"")",""
+"passed","","","223161","","IohkIoTest.IohkIoContactTest","","IohkIoTest.IohkIoContactTest","","verifyContactPageTest@Chrome(version=""90"", platform=""WINDOWS"")",""
+"passed","","","198848","","IohkIoTest.IohkIoContactTest","","IohkIoTest.IohkIoContactTest","","verifyContactPageTest@Edge(version=""90"", platform=""WINDOWS"")",""
+"passed","","","66581","","IohkIoTest.IohkIoContactTest","","IohkIoTest.IohkIoContactTest","","verifyContactPageTest@Safari(version=""14"", platform=""MAC"")",""

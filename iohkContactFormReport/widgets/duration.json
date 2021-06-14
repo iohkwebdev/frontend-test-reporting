@@ -1,0 +1,49 @@
+[ {
+  "uid" : "9f0d6c72f2d507e0",
+  "name" : "verifyContactPageTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 96782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb98518a003f0b8e",
+  "name" : "verifyContactPageTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 141665
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d7f726de105d708",
+  "name" : "verifyContactPageTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 179224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "650ee268fe7219d4",
+  "name" : "verifyContactPageTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 223161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6e77f91094f0356",
+  "name" : "verifyContactPageTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 198848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b56332ab33d28715",
+  "name" : "verifyContactPageTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 66581
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,104 @@
+{
+  "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb98518a003f0b8e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 141665
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d7f726de105d708",
+      "status" : "passed",
+      "time" : {
+        "duration" : 179224
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "650ee268fe7219d4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 223161
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f0d6c72f2d507e0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 96782
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6e77f91094f0356",
+      "status" : "passed",
+      "time" : {
+        "duration" : 198848
+      }
+    } ]
+  },
+  "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b56332ab33d28715",
+      "status" : "passed",
+      "time" : {
+        "duration" : 66581
+      }
+    } ]
+  }
+}

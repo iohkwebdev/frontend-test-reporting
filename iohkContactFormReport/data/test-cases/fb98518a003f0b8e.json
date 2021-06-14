@@ -1,0 +1,53 @@
+{
+  "uid" : "fb98518a003f0b8e",
+  "name" : "verifyContactPageTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "historyId" : "IohkIoTest.IohkIoContactTest:IohkIoTest.IohkIoContactTest#verifyContactPageTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 141665
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70dad6fb93e1b806",
+      "name" : "System out",
+      "source" : "70dad6fb93e1b806.txt",
+      "type" : "text/plain",
+      "size" : 275
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "IohkIoTest.IohkIoContactTest"
+  }, {
+    "name" : "testClass",
+    "value" : "IohkIoTest.IohkIoContactTest"
+  }, {
+    "name" : "package",
+    "value" : "IohkIoTest.IohkIoContactTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb98518a003f0b8e.json",
+  "parameterValues" : [ ]
+}
