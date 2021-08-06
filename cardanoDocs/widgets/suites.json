@@ -1,0 +1,114 @@
+{
+  "total" : 26,
+  "items" : [ {
+    "uid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+    "name" : "DesktopTest.CardanoDocsHomeTest",
+    "statistic" : {
+      "failed" : 12,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 42
+    }
+  }, {
+    "uid" : "1c7c4fec99a9a8a6e869b3fe132ae5b4",
+    "name" : "MobileTest.MobileCardanoDocsHomeTest",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "aa1fd1158a4bcc29c9fe2713495bf623",
+    "name" : "MobileTest.MobileCardanoDocsCoreConceptsTest",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "5ac2e9ff49ef8d4dc27ac0a3b30db874",
+    "name" : "DesktopTest.CardanoDocsMarloweTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "900752ff9bf963c70aa4e9bad775b3fd",
+    "name" : "DesktopTest.CardanoDocsCardanoComponentsTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "2d0bd622c37638d04215d7f2a848d725",
+    "name" : "MobileTest.MobileCardanoDocsGettingStartedTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "6ed7a6b6656301655272a6fc55944c82",
+    "name" : "DesktopTest.CardanoDocsNativeTokensTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "a387188ed2acd90ec1848e486e554733",
+    "name" : "DesktopTest.CardanoDocsNewToCardanoTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "c79704d6afec7eaec264eb93f4019c7f",
+    "name" : "DesktopTest.CardanoDocsLearnTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "11c49f3b955a228dd2e4c3dc79da0620",
+    "name" : "DesktopTest.CardanoDocsExploreCardanoTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 18
+    }
+  } ]
+}

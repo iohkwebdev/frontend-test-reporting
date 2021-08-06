@@ -1,0 +1,53 @@
+{
+  "uid" : "708b120c96080a2f",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.CardanoDocsToolsTest:DesktopTest.CardanoDocsToolsTest#verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46709
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "104cc54cc9edc9eb",
+      "name" : "System out",
+      "source" : "104cc54cc9edc9eb.txt",
+      "type" : "text/plain",
+      "size" : 11264
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsToolsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsToolsTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsToolsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "708b120c96080a2f.json",
+  "parameterValues" : [ ]
+}

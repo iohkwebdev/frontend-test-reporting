@@ -1,0 +1,53 @@
+{
+  "uid" : "94acbfe0e5817858",
+  "name" : "verifyMobileSocialMediaTopLinkTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileTest.MobileCardanoDocsHomeTest:MobileTest.MobileCardanoDocsHomeTest#verifyMobileSocialMediaTopLinkTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 3457
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bd50d45cdadeadcd",
+      "name" : "System out",
+      "source" : "bd50d45cdadeadcd.txt",
+      "type" : "text/plain",
+      "size" : 16043
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94acbfe0e5817858.json",
+  "parameterValues" : [ ]
+}

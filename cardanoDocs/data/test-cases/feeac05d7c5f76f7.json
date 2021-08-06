@@ -1,0 +1,53 @@
+{
+  "uid" : "feeac05d7c5f76f7",
+  "name" : "verifyMobileCardanoDocsRosettaNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTest.MobileCardanoDocsRosettaTest:MobileTest.MobileCardanoDocsRosettaTest#verifyMobileCardanoDocsRosettaNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 121973
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "178db378c0234112",
+      "name" : "System out",
+      "source" : "178db378c0234112.txt",
+      "type" : "text/plain",
+      "size" : 286
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsRosettaTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsRosettaTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsRosettaTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "feeac05d7c5f76f7.json",
+  "parameterValues" : [ ]
+}

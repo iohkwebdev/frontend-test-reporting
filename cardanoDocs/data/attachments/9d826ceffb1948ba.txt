@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoPlutsTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 217.694 sec <<< FAILURE!
+verifyMobileCardanoDocsPlutsPageLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoPlutsTest)  Time elapsed: 38.564 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+Element is no longer attached to the DOM
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001249D11447802E, useXctestrunFile: true, webStorageEnabled: false}
+Session ID: 19b8fec89de52fa90bf43aafebf7de8533ab7a3c
+	at MobileTest.MobileCardanoPlutsTest.verifyMobileCardanoDocsPlutsPageLinksTest(MobileCardanoPlutsTest.java:65)
+
+verifyMobileCardanoDocsPlutsPageLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoPlutsTest)  Time elapsed: 17.097 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=91.0.4472.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18085, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18085, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8205, udid: RFCN20C892A}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20C892A, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20C892A, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8205, takesScreenshot: true, udid: RFCN20C892A, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: d79044e35ee4cefd8dc66631d5d77ba1f5f671dd
+	at MobileTest.MobileCardanoPlutsTest.verifyMobileCardanoDocsPlutsPageLinksTest(MobileCardanoPlutsTest.java:65)
+

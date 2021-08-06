@@ -1,0 +1,53 @@
+{
+  "uid" : "3bffe4776463df9c",
+  "name" : "verifyMobileCardanoDocsLearnPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileTest.MobileCardanoDocsLearnTest:MobileTest.MobileCardanoDocsLearnTest#verifyMobileCardanoDocsLearnPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 4228
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d9514353f6aa0e7d",
+      "name" : "System out",
+      "source" : "d9514353f6aa0e7d.txt",
+      "type" : "text/plain",
+      "size" : 284
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsLearnTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsLearnTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsLearnTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bffe4776463df9c.json",
+  "parameterValues" : [ ]
+}

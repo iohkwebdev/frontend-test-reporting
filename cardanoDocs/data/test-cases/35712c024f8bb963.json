@@ -1,0 +1,53 @@
+{
+  "uid" : "35712c024f8bb963",
+  "name" : "verifyMobileCardanoComponentsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTest.MobileCardanoDocsCardanoComponentsTest:MobileTest.MobileCardanoDocsCardanoComponentsTest#verifyMobileCardanoComponentsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 108025
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "150d5b5c083eb6a7",
+      "name" : "System out",
+      "source" : "150d5b5c083eb6a7.txt",
+      "type" : "text/plain",
+      "size" : 1046
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsCardanoComponentsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsCardanoComponentsTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsCardanoComponentsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35712c024f8bb963.json",
+  "parameterValues" : [ ]
+}

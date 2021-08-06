@@ -1,0 +1,53 @@
+{
+  "uid" : "8e79ded67237082d",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "DesktopTest.CardanoDocsNewToCardanoTest:DesktopTest.CardanoDocsNewToCardanoTest#verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 139041
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9fe2d6061e8d80a4",
+      "name" : "System out",
+      "source" : "9fe2d6061e8d80a4.txt",
+      "type" : "text/plain",
+      "size" : 15978
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsNewToCardanoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsNewToCardanoTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsNewToCardanoTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e79ded67237082d.json",
+  "parameterValues" : [ ]
+}

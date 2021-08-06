@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: DesktopTest.CardanoDocsCardanoComponentsTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2,857.768 sec <<< FAILURE!
+verifyCardanoComponentsPageLinksTest@Chrome(version="90", platform="MAC")(DesktopTest.CardanoDocsCardanoComponentsTest)  Time elapsed: 406.374 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: 
+Current url is not containing "https://www.rust-lang.org/"
+    Current url: https://docs.cardano.org/cardano-components/cardano-serialization-lib
+	at DesktopTest.CardanoDocsCardanoComponentsTest.verifyCardanoComponentsPageLinksTest(CardanoDocsCardanoComponentsTest.java:80)
+

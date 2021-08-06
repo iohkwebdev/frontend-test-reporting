@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoDocsExploreCardanoTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 157.717 sec <<< FAILURE!
+verifyMobileExploreCardanoSubmenuTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsExploreCardanoTest)  Time elapsed: 21.29 sec  <<< ERROR!
+java.lang.NullPointerException
+	at MobileTest.MobileCardanoDocsExploreCardanoTest.verifyMobileExploreCardanoSubmenuTest(MobileCardanoDocsExploreCardanoTest.java:55)
+
+verifyMobileExploreCardanoSubmenuTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsExploreCardanoTest)  Time elapsed: 21.051 sec  <<< ERROR!
+java.lang.NullPointerException
+	at MobileTest.MobileCardanoDocsExploreCardanoTest.verifyMobileExploreCardanoSubmenuTest(MobileCardanoDocsExploreCardanoTest.java:55)
+
+verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsExploreCardanoTest)  Time elapsed: 7.762 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 16
+	at MobileTest.MobileCardanoDocsExploreCardanoTest.verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest(MobileCardanoDocsExploreCardanoTest.java:74)
+
+verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsExploreCardanoTest)  Time elapsed: 8.031 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 16
+	at MobileTest.MobileCardanoDocsExploreCardanoTest.verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest(MobileCardanoDocsExploreCardanoTest.java:74)
+
+verifyMobileDiscoverCardanoPageLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsExploreCardanoTest)  Time elapsed: 7.622 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 16
+	at MobileTest.MobileCardanoDocsExploreCardanoTest.verifyMobileDiscoverCardanoPageLinksTest(MobileCardanoDocsExploreCardanoTest.java:64)
+
+verifyMobileDiscoverCardanoPageLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsExploreCardanoTest)  Time elapsed: 15.28 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 16
+	at MobileTest.MobileCardanoDocsExploreCardanoTest.verifyMobileDiscoverCardanoPageLinksTest(MobileCardanoDocsExploreCardanoTest.java:64)
+

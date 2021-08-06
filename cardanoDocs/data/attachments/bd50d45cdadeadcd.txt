@@ -1,0 +1,108 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoDocsHomeTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 2, Errors: 8, Skipped: 0, Time elapsed: 273.832 sec <<< FAILURE!
+verifyMobileButtonsSectionStartingPageTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 4.505 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-0010046126FB802E, useXctestrunFile: true, webStorageEnabled: false}
+Session ID: a3e3495afd204715a17b6b8b1baeda46f40ba2ca
+*** Element info: {Using=css selector, value=.css-zpof0k a}
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileButtonsSectionStartingPageTest(MobileCardanoDocsHomeTest.java:82)
+
+verifyMobileButtonsSectionStartingPageTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 4.427 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":".css-zpof0k a"}
+  (Session info: chrome=91.0.4472.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18084, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18084, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8204, udid: RFCN20SGR9H}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SGR9H, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SGR9H, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8204, takesScreenshot: true, udid: RFCN20SGR9H, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ae74c87204f0161b867260370d89ee6c97c3f166
+*** Element info: {Using=css selector, value=.css-zpof0k a}
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileButtonsSectionStartingPageTest(MobileCardanoDocsHomeTest.java:82)
+
+verifyMobileDayAndNightSwitchTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 7.568 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileDayAndNightSwitchTest(MobileCardanoDocsHomeTest.java:102)
+
+verifyMobileDayAndNightSwitchTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 7.991 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: Element is not displayed
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileDayAndNightSwitchTest(MobileCardanoDocsHomeTest.java:102)
+
+verifyMobileIntroductionPageContentTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 9.441 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001E202A34DB802E, useXctestrunFile: true, webStorageEnabled: false}
+Session ID: d722fbaa04eab57cca637acb0b841f303ed3a923
+*** Element info: {Using=id, value=information}
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileIntroductionPageContentTest(MobileCardanoDocsHomeTest.java:92)
+
+verifyMobileIntroductionPageContentTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 13.044 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"#information"}
+  (Session info: chrome=91.0.4472.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18085, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18085, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8205, udid: RFCN20SF4XR}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SF4XR, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SF4XR, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8205, takesScreenshot: true, udid: RFCN20SF4XR, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 7788a86ab571b5b4be4843cfcab85119b4f80b7e
+*** Element info: {Using=id, value=information}
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileIntroductionPageContentTest(MobileCardanoDocsHomeTest.java:92)
+
+verifyMobileSocialMediaFooterLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 19.383 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+Element does not exist in cache
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001249462607802E, useXctestrunFile: true, webStorageEnabled: false}
+Session ID: f4319f0820dce0995c1dc5d8dbaf7bac7062eb28
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileSocialMediaFooterLinksTest(MobileCardanoDocsHomeTest.java:63)
+
+verifyMobileSocialMediaFooterLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 15.46 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=91.0.4472.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8202, udid: RFCN20C84JW}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20C84JW, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20C84JW, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20C84JW, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8747d2e241cd5421fdae40e1aeed74953aec64aa
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileSocialMediaFooterLinksTest(MobileCardanoDocsHomeTest.java:63)
+
+verifyMobileFooterLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 33.638 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+Element does not exist in cache
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-000258262607802E, useXctestrunFile: true, webStorageEnabled: false}
+Session ID: 4672890115d2766a88195e5fce1138a461a00791
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileFooterLinksTest(MobileCardanoDocsHomeTest.java:72)
+
+verifyMobileFooterLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsHomeTest)  Time elapsed: 39.491 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=91.0.4472.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18085, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18085, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8205, udid: RFCN20SGWSW}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SGWSW, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SGWSW, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8205, takesScreenshot: true, udid: RFCN20SGWSW, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 37cfe7d1e216bdba054765526aba836646e20f24
+	at MobileTest.MobileCardanoDocsHomeTest.verifyMobileFooterLinksTest(MobileCardanoDocsHomeTest.java:72)
+

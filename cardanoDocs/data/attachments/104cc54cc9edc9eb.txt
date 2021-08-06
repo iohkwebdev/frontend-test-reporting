@@ -1,0 +1,81 @@
+-------------------------------------------------------------------------------
+Test set: DesktopTest.CardanoDocsToolsTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 942.886 sec <<< FAILURE!
+verifyCardanoDocsToolsPageLinksTest@Chrome(version="90", platform="WINDOWS")(DesktopTest.CardanoDocsToolsTest)  Time elapsed: 32.338 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: '10-144-228-16', ip: '10.144.228.16', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:3013}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\Windows\proxy\scoped_dir10764_2106057261}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 1f5f42f9ff588e409abd8a84c4353c4b
+Command duration or timeout: 0 milliseconds
+	at DesktopTest.CardanoDocsToolsTest.verifyCardanoDocsToolsPageLinksTest(CardanoDocsToolsTest.java:80)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+	at DesktopTest.CardanoDocsToolsTest.verifyCardanoDocsToolsPageLinksTest(CardanoDocsToolsTest.java:80)
+Caused by: org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: '10-144-228-16', ip: '10.144.228.16', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:3013}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\Windows\proxy\scoped_dir10764_2106057261}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 1f5f42f9ff588e409abd8a84c4353c4b
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: driver.version: RemoteWebDriver
+
+verifyCardanoDocsToolsPageLinksTest@Edge(version="90", platform="WINDOWS")(DesktopTest.CardanoDocsToolsTest)  Time elapsed: 28.786 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: MicrosoftEdge=90.0.818.39)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4925}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: a0b92efdeb3f6bbe543b3fc8245...}
+Session ID: a0b92efdeb3f6bbe543b3fc824522d884dc6b0fa
+	at DesktopTest.CardanoDocsToolsTest.verifyCardanoDocsToolsPageLinksTest(CardanoDocsToolsTest.java:80)
+
+verifyCardanoDocsToolsPageLinksTest@Firefox(version="88", platform="MAC")(DesktopTest.CardanoDocsToolsTest)  Time elapsed: 27.182 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+The element reference of [object String] "{\"element-6066-11e4-a52e-4f735466cecf\":\"8b627d83-5536-184d-8e9e-adcf4f54787c\"}" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 84929, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: f98593b13562be74025faaf4f50...}
+Session ID: f98593b13562be74025faaf4f50f3ad68dc3b7df
+	at DesktopTest.CardanoDocsToolsTest.verifyCardanoDocsToolsPageLinksTest(CardanoDocsToolsTest.java:80)
+
+verifyCardanoDocsToolsPageLinksTest@Firefox(version="88", platform="WINDOWS")(DesktopTest.CardanoDocsToolsTest)  Time elapsed: 29.701 sec  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+The element reference of [object String] "{\"element-6066-11e4-a52e-4f735466cecf\":\"846313c8-ce36-4fac-9aac-00d9c02edd4a\"}" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 8536, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: fda1259909fbf45cc1d24599832...}
+Session ID: fda1259909fbf45cc1d2459983270035c68a84c9
+	at DesktopTest.CardanoDocsToolsTest.verifyCardanoDocsToolsPageLinksTest(CardanoDocsToolsTest.java:80)
+
+verifyCardanoDocsToolsPageLinksTest@Safari(version="14", platform="MAC")(DesktopTest.CardanoDocsToolsTest)  Time elapsed: 24.462 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20F71, safari:platformVersion: 11.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 0032a480657a1e588ab82ac4f1b..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 0032a480657a1e588ab82ac4f1b9817cc0c9506e
+	at DesktopTest.CardanoDocsToolsTest.verifyCardanoDocsToolsPageLinksTest(CardanoDocsToolsTest.java:80)
+

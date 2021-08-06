@@ -1,0 +1,53 @@
+{
+  "uid" : "a920860b3150482a",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "DesktopTest.CardanoDocsLearnTest:DesktopTest.CardanoDocsLearnTest#verifyCardanoDocsLearnSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 76354
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b675816f8f5c086",
+      "name" : "System out",
+      "source" : "2b675816f8f5c086.txt",
+      "type" : "text/plain",
+      "size" : 2233
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsLearnTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsLearnTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsLearnTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a920860b3150482a.json",
+  "parameterValues" : [ ]
+}

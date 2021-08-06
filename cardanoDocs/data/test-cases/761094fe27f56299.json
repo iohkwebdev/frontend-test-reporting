@@ -1,0 +1,53 @@
+{
+  "uid" : "761094fe27f56299",
+  "name" : "verifyMobileCardanoDocsPlutsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTest.MobileCardanoPlutsTest:MobileTest.MobileCardanoPlutsTest#verifyMobileCardanoDocsPlutsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 16860
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9d826ceffb1948ba",
+      "name" : "System out",
+      "source" : "9d826ceffb1948ba.txt",
+      "type" : "text/plain",
+      "size" : 3991
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoPlutsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoPlutsTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoPlutsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "761094fe27f56299.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: DesktopTest.CardanoDocsLearnTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 1,577.721 sec <<< FAILURE!
+verifyCardanoDocsLearnPageLinksTest@Chrome(version="90", platform="MAC")(DesktopTest.CardanoDocsLearnTest)  Time elapsed: 42.897 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+	at DesktopTest.CardanoDocsLearnTest.verifyCardanoDocsLearnPageLinksTest(CardanoDocsLearnTest.java:79)
+
+verifyCardanoDocsLearnPageLinksTest@Chrome(version="90", platform="WINDOWS")(DesktopTest.CardanoDocsLearnTest)  Time elapsed: 45.319 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+	at DesktopTest.CardanoDocsLearnTest.verifyCardanoDocsLearnPageLinksTest(CardanoDocsLearnTest.java:79)
+
+verifyCardanoDocsLearnPageLinksTest@Edge(version="90", platform="WINDOWS")(DesktopTest.CardanoDocsLearnTest)  Time elapsed: 42.865 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+	at DesktopTest.CardanoDocsLearnTest.verifyCardanoDocsLearnPageLinksTest(CardanoDocsLearnTest.java:79)
+
+verifyCardanoDocsLearnPageLinksTest@Firefox(version="88", platform="MAC")(DesktopTest.CardanoDocsLearnTest)  Time elapsed: 42.563 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+	at DesktopTest.CardanoDocsLearnTest.verifyCardanoDocsLearnPageLinksTest(CardanoDocsLearnTest.java:79)
+
+verifyCardanoDocsLearnPageLinksTest@Firefox(version="88", platform="WINDOWS")(DesktopTest.CardanoDocsLearnTest)  Time elapsed: 47.634 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+	at DesktopTest.CardanoDocsLearnTest.verifyCardanoDocsLearnPageLinksTest(CardanoDocsLearnTest.java:79)
+
+verifyCardanoDocsLearnPageLinksTest@Safari(version="14", platform="MAC")(DesktopTest.CardanoDocsLearnTest)  Time elapsed: 46.199 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 4 out of bounds for length 0
+	at DesktopTest.CardanoDocsLearnTest.verifyCardanoDocsLearnPageLinksTest(CardanoDocsLearnTest.java:79)
+

@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: DesktopTest.CardanoDocsNativeTokensTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 1,163.996 sec <<< FAILURE!
+verifyCardanoDocsNativeTokensPageLinksTest@Chrome(version="90", platform="MAC")(DesktopTest.CardanoDocsNativeTokensTest)  Time elapsed: 47.506 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 0
+	at DesktopTest.CardanoDocsNativeTokensTest.verifyCardanoDocsNativeTokensPageLinksTest(CardanoDocsNativeTokensTest.java:83)
+
+verifyCardanoDocsNativeTokensPageLinksTest@Chrome(version="90", platform="WINDOWS")(DesktopTest.CardanoDocsNativeTokensTest)  Time elapsed: 65.867 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 0
+	at DesktopTest.CardanoDocsNativeTokensTest.verifyCardanoDocsNativeTokensPageLinksTest(CardanoDocsNativeTokensTest.java:83)
+
+verifyCardanoDocsNativeTokensPageLinksTest@Edge(version="90", platform="WINDOWS")(DesktopTest.CardanoDocsNativeTokensTest)  Time elapsed: 50.863 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 0
+	at DesktopTest.CardanoDocsNativeTokensTest.verifyCardanoDocsNativeTokensPageLinksTest(CardanoDocsNativeTokensTest.java:83)
+
+verifyCardanoDocsNativeTokensPageLinksTest@Firefox(version="88", platform="MAC")(DesktopTest.CardanoDocsNativeTokensTest)  Time elapsed: 42.915 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 0
+	at DesktopTest.CardanoDocsNativeTokensTest.verifyCardanoDocsNativeTokensPageLinksTest(CardanoDocsNativeTokensTest.java:83)
+
+verifyCardanoDocsNativeTokensPageLinksTest@Firefox(version="88", platform="WINDOWS")(DesktopTest.CardanoDocsNativeTokensTest)  Time elapsed: 46.057 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 0
+	at DesktopTest.CardanoDocsNativeTokensTest.verifyCardanoDocsNativeTokensPageLinksTest(CardanoDocsNativeTokensTest.java:83)
+
+verifyCardanoDocsNativeTokensPageLinksTest@Safari(version="14", platform="MAC")(DesktopTest.CardanoDocsNativeTokensTest)  Time elapsed: 43.872 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 0
+	at DesktopTest.CardanoDocsNativeTokensTest.verifyCardanoDocsNativeTokensPageLinksTest(CardanoDocsNativeTokensTest.java:83)
+

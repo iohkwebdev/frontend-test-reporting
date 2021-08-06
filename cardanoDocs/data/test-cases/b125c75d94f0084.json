@@ -1,0 +1,53 @@
+{
+  "uid" : "b125c75d94f0084",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.CardanoDocsRosettaTest:DesktopTest.CardanoDocsRosettaTest#verifyCardanoDocsRosettaSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 33279
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c3e07e532bf8e344",
+      "name" : "System out",
+      "source" : "c3e07e532bf8e344.txt",
+      "type" : "text/plain",
+      "size" : 284
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsRosettaTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsRosettaTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsRosettaTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b125c75d94f0084.json",
+  "parameterValues" : [ ]
+}

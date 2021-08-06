@@ -1,0 +1,53 @@
+{
+  "uid" : "9406197477a0bb20",
+  "name" : "verifyMobileCardanoDocsLearnSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTest.MobileCardanoDocsNativeTokensTest:MobileTest.MobileCardanoDocsNativeTokensTest#verifyMobileCardanoDocsLearnSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 73663
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9940ee8134883eb9",
+      "name" : "System out",
+      "source" : "9940ee8134883eb9.txt",
+      "type" : "text/plain",
+      "size" : 291
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsNativeTokensTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsNativeTokensTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsNativeTokensTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9406197477a0bb20.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "45597a8eb2b0bd7e",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.CardanoDocsNativeTokensTest:DesktopTest.CardanoDocsNativeTokensTest#verifyCardanoDocsNativeTokensSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40228
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3b7bdc22093158b0",
+      "name" : "System out",
+      "source" : "3b7bdc22093158b0.txt",
+      "type" : "text/plain",
+      "size" : 2450
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsNativeTokensTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsNativeTokensTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsNativeTokensTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45597a8eb2b0bd7e.json",
+  "parameterValues" : [ ]
+}

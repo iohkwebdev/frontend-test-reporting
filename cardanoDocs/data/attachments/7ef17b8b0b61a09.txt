@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoDocsGettingStartedTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1,490.888 sec <<< FAILURE!
+verifyGettingStartedPageOnMobile@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsGettingStartedTest)  Time elapsed: 74.698 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: 
+Element is not displayed
+    Element: <a href="/getting-started/installing-the-cardano-node">Installing the Cardano node</a>
+	at MobileTest.MobileCardanoDocsGettingStartedTest.verifyGettingStartedPageOnMobile(MobileCardanoDocsGettingStartedTest.java:53)
+

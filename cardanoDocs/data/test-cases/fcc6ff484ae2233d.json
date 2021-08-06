@@ -1,0 +1,53 @@
+{
+  "uid" : "fcc6ff484ae2233d",
+  "name" : "verifyNextAndPreviousNavigation@Firefox(version=\"88\", platform=\"MAC\")",
+  "historyId" : "DesktopTest.CardanoDocsGettingStartedTest:DesktopTest.CardanoDocsGettingStartedTest#verifyNextAndPreviousNavigation@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 68386
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "51570fcb1713f55e",
+      "name" : "System out",
+      "source" : "51570fcb1713f55e.txt",
+      "type" : "text/plain",
+      "size" : 291
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsGettingStartedTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsGettingStartedTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsGettingStartedTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcc6ff484ae2233d.json",
+  "parameterValues" : [ ]
+}

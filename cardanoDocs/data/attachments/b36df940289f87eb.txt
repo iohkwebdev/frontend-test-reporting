@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoDocsToolsTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 436.431 sec <<< FAILURE!
+verifyMobileCardanoExplorerIframeTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsToolsTest)  Time elapsed: 37.585 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$338/0x0000000800babc40@220526b9 (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-00090C1A0185802E, useXctestrunFile: true, webStorageEnabled: false}
+Session ID: a662cd1b3f63efe6f792efdabec3b33299b0305d
+	at MobileTest.MobileCardanoDocsToolsTest.verifyMobileCardanoExplorerIframeTest(MobileCardanoDocsToolsTest.java:91)
+
+verifyMobileCardanoDocsToolsPageLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsToolsTest)  Time elapsed: 14.355 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 20 out of bounds for length 4
+	at MobileTest.MobileCardanoDocsToolsTest.verifyMobileCardanoDocsToolsPageLinksTest(MobileCardanoDocsToolsTest.java:70)
+
+verifyMobileCardanoDocsToolsPageLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsToolsTest)  Time elapsed: 7.907 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 20 out of bounds for length 4
+	at MobileTest.MobileCardanoDocsToolsTest.verifyMobileCardanoDocsToolsPageLinksTest(MobileCardanoDocsToolsTest.java:70)
+

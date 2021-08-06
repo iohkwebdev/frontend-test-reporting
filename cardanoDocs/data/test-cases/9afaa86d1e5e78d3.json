@@ -1,0 +1,53 @@
+{
+  "uid" : "9afaa86d1e5e78d3",
+  "name" : "verifyFooterLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyFooterLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 20350
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fb861e2f7ff84340",
+      "name" : "System out",
+      "source" : "fb861e2f7ff84340.txt",
+      "type" : "text/plain",
+      "size" : 20207
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsHomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsHomeTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsHomeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9afaa86d1e5e78d3.json",
+  "parameterValues" : [ ]
+}

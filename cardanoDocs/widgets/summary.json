@@ -1,0 +1,17 @@
+{
+  "reportName": "Cardano Docs Production Tests Report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 19,
+    "broken": 69,
+    "skipped": 0,
+    "passed": 242,
+    "unknown": 0,
+    "total": 330
+  },
+  "time": {
+    "minDuration": 1978,
+    "maxDuration": 812446,
+    "sumDuration": 28374073
+  }
+}

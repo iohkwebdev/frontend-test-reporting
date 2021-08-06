@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoDocsCoreConceptsTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 4, Skipped: 0, Time elapsed: 231.289 sec <<< FAILURE!
+verifyMobileCoreConceptsNextButtonsTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsCoreConceptsTest)  Time elapsed: 11.457 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 7
+	at MobileTest.MobileCardanoDocsCoreConceptsTest.verifyMobileCoreConceptsNextButtonsTest(MobileCardanoDocsCoreConceptsTest.java:68)
+
+verifyMobileCoreConceptsNextButtonsTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsCoreConceptsTest)  Time elapsed: 7.973 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 7
+	at MobileTest.MobileCardanoDocsCoreConceptsTest.verifyMobileCoreConceptsNextButtonsTest(MobileCardanoDocsCoreConceptsTest.java:68)
+
+verifyMobileCoreConceptsSubmenuTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsCoreConceptsTest)  Time elapsed: 71.364 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: 
+Element is not displayed
+    Element: <a href="/explore-cardano/cardano-architecture/cardano-db-sync-best-practices">Cardano DB Sync best practices</a>
+	at MobileTest.MobileCardanoDocsCoreConceptsTest.verifyMobileCoreConceptsSubmenuTest(MobileCardanoDocsCoreConceptsTest.java:52)
+
+verifyMobileCoreConceptsSubmenuTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsCoreConceptsTest)  Time elapsed: 50.287 sec  <<< FAILURE!
+com.github.webdriverextensions.exceptions.WebAssertionError: 
+Element is not displayed
+    Element: <a href="/explore-cardano/cardano-architecture/cardano-db-sync-best-practices">Cardano DB Sync best practices</a>
+	at MobileTest.MobileCardanoDocsCoreConceptsTest.verifyMobileCoreConceptsSubmenuTest(MobileCardanoDocsCoreConceptsTest.java:52)
+
+verifyMobileCoreConceptsPageLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsCoreConceptsTest)  Time elapsed: 8.795 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 8
+	at MobileTest.MobileCardanoDocsCoreConceptsTest.verifyMobileCoreConceptsPageLinksTest(MobileCardanoDocsCoreConceptsTest.java:60)
+
+verifyMobileCoreConceptsPageLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsCoreConceptsTest)  Time elapsed: 24.341 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 8
+	at MobileTest.MobileCardanoDocsCoreConceptsTest.verifyMobileCoreConceptsPageLinksTest(MobileCardanoDocsCoreConceptsTest.java:60)
+

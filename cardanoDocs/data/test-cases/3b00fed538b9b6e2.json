@@ -1,0 +1,53 @@
+{
+  "uid" : "3b00fed538b9b6e2",
+  "name" : "verifyMobileCardanoDocsRosettaPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTest.MobileCardanoDocsRosettaTest:MobileTest.MobileCardanoDocsRosettaTest#verifyMobileCardanoDocsRosettaPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 3092
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "178db378c0234112",
+      "name" : "System out",
+      "source" : "178db378c0234112.txt",
+      "type" : "text/plain",
+      "size" : 286
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsRosettaTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsRosettaTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsRosettaTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b00fed538b9b6e2.json",
+  "parameterValues" : [ ]
+}

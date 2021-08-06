@@ -1,0 +1,1188 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element is not displayed     Element: <a href=\"/explore-cardano/cardano-architecture/cardano-db-sync-best-practices\">Cardano DB Sync best practices</a>",
+      "children" : [ {
+        "name" : "verifyMobileCoreConceptsSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "d1de41aa26558156",
+        "parentUid" : "1e71e4c25f683e326c326571f789dd99",
+        "status" : "failed",
+        "time" : {
+          "duration" : 50287
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCoreConceptsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "24243cca311b9a71",
+        "parentUid" : "1e71e4c25f683e326c326571f789dd99",
+        "status" : "failed",
+        "time" : {
+          "duration" : 71364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1e71e4c25f683e326c326571f789dd99"
+    }, {
+      "name" : "Current url is not containing \"https://www.rust-lang.org/\"     Current url: https://docs.cardano.org/cardano-components/cardano-serialization-lib",
+      "children" : [ {
+        "name" : "verifyCardanoComponentsPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "f4f97a38eb5df350",
+        "parentUid" : "fbf4071e99ee7cb8c587936bc5fb54fa",
+        "status" : "failed",
+        "time" : {
+          "duration" : 406374
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fbf4071e99ee7cb8c587936bc5fb54fa"
+    }, {
+      "name" : "Element is not displayed     Element: <a href=\"https://why.cardano.org\" target=\"_blank\" rel=\"noopener noreferrer\">Cardano </a>",
+      "children" : [ {
+        "name" : "verifyIntroductionCardanoHaskellLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "1631a7b251c5a4",
+        "parentUid" : "93c7f951cbd3c754b9674a81fad4cd8b",
+        "status" : "failed",
+        "time" : {
+          "duration" : 7570
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyIntroductionCardanoHaskellLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "6280befe2be76b79",
+        "parentUid" : "93c7f951cbd3c754b9674a81fad4cd8b",
+        "status" : "failed",
+        "time" : {
+          "duration" : 12076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyIntroductionCardanoHaskellLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "889d229e6bb5f764",
+        "parentUid" : "93c7f951cbd3c754b9674a81fad4cd8b",
+        "status" : "failed",
+        "time" : {
+          "duration" : 7586
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyIntroductionCardanoHaskellLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "1a7bdf7ff9b11fdd",
+        "parentUid" : "93c7f951cbd3c754b9674a81fad4cd8b",
+        "status" : "failed",
+        "time" : {
+          "duration" : 8264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyIntroductionCardanoHaskellLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "c2a14464d3f836f2",
+        "parentUid" : "93c7f951cbd3c754b9674a81fad4cd8b",
+        "status" : "failed",
+        "time" : {
+          "duration" : 8556
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93c7f951cbd3c754b9674a81fad4cd8b"
+    }, {
+      "name" : "Element is not displayed",
+      "children" : [ {
+        "name" : "verifyDayAndNightSwitchTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "32b76f697e5f289d",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 6298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDayAndNightSwitchTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "c0966ae2a16df892",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 4691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileDayAndNightSwitchTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "ada149b7d3e101c2",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 7991
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDayAndNightSwitchTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "7b03372e4b88841b",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 2428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDayAndNightSwitchTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "d9b9aab1e1a50096",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 4939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDayAndNightSwitchTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "11132777853f134e",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 4027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDayAndNightSwitchTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "e6ba89164302436d",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 4590
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileDayAndNightSwitchTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "dd03f5e32f33e360",
+        "parentUid" : "86a59b5351c4689bc6959c6affe8ae3c",
+        "status" : "failed",
+        "time" : {
+          "duration" : 7568
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86a59b5351c4689bc6959c6affe8ae3c"
+    }, {
+      "name" : "Element is not displayed     Element: <A href=\"https://why.cardano.org\" target=\"_blank\" rel=\"noopener noreferrer\">Cardano </A>",
+      "children" : [ {
+        "name" : "verifyIntroductionCardanoHaskellLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "f48f00efd30c3503",
+        "parentUid" : "21be31033d578f89fd455509bd65d83d",
+        "status" : "failed",
+        "time" : {
+          "duration" : 13918
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21be31033d578f89fd455509bd65d83d"
+    }, {
+      "name" : "Current url is not containing \"https://www.javascript.com/\"     Current url: https://docs.cardano.org/marlowe/learn-about-marlowe",
+      "children" : [ {
+        "name" : "verifyCardanoDocsMarlowePageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "e81ed5730d1c324a",
+        "parentUid" : "11ffc0eaab9b5178c9c2a5623fb02155",
+        "status" : "failed",
+        "time" : {
+          "duration" : 36490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "11ffc0eaab9b5178c9c2a5623fb02155"
+    }, {
+      "name" : "Element is not displayed     Element: <a href=\"/getting-started/installing-the-cardano-node\">Installing the Cardano node</a>",
+      "children" : [ {
+        "name" : "verifyGettingStartedPageOnMobile@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "cc32f7a82d6bd3ab",
+        "parentUid" : "64e3a3e38970a4e9146931a98f939c3a",
+        "status" : "failed",
+        "time" : {
+          "duration" : 74698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "64e3a3e38970a4e9146931a98f939c3a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=91.0.4472.120) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18085, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18085, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8205, udid: RFCN20SGWSW}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SGWSW, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SGWSW, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8205, takesScreenshot: true, udid: RFCN20SGWSW, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 37cfe7d1e216bdba054765526aba836646e20f24",
+      "children" : [ {
+        "name" : "verifyMobileFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "71f61acad286c4cb",
+        "parentUid" : "6e6bc2d912e962f28fde82e79b074500",
+        "status" : "broken",
+        "time" : {
+          "duration" : 39491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e6bc2d912e962f28fde82e79b074500"
+    }, {
+      "name" : "Index 2 out of bounds for length 0",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "35cbe1e02c0407b8",
+        "parentUid" : "54254bdf1c1c18208bec54bd79b2e4b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 65867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "c43ada26ca7ff8c7",
+        "parentUid" : "54254bdf1c1c18208bec54bd79b2e4b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 42915
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "ec084ebc2ad9393c",
+        "parentUid" : "54254bdf1c1c18208bec54bd79b2e4b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 46057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "2c979e9b8ccb4060",
+        "parentUid" : "54254bdf1c1c18208bec54bd79b2e4b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 50863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "242186f6d4c2cb70",
+        "parentUid" : "54254bdf1c1c18208bec54bd79b2e4b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 47506
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "e313e04cf59346cc",
+        "parentUid" : "54254bdf1c1c18208bec54bd79b2e4b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 43872
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "54254bdf1c1c18208bec54bd79b2e4b8"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 16 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-228-16', ip: '10.144.228.16', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:3013}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir10764_2106057261}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 1f5f42f9ff588e409abd8a84c4353c4b Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyCardanoDocsToolsPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "b7ab9980ade386b5",
+        "parentUid" : "de4ae3bf93b7703096a74fde1ea8e052",
+        "status" : "broken",
+        "time" : {
+          "duration" : 32338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de4ae3bf93b7703096a74fde1ea8e052"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#information\"}   (Session info: chrome=91.0.4472.120) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18085, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18085, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8205, udid: RFCN20SF4XR}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SF4XR, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SF4XR, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8205, takesScreenshot: true, udid: RFCN20SF4XR, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 7788a86ab571b5b4be4843cfcab85119b4f80b7e *** Element info: {Using=id, value=information}",
+      "children" : [ {
+        "name" : "verifyMobileIntroductionPageContentTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "29f9329a58ea9501",
+        "parentUid" : "044ae7785833c4c6163f8cecbdaf6d2d",
+        "status" : "broken",
+        "time" : {
+          "duration" : 13044
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "044ae7785833c4c6163f8cecbdaf6d2d"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.11.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 28 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-208-14.browserstack.com', ip: '10.144.208.14', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50301}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.kzyCcu}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: a22c2e744bb5b527aface693a9ca2e96 Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyCardanoDocsCommunityPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "334661d216bcd4a",
+        "parentUid" : "5ca346e955c54566ee06af987d0bb578",
+        "status" : "broken",
+        "time" : {
+          "duration" : 331161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ca346e955c54566ee06af987d0bb578"
+    }, {
+      "name" : "The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"846313c8-ce36-4fac-9aac-00d9c02edd4a\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 8536, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: fda1259909fbf45cc1d24599832...} Session ID: fda1259909fbf45cc1d2459983270035c68a84c9",
+      "children" : [ {
+        "name" : "verifyCardanoDocsToolsPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "7c8ebcfc134fba27",
+        "parentUid" : "a8adedb2c932d0b139c002efaa58d7f2",
+        "status" : "broken",
+        "time" : {
+          "duration" : 29701
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8adedb2c932d0b139c002efaa58d7f2"
+    }, {
+      "name" : "Unable to locate element: #information For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9092, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 9b0b2995297a181dccd6d86584c...} Session ID: 9b0b2995297a181dccd6d86584cfbf64e92483d7 *** Element info: {Using=id, value=information}",
+      "children" : [ {
+        "name" : "verifyIntroductionPageContentTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "f5e0b587ed895351",
+        "parentUid" : "6b5d18efd8730d58553da0cc8a7132e1",
+        "status" : "broken",
+        "time" : {
+          "duration" : 8647
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b5d18efd8730d58553da0cc8a7132e1"
+    }, {
+      "name" : "Index 4 out of bounds for length 0",
+      "children" : [ {
+        "name" : "verifyCardanoDocsLearnPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "2faa6e362020f1de",
+        "parentUid" : "b925684ae1dfbaf473032b0b7a685063",
+        "status" : "broken",
+        "time" : {
+          "duration" : 42897
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsLearnPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "ad0a49b7d6bbdad4",
+        "parentUid" : "b925684ae1dfbaf473032b0b7a685063",
+        "status" : "broken",
+        "time" : {
+          "duration" : 46199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsLearnPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "31aa284879b36564",
+        "parentUid" : "b925684ae1dfbaf473032b0b7a685063",
+        "status" : "broken",
+        "time" : {
+          "duration" : 45319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsLearnPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "a99baec2ae5fa9dc",
+        "parentUid" : "b925684ae1dfbaf473032b0b7a685063",
+        "status" : "broken",
+        "time" : {
+          "duration" : 47634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsLearnPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "97447db3f459b479",
+        "parentUid" : "b925684ae1dfbaf473032b0b7a685063",
+        "status" : "broken",
+        "time" : {
+          "duration" : 42865
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyCardanoDocsLearnPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "69c8fa054502e193",
+        "parentUid" : "b925684ae1dfbaf473032b0b7a685063",
+        "status" : "broken",
+        "time" : {
+          "duration" : 42563
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b925684ae1dfbaf473032b0b7a685063"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 14 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-144-133.browserstack.com', ip: '10.144.144.133', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57162}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.u9zTf4}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: f287d24fccdbd3ba0bcec54f7b89fa3b Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "d776313caef6282e",
+        "parentUid" : "95d143fbbceafe83f641edcfc8c4b2cc",
+        "status" : "broken",
+        "time" : {
+          "duration" : 22171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95d143fbbceafe83f641edcfc8c4b2cc"
+    }, {
+      "name" : "Element does not exist in cache For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-000258262607802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: 4672890115d2766a88195e5fce1138a461a00791",
+      "children" : [ {
+        "name" : "verifyMobileFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "fa0d9351022f3d09",
+        "parentUid" : "299706a45c9f3460fc87f7fc7bea4be1",
+        "status" : "broken",
+        "time" : {
+          "duration" : 33638
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "299706a45c9f3460fc87f7fc7bea4be1"
+    }, {
+      "name" : "toIndex = 16",
+      "children" : [ {
+        "name" : "verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "8c00de09bd7ec4ce",
+        "parentUid" : "6fb79731795a6cd8223115ce31e4751c",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileDiscoverCardanoPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "8d9caee81f967749",
+        "parentUid" : "6fb79731795a6cd8223115ce31e4751c",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7622
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "3f74d5ed7dd4de20",
+        "parentUid" : "6fb79731795a6cd8223115ce31e4751c",
+        "status" : "broken",
+        "time" : {
+          "duration" : 8031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileDiscoverCardanoPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "f20f2d126a03ea41",
+        "parentUid" : "6fb79731795a6cd8223115ce31e4751c",
+        "status" : "broken",
+        "time" : {
+          "duration" : 15280
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6fb79731795a6cd8223115ce31e4751c"
+    }, {
+      "name" : "toIndex = 7",
+      "children" : [ {
+        "name" : "verifyMobileCoreConceptsNextButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "53ae47542055cede",
+        "parentUid" : "4e116b9841580748ca97da834392d2ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 11457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCoreConceptsNextButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "d172eb6872a58b92",
+        "parentUid" : "4e116b9841580748ca97da834392d2ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e116b9841580748ca97da834392d2ca"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 18 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-229-249', ip: '10.144.229.249', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:3245}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir10636_1492668166}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 1a1fbc479df980d0d1d91f6846813b82 Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "13ad4e9f68e50f96",
+        "parentUid" : "e4e66e10ab08c44015c63cae927b51ea",
+        "status" : "broken",
+        "time" : {
+          "duration" : 24755
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4e66e10ab08c44015c63cae927b51ea"
+    }, {
+      "name" : "Index 20 out of bounds for length 4",
+      "children" : [ {
+        "name" : "verifyMobileCardanoDocsCommunityPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "602adaa9106c7d40",
+        "parentUid" : "a37958b6c346a4b72e045d3c2d0224ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 12085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCardanoDocsToolsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "ce0e1352b5a62e20",
+        "parentUid" : "a37958b6c346a4b72e045d3c2d0224ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 14355
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCardanoDocsToolsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "59649c3606cf38ba",
+        "parentUid" : "a37958b6c346a4b72e045d3c2d0224ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCardanoDocsCommunityPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "37eff45aba3c8b35",
+        "parentUid" : "a37958b6c346a4b72e045d3c2d0224ca",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a37958b6c346a4b72e045d3c2d0224ca"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 25 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-226-104', ip: '10.144.226.104', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:4222}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir11596_1545900378}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 8397e5425de34f53f1ca8c1873ca7027 Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyCardanoDocsMarlowePageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "4df74acefd0e8270",
+        "parentUid" : "3f8d7d0ac57e2dbc4975b649a85596f2",
+        "status" : "broken",
+        "time" : {
+          "duration" : 83260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f8d7d0ac57e2dbc4975b649a85596f2"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"information\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 28 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-164-138', ip: '10.144.164.138', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:4123}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir1160_837376931}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 4a0d6d2d281823d87021767eb33145b6 *** Element info: {Using=id, value=information} Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyIntroductionPageContentTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "c8bc040cd984f67a",
+        "parentUid" : "6c4248d6a9d16b3442900c3e4d738318",
+        "status" : "broken",
+        "time" : {
+          "duration" : 8863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c4248d6a9d16b3442900c3e4d738318"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20F71, safari:platformVersion: 11.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: e02ce236e3c96c4fa66b8a6b261..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: e02ce236e3c96c4fa66b8a6b26191aa6651ca5ff",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "704ed475017c812e",
+        "parentUid" : "f8e959f4dbbbca0e9046b2292107dfd9",
+        "status" : "broken",
+        "time" : {
+          "duration" : 23940
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f8e959f4dbbbca0e9046b2292107dfd9"
+    }, {
+      "name" : "The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"386bbcb2-2e9a-e949-9b83-44573b20b5a5\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 49112, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 845dc9f833e17468ec6df9e4954...} Session ID: 845dc9f833e17468ec6df9e4954aeb7e2f11277f",
+      "children" : [ {
+        "name" : "verifyCardanoDocsMarlowePageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "83ca970c177ff775",
+        "parentUid" : "4e571349e69551a8819c1a440e5a9ad7",
+        "status" : "broken",
+        "time" : {
+          "duration" : 58377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e571349e69551a8819c1a440e5a9ad7"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20F71, safari:platformVersion: 11.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: a3133028690cdd998f21a36cfdc..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: a3133028690cdd998f21a36cfdca7a4d0c909757 *** Element info: {Using=id, value=information}",
+      "children" : [ {
+        "name" : "verifyIntroductionPageContentTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "423e3c6633bbf9b7",
+        "parentUid" : "bf3fc640bcd71c86f7255809c8d2b88a",
+        "status" : "broken",
+        "time" : {
+          "duration" : 10677
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf3fc640bcd71c86f7255809c8d2b88a"
+    }, {
+      "name" : "Index 8 out of bounds for length 8",
+      "children" : [ {
+        "name" : "verifyDiscoverCardanoPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "a1d54cb571829e47",
+        "parentUid" : "446cd37a12e790a090262258d5f9a731",
+        "status" : "broken",
+        "time" : {
+          "duration" : 397887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDiscoverCardanoPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "7448fc9d523f59a2",
+        "parentUid" : "446cd37a12e790a090262258d5f9a731",
+        "status" : "broken",
+        "time" : {
+          "duration" : 389645
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDiscoverCardanoPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "7414c93ee087b100",
+        "parentUid" : "446cd37a12e790a090262258d5f9a731",
+        "status" : "broken",
+        "time" : {
+          "duration" : 316179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDiscoverCardanoPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "468a84d6f1b634d3",
+        "parentUid" : "446cd37a12e790a090262258d5f9a731",
+        "status" : "broken",
+        "time" : {
+          "duration" : 304445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDiscoverCardanoPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "acd13b11a3cc0a4",
+        "parentUid" : "446cd37a12e790a090262258d5f9a731",
+        "status" : "broken",
+        "time" : {
+          "duration" : 424166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "446cd37a12e790a090262258d5f9a731"
+    }, {
+      "name" : "An element could not be located on the page using the given search parameters. For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001E202A34DB802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: d722fbaa04eab57cca637acb0b841f303ed3a923 *** Element info: {Using=id, value=information}",
+      "children" : [ {
+        "name" : "verifyMobileIntroductionPageContentTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "3dc195cc9e5c71c",
+        "parentUid" : "fb7a98b4960f5a9b8308f6a422ee4dcf",
+        "status" : "broken",
+        "time" : {
+          "duration" : 9441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb7a98b4960f5a9b8308f6a422ee4dcf"
+    }, {
+      "name" : "An element could not be located on the page using the given search parameters. For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-0010046126FB802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: a3e3495afd204715a17b6b8b1baeda46f40ba2ca *** Element info: {Using=css selector, value=.css-zpof0k a}",
+      "children" : [ {
+        "name" : "verifyMobileButtonsSectionStartingPageTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "10624cb91f17a94c",
+        "parentUid" : "1ce79313a591b77a8ab3288d189d65bf",
+        "status" : "broken",
+        "time" : {
+          "duration" : 4505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1ce79313a591b77a8ab3288d189d65bf"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".css-zpof0k a\"}   (Session info: chrome=91.0.4472.120) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18084, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18084, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8204, udid: RFCN20SGR9H}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20SGR9H, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20SGR9H, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8204, takesScreenshot: true, udid: RFCN20SGR9H, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: ae74c87204f0161b867260370d89ee6c97c3f166 *** Element info: {Using=css selector, value=.css-zpof0k a}",
+      "children" : [ {
+        "name" : "verifyMobileButtonsSectionStartingPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "fd944c06b9e16ff",
+        "parentUid" : "7259839cc6797ba8030260b4dcebb813",
+        "status" : "broken",
+        "time" : {
+          "duration" : 4427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7259839cc6797ba8030260b4dcebb813"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20F71, safari:platformVersion: 11.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 0032a480657a1e588ab82ac4f1b..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 0032a480657a1e588ab82ac4f1b9817cc0c9506e",
+      "children" : [ {
+        "name" : "verifyCardanoDocsToolsPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "7409a8ce023726bd",
+        "parentUid" : "5b4c5c8fa1b9beaf2483a3728868b60d",
+        "status" : "broken",
+        "time" : {
+          "duration" : 24462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b4c5c8fa1b9beaf2483a3728868b60d"
+    }, {
+      "name" : "The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"8b627d83-5536-184d-8e9e-adcf4f54787c\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 84929, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: f98593b13562be74025faaf4f50...} Session ID: f98593b13562be74025faaf4f50f3ad68dc3b7df",
+      "children" : [ {
+        "name" : "verifyCardanoDocsToolsPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "9c887de0375d9ec",
+        "parentUid" : "2f1c825992d8630c07716115ebc81132",
+        "status" : "broken",
+        "time" : {
+          "duration" : 27182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f1c825992d8630c07716115ebc81132"
+    }, {
+      "name" : "toIndex = 102",
+      "children" : [ {
+        "name" : "verifyMobileCardanoComponentsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "78b16bd1de8d9503",
+        "parentUid" : "8c9327d192ca5492983d38b01fb036ea",
+        "status" : "broken",
+        "time" : {
+          "duration" : 52156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCardanoComponentsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "c63fc2aa60da132c",
+        "parentUid" : "8c9327d192ca5492983d38b01fb036ea",
+        "status" : "broken",
+        "time" : {
+          "duration" : 49711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c9327d192ca5492983d38b01fb036ea"
+    }, {
+      "children" : [ {
+        "name" : "verifyMobileExploreCardanoSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "8585ec24072e4b47",
+        "parentUid" : "11b7b522685c9d35faed437d995251a2",
+        "status" : "broken",
+        "time" : {
+          "duration" : 21290
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileExploreCardanoSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "5f7a9929cfd598e7",
+        "parentUid" : "11b7b522685c9d35faed437d995251a2",
+        "status" : "broken",
+        "time" : {
+          "duration" : 21051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "11b7b522685c9d35faed437d995251a2"
+    }, {
+      "name" : "toIndex = 8",
+      "children" : [ {
+        "name" : "verifyMobileCoreConceptsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "e04965482cb49749",
+        "parentUid" : "1b0751e1a7b0326e97823ff76e3f4a86",
+        "status" : "broken",
+        "time" : {
+          "duration" : 8795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyMobileCoreConceptsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "d425e7d9c7889d7d",
+        "parentUid" : "1b0751e1a7b0326e97823ff76e3f4a86",
+        "status" : "broken",
+        "time" : {
+          "duration" : 24341
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1b0751e1a7b0326e97823ff76e3f4a86"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 13 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-144-77.browserstack.com', ip: '10.144.144.77', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50755}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.I0c6Oh}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: c50cb5c34e170240d521944ed0f2c4cc Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyDiscoverCardanoPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "2c21e2ed731ac606",
+        "parentUid" : "dcf3b993c9f13f5e2cd6fd79fa0a49a6",
+        "status" : "broken",
+        "time" : {
+          "duration" : 257277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dcf3b993c9f13f5e2cd6fd79fa0a49a6"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:3713}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 1d26d11cc6794dde579579ecff1...} Session ID: 1d26d11cc6794dde579579ecff155861154a4024",
+      "children" : [ {
+        "name" : "verifyCardanoDocsMarlowePageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "265c4fe4afd75815",
+        "parentUid" : "61e28f014f71c8e3a549a11380cf61e2",
+        "status" : "broken",
+        "time" : {
+          "duration" : 62096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61e28f014f71c8e3a549a11380cf61e2"
+    }, {
+      "name" : "Element does not exist in cache For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001249462607802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: f4319f0820dce0995c1dc5d8dbaf7bac7062eb28",
+      "children" : [ {
+        "name" : "verifyMobileSocialMediaFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "4e1f66fc1200f9cd",
+        "parentUid" : "10c79882774785cdd5e1ed7e3bea2afe",
+        "status" : "broken",
+        "time" : {
+          "duration" : 19383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "10c79882774785cdd5e1ed7e3bea2afe"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=91.0.4472.120) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18085, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18085, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8205, udid: RFCN20C892A}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20C892A, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20C892A, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8205, takesScreenshot: true, udid: RFCN20C892A, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: d79044e35ee4cefd8dc66631d5d77ba1f5f671dd",
+      "children" : [ {
+        "name" : "verifyMobileCardanoDocsPlutsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "172b31be6b4daa9d",
+        "parentUid" : "c0a5fcd8df8c17b42a85244045ab2539",
+        "status" : "broken",
+        "time" : {
+          "duration" : 17097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c0a5fcd8df8c17b42a85244045ab2539"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4925}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: a0b92efdeb3f6bbe543b3fc8245...} Session ID: a0b92efdeb3f6bbe543b3fc824522d884dc6b0fa",
+      "children" : [ {
+        "name" : "verifyCardanoDocsToolsPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "ad0f86fbd9757d94",
+        "parentUid" : "20a31681070e8fe325630facada652f4",
+        "status" : "broken",
+        "time" : {
+          "duration" : 28786
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20a31681070e8fe325630facada652f4"
+    }, {
+      "name" : "The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"a635fac9-c643-43bb-94fb-b8728daa9156\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 1596, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 695e6ba47d31c5b09e48128db62...} Session ID: 695e6ba47d31c5b09e48128db6284450a781a9bb",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "9fbe3ead4b6dd730",
+        "parentUid" : "d3e05393c544897f0b6f8f6074049e4f",
+        "status" : "broken",
+        "time" : {
+          "duration" : 23480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d3e05393c544897f0b6f8f6074049e4f"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#information\"}   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:5110}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 5e67c98f39bbf7a6350aaa22e4c...} Session ID: 5e67c98f39bbf7a6350aaa22e4cf6d69d694f352 *** Element info: {Using=id, value=information}",
+      "children" : [ {
+        "name" : "verifyIntroductionPageContentTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "c9087533c8f51b37",
+        "parentUid" : "c9dd66e4c10eb2201f8ed78f6de1ab4f",
+        "status" : "broken",
+        "time" : {
+          "duration" : 8591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9dd66e4c10eb2201f8ed78f6de1ab4f"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20F71, safari:platformVersion: 11.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: b5e93b37d245f657c54ebf06286..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: b5e93b37d245f657c54ebf0628635048594654d5",
+      "children" : [ {
+        "name" : "verifyCardanoDocsMarlowePageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "555c968e61f98bc8",
+        "parentUid" : "b60aad536fb0e4327713d374a0ef741b",
+        "status" : "broken",
+        "time" : {
+          "duration" : 53343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b60aad536fb0e4327713d374a0ef741b"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"information\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 24 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-144-42.browserstack.com', ip: '10.144.144.42', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53984}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.vWmFWd}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 6de093137a32838db551532fd007f312 *** Element info: {Using=id, value=information} Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyIntroductionPageContentTest@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "1323995625644122",
+        "parentUid" : "fef3e00fd70d728f391a6a778a2de82a",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7860
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fef3e00fd70d728f391a6a778a2de82a"
+    }, {
+      "name" : "Unable to locate element: #information For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 43660, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 7165150bbcb5dba42da71d9d367...} Session ID: 7165150bbcb5dba42da71d9d367ba21cf6db962a *** Element info: {Using=id, value=information}",
+      "children" : [ {
+        "name" : "verifyIntroductionPageContentTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "ec3911bdd7eb940a",
+        "parentUid" : "738f6644360df0f556867f93c7fd00fc",
+        "status" : "broken",
+        "time" : {
+          "duration" : 7908
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "738f6644360df0f556867f93c7fd00fc"
+    }, {
+      "name" : "The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"bce9df0c-663c-3f4e-929f-38a9a8b0cf29\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7362, moz:profile: /var/folders/3y/zz_w6_s56sl..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: fa56e56224ad455e73b37ad3eac...} Session ID: fa56e56224ad455e73b37ad3eacd3fca1ea36cac",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "2ac29ae32fc000e3",
+        "parentUid" : "c21c751ee577e35eeb0c8e5073c30850",
+        "status" : "broken",
+        "time" : {
+          "duration" : 23422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c21c751ee577e35eeb0c8e5073c30850"
+    }, {
+      "name" : "Element is no longer attached to the DOM For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001249D11447802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: 19b8fec89de52fa90bf43aafebf7de8533ab7a3c",
+      "children" : [ {
+        "name" : "verifyMobileCardanoDocsPlutsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "65279ec60db71953",
+        "parentUid" : "599002c9afc9477896ee73fc65ae93d3",
+        "status" : "broken",
+        "time" : {
+          "duration" : 38564
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "599002c9afc9477896ee73fc65ae93d3"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.1, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20F71, safari:platformVersion: 11.4, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 7f0b92ecc86e3dcc8a9e142002e..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 7f0b92ecc86e3dcc8a9e142002e4301c27fa2079",
+      "children" : [ {
+        "name" : "verifyCardanoDocsCommunityPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "2a237b1f1946efea",
+        "parentUid" : "1debddd38950999bdaa41ee7307da9ed",
+        "status" : "broken",
+        "time" : {
+          "duration" : 72097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1debddd38950999bdaa41ee7307da9ed"
+    }, {
+      "name" : "Expected condition failed: waiting for com.github.webdriverextensions.Bot$$Lambda$338/0x0000000800babc40@220526b9 (tried for 15 second(s) with 500 milliseconds interval) Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-00090C1A0185802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: a662cd1b3f63efe6f792efdabec3b33299b0305d",
+      "children" : [ {
+        "name" : "verifyMobileCardanoExplorerIframeTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "2bd6fcec14d9be50",
+        "parentUid" : "89832c59c9dd9a938034b22a900b34f3",
+        "status" : "broken",
+        "time" : {
+          "duration" : 37585
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89832c59c9dd9a938034b22a900b34f3"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:6689}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 900759f6e8cc4d9c78f00c9be79...} Session ID: 900759f6e8cc4d9c78f00c9be7929de7f4a672df",
+      "children" : [ {
+        "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "40a8658f18a1de2a",
+        "parentUid" : "1233c78e39f9eee2368f61b1c3035ce0",
+        "status" : "broken",
+        "time" : {
+          "duration" : 25573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1233c78e39f9eee2368f61b1c3035ce0"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=91.0.4472.120) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18082, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18082, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8202, udid: RFCN20C84JW}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20C84JW, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20C84JW, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI], w3c: true}, goog:loggingPrefs: {browser: SEVERE, client: ALL, driver: ALL}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8202, takesScreenshot: true, udid: RFCN20C84JW, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 8747d2e241cd5421fdae40e1aeed74953aec64aa",
+      "children" : [ {
+        "name" : "verifyMobileSocialMediaFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "263ab47e0dea73a3",
+        "parentUid" : "6aff5aa0279beaf455aa6a3c0e93fc1a",
+        "status" : "broken",
+        "time" : {
+          "duration" : 15460
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6aff5aa0279beaf455aa6a3c0e93fc1a"
+    }, {
+      "name" : "The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"fa24533c-38e9-4b99-a749-2e862b0179ba\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1c79:8919:a198:9e58%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 3124, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.2, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: e6986398af9ab9d39707ea4d295...} Session ID: e6986398af9ab9d39707ea4d295da1094bf9ccf4",
+      "children" : [ {
+        "name" : "verifyCardanoDocsMarlowePageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "fc58a0cef025e87a",
+        "parentUid" : "c7e4e758e21b5a8623669c70e2468479",
+        "status" : "broken",
+        "time" : {
+          "duration" : 60777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7e4e758e21b5a8623669c70e2468479"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

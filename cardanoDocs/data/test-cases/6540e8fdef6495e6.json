@@ -1,0 +1,53 @@
+{
+  "uid" : "6540e8fdef6495e6",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.CardanoDocsRosettaTest:DesktopTest.CardanoDocsRosettaTest#verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 58953
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c3e07e532bf8e344",
+      "name" : "System out",
+      "source" : "c3e07e532bf8e344.txt",
+      "type" : "text/plain",
+      "size" : 284
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.CardanoDocsRosettaTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.CardanoDocsRosettaTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.CardanoDocsRosettaTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6540e8fdef6495e6.json",
+  "parameterValues" : [ ]
+}

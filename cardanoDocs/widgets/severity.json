@@ -1,0 +1,2639 @@
+[ {
+  "uid" : "d172eb6872a58b92",
+  "name" : "verifyMobileCoreConceptsNextButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 7973
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fc73240b7561d758",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 30651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eb2efd4cb35778f",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 128007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcc6ff484ae2233d",
+  "name" : "verifyNextAndPreviousNavigation@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 68386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6428e070d4c74c3",
+  "name" : "verifyGettingStartedPage@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 223214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cbe77f8ec65c0fd",
+  "name" : "verifyNextAndPreviousButtonsForGettingStarted@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 188324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d9caee81f967749",
+  "name" : "verifyMobileDiscoverCardanoPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 7622
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d621f293ed3957c",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 71466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f89f62dd2f7cd3",
+  "name" : "verifyCardanoDocsNativeTokensNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 75113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f7a9929cfd598e7",
+  "name" : "verifyMobileExploreCardanoSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 21051
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3c124e8a9713eff",
+  "name" : "verifyCardanoDocsCommunitySubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 47364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65498ce1ba268412",
+  "name" : "verifyMobileCardanoDocsLearnNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 131142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a237b1f1946efea",
+  "name" : "verifyCardanoDocsCommunityPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 72097
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e4249e4635fdef9c",
+  "name" : "verifyCardanoDocsPlutsPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 34921
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e19cd532beb0852",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 52806
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bffe4776463df9c",
+  "name" : "verifyMobileCardanoDocsLearnPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 4228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0966ae2a16df892",
+  "name" : "verifyDayAndNightSwitchTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 4691
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "761094fe27f56299",
+  "name" : "verifyMobileCardanoDocsPlutsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 16860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "306805404caa804d",
+  "name" : "verifyCardanoComponentsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 118368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a7bdf7ff9b11fdd",
+  "name" : "verifyIntroductionCardanoHaskellLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 8264
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f9528319fa78e9a",
+  "name" : "verifyCardanoDocsNativeTokensNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 78490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72e3cc3340ce5e87",
+  "name" : "verifyCardanoExplorerIframeTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 18638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7409a8ce023726bd",
+  "name" : "verifyCardanoDocsToolsPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 24462
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2bd6fcec14d9be50",
+  "name" : "verifyMobileCardanoExplorerIframeTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 37585
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "242186f6d4c2cb70",
+  "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 47506
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fb3c38980abc1a7",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 17513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2b1c106c4ba5f90",
+  "name" : "verifyCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 22690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f823bb97343b18a2",
+  "name" : "verifySocialMediaFooterLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 16280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b713c040046214c",
+  "name" : "verifyCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 77867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebda85a685b3cfc6",
+  "name" : "verifyMobileCardanoDocsCommunityNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 152935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68ed5cd5eb2cff75",
+  "name" : "verifyCardanoDocsRosettaPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 80902
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f79376e49a06f08b",
+  "name" : "verifyMobileCardanoDocsToolsNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 135902
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1631a7b251c5a4",
+  "name" : "verifyIntroductionCardanoHaskellLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 7570
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f2090256d7c3b3e",
+  "name" : "verifyCardanoExplorerIframeTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 26283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ed243ce9c619347",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 62810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c887de0375d9ec",
+  "name" : "verifyCardanoDocsToolsPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 27182
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7f44c376d8a4142f",
+  "name" : "verifyMobileCardanoDocsRosettaSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 53238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa89506514f9d4c6",
+  "name" : "verifyExploreCardanoSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 86368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e313e04cf59346cc",
+  "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 43872
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fcc050f8f3f637c8",
+  "name" : "verifyMobileCardanoDocsLearnNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 288488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b00fed538b9b6e2",
+  "name" : "verifyMobileCardanoDocsRosettaPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 3092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f48f00efd30c3503",
+  "name" : "verifyIntroductionCardanoHaskellLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13918
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dcd7e707b7fe5b0",
+  "name" : "verifyGettingStartedPage@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 202618
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "feeac05d7c5f76f7",
+  "name" : "verifyMobileCardanoDocsRosettaNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 121973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57f84a53d812d504",
+  "name" : "verifyCardanoComponentsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 115061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "867af61674e0e205",
+  "name" : "verifyCardanoDocsMarloweSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 37702
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f20f2d126a03ea41",
+  "name" : "verifyMobileDiscoverCardanoPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 15280
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7d3c0301262434f",
+  "name" : "verifyCardanoDocsMarloweSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 38373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4f97a38eb5df350",
+  "name" : "verifyCardanoComponentsPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 406374
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ada149b7d3e101c2",
+  "name" : "verifyMobileDayAndNightSwitchTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 7991
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a39966245f3bae1",
+  "name" : "verifyCardanoComponentsNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 115945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1f3a1323395ea66",
+  "name" : "verifySocialMediaTopLinkTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 30086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ee70bb93f2679b0",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 62707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d4d2cddbcf73e68",
+  "name" : "verifyMobileCardanoDocsLearnNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 104370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "926a2682076e751e",
+  "name" : "verifyCardanoExplorerIframeTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 21514
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a32fae599fb5c030",
+  "name" : "verifyMobileCardanoExplorerIframeTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 27279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b22c2f150ae86201",
+  "name" : "verifyGettingStartedPageOnMobile@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 812446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e81ed5730d1c324a",
+  "name" : "verifyCardanoDocsMarlowePageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 36490
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec084ebc2ad9393c",
+  "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46057
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ba1aab87ba3c1861",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 32082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36814f129b568e67",
+  "name" : "verifyCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d651ef67bdc4c7cf",
+  "name" : "verifyCardanoComponentsSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 61265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a920860b3150482a",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 76354
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64491277d82a3fdc",
+  "name" : "verifyMobileCardanoDocsToolsSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 43838
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1031036164c043c",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 154266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e1f66fc1200f9cd",
+  "name" : "verifyMobileSocialMediaFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 19383
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9971c03e9ab3061",
+  "name" : "verifyCardanoDocsToolsPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 88642
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9406197477a0bb20",
+  "name" : "verifyMobileCardanoDocsLearnSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 73663
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70fee8514fa2d4bf",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 40574
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1796691c8d08219f",
+  "name" : "verifyCardanoDocsRosettaPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 80723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "508cc049f1fe7746",
+  "name" : "verifyCardanoComponentsPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 284086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a52878ff65522d1e",
+  "name" : "verifyCardanoDocsPlutsPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 37395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fdf5cb91306fee4",
+  "name" : "verifyCardanoComponentsNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 117814
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4936da497a648601",
+  "name" : "verifySocialMediaFooterLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 12500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfbe9301f422d87b",
+  "name" : "verifyMobileCardanoDocsMarlowePageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 5635
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89abe9e3c003e44a",
+  "name" : "verifyCardanoDocsNewToCardanoSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 51817
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "181e544757908cf4",
+  "name" : "verifyMobileCardanoDocsNewToCardanoPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 1978
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eeca9af7318f98a8",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 124277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d38cbf6998af2c3a",
+  "name" : "verifyMobileCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 186272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3447884adeea1920",
+  "name" : "verifyMobileCardanoDocsMarlowePageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 2368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a30e9eb063ae9609",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 42418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46507406a4955f3f",
+  "name" : "verifyCardanoComponentsSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 59688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6af66c70563ee8e6",
+  "name" : "verifyCardanoDocsNativeTokensNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 77412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8fe5f48a15e0d51",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 116618
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24243cca311b9a71",
+  "name" : "verifyMobileCoreConceptsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 71364
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d62f029fed7b4f9",
+  "name" : "verifyButtonsSectionStartingPageTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 16793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71f61acad286c4cb",
+  "name" : "verifyMobileFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 39491
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6c53896574551cfd",
+  "name" : "verifyExploreCardanoSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 88864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42f52c5c0b84f1fc",
+  "name" : "verifyButtonsSectionStartingPageTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 52471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c86b63d2ccac3b3",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40535
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45597a8eb2b0bd7e",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e741bab3a96269e",
+  "name" : "verifyCardanoDocsRosettaPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 86870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbed68e6adde2868",
+  "name" : "verifyCardanoDocsToolsSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 25995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97447db3f459b479",
+  "name" : "verifyCardanoDocsLearnPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 42865
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1381703a76a58e8",
+  "name" : "verifyCardanoDocsPlutsSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 16045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed4b2f49ab04ae93",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 72571
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9edb091bce5c54d3",
+  "name" : "verifyNextPrevNavigation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 676508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9234c93ce433b07e",
+  "name" : "verifyGettingStartedPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 264364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13ad4e9f68e50f96",
+  "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 24755
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "89e6559df4d7ce8d",
+  "name" : "verifyMobileCardanoDocsNewToCardanoSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 106274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c63fc2aa60da132c",
+  "name" : "verifyMobileCardanoComponentsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 49711
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "62d8a4b300ee72ec",
+  "name" : "verifyMobileCardanoDocsLearnPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 2648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36a95f64323242d4",
+  "name" : "verifyCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 90620
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "212a9776e3a43e9b",
+  "name" : "verifyCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22300
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "467f4c06fd917fd6",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 57922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7aaa7f325b8a6246",
+  "name" : "verifySocialMediaFooterLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 17982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d17a62a13529a7b",
+  "name" : "verifyCardanoDocsCommunitySubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2faa6e362020f1de",
+  "name" : "verifyCardanoDocsLearnPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 42897
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "955ef22a5e6b6265",
+  "name" : "verifyCardanoDocsCommunityPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 165890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4245c708f2308c9d",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 139093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b27a94ab42a4b292",
+  "name" : "verifyNextPrevNavigation@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : { },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "663bf13f28dc8d27",
+  "name" : "verifyCardanoDocsToolsSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 26708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71159faf83ae870f",
+  "name" : "verifyCardanoDocsMarloweSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 37123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f129cc46379c9750",
+  "name" : "verifyCardanoComponentsSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 78841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6280befe2be76b79",
+  "name" : "verifyIntroductionCardanoHaskellLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 12076
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6b037e9c7d05511",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 56376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35a40b068a3eed14",
+  "name" : "verifyCardanoDocsPlutsPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 37585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7a35318b2897c",
+  "name" : "verifyMobileCardanoDocsLearnSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 85624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d425e7d9c7889d7d",
+  "name" : "verifyMobileCoreConceptsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 24341
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5a3d77f6192dc806",
+  "name" : "verifyButtonsSectionStartingPageTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 176987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "704ed475017c812e",
+  "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 23940
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3f74d5ed7dd4de20",
+  "name" : "verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 8031
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fcb13ede5c56d7f5",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 42385
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ac29ae32fc000e3",
+  "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 23422
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d1de41aa26558156",
+  "name" : "verifyMobileCoreConceptsSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 50287
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "41f1bfd8de2a3d97",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 150754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e6b334daee2720e",
+  "name" : "verifyExploreCardanoNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 171613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fbe3ead4b6dd730",
+  "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 23480
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1f7092ed84d31aa1",
+  "name" : "verifyCardanoDocsCommunityPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 229507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "561844340bf7773b",
+  "name" : "verifyMobileCardanoDocsCommunitySubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 117753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83ca970c177ff775",
+  "name" : "verifyCardanoDocsMarlowePageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 58377
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dd4c048fda1c6506",
+  "name" : "verifyButtonsSectionStartingPageTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 53128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84ca5bc7ec8849ab",
+  "name" : "verifyCardanoDocsMarloweSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 40154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e5e42adb4ddb20e",
+  "name" : "verifyExploreCardanoNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 194793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "800becad2eb673a2",
+  "name" : "verifyExploreCardanoNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 165370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dc195cc9e5c71c",
+  "name" : "verifyMobileIntroductionPageContentTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 9441
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b03372e4b88841b",
+  "name" : "verifyDayAndNightSwitchTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 2428
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "69c8fa054502e193",
+  "name" : "verifyCardanoDocsLearnPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 42563
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1b2554ad3d8e9a43",
+  "name" : "verifyCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 80608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b74c5c41447d0d0",
+  "name" : "verifyMobileCardanoDocsNewToCardanoPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 2825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75828ab68e42333f",
+  "name" : "verifyMobileCardanoDocsPlutsNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 30633
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec3911bdd7eb940a",
+  "name" : "verifyIntroductionPageContentTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 7908
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1f9ce91d34e93259",
+  "name" : "verifyExploreCardanoNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 166596
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "269b9d98fdf13c1d",
+  "name" : "verifyCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 23473
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "672751fc7944b49c",
+  "name" : "verifyMobileCardanoComponentsNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 304161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ff19ad8e7cf8347",
+  "name" : "verifyCardanoDocsCommunitySubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d800c782f13284",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 44005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ed329b605a6db47",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 40593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85767c7771d853a1",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 161308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "825fa7612ca51615",
+  "name" : "verifyNextAndPreviousNavigation@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 66228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10624cb91f17a94c",
+  "name" : "verifyMobileButtonsSectionStartingPageTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 4505
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1206775b0925ce3b",
+  "name" : "verifyMobileCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 155672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87c12e57be37ac51",
+  "name" : "verifyMobileCardanoDocsNewToCardanoSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 149164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c24da08153f4a02f",
+  "name" : "verifyMobileCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 34576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2545ab4ee1f45e6f",
+  "name" : "verifyCardanoDocsNewToCardanoSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 55246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4953390d0f773944",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 85196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1d54cb571829e47",
+  "name" : "verifyDiscoverCardanoPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 397887
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a6831a62c665c5fd",
+  "name" : "verifyCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 85104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8bc22b71383c08e",
+  "name" : "verifyCardanoDocsPlutsSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 14783
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5560bd76b19f1fe7",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 52138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37eff45aba3c8b35",
+  "name" : "verifyMobileCardanoDocsCommunityPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 7520
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "215032f1eb05d7a1",
+  "name" : "verifyNextAndPreviousNavigation@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 81802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b2e67a9a0d2ad47",
+  "name" : "verifySocialMediaTopLinkTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 29370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec0aa5f5b2733cf8",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 121985
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83ff40fffc47da0c",
+  "name" : "verifyCardanoComponentsSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 61956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b3e704b6d58a8af",
+  "name" : "verifyCardanoDocsToolsSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 25454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dccf1fc36e94f449",
+  "name" : "verifyMobileCardanoDocsMarloweSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 78413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11b3b890d424415a",
+  "name" : "verifyFooterLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 12275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "985a5ce2cd3c6085",
+  "name" : "verifyCardanoDocsNewToCardanoSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 60390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6663a2ece86b6bd9",
+  "name" : "verifyCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 75832
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fe0aaf9c16303a8",
+  "name" : "verifyMobileCardanoDocsPlutsSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 25073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd944c06b9e16ff",
+  "name" : "verifyMobileButtonsSectionStartingPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 4427
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e068cc5cea871acc",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 38444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "937cb9c737e5ff04",
+  "name" : "verifyCardanoDocsRosettaPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 102971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53ff2ec37f0c07ca",
+  "name" : "verifyMobileCardanoDocsToolsNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 56956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1943bf865a3881f0",
+  "name" : "verifyGettingStartedPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 209765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcf501deeeb633fd",
+  "name" : "verifyGettingStartedPage@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 211455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eacaf87510b513c",
+  "name" : "verifyCardanoDocsRosettaPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 135239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85edf0b72e2284e6",
+  "name" : "verifyExploreCardanoSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 84809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ef34d3fca7de1e7",
+  "name" : "verifyCardanoDocsCommunityNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 105626
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6540e8fdef6495e6",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 58953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28364fc620bdda72",
+  "name" : "verifyCardanoDocsToolsSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 25285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16eb62255810c50c",
+  "name" : "verifyMobileCardanoDocsLearnNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 170067
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a756898ecd5f8e2a",
+  "name" : "verifyExploreCardanoNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 186981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35712c024f8bb963",
+  "name" : "verifyMobileCardanoComponentsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 108025
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b687cad6bdd7f65",
+  "name" : "verifyCardanoDocsNewToCardanoSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 56143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c7c3e5ef90346a7",
+  "name" : "verifySocialMediaFooterLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 15255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "870096f2c30b9542",
+  "name" : "verifySocialMediaTopLinkTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 36096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a39fe2874dbb1fb8",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 42116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ade049d1480cae7",
+  "name" : "verifyCardanoDocsToolsSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 25412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5018317d9fa0b653",
+  "name" : "verifyCardanoDocsNewToCardanoSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 57415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8364c84c274f7463",
+  "name" : "verifyCardanoDocsMarloweSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 36952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc035e5d1fd9d516",
+  "name" : "verifyCardanoDocsPlutsSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 13947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee0a2ca72a2d0a7a",
+  "name" : "verifyCardanoDocsNativeTokensNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 103754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bda2becea1cb2d3e",
+  "name" : "verifyCardanoDocsCommunitySubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 58946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "962db61289744888",
+  "name" : "verifyCardanoExplorerIframeTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40a8658f18a1de2a",
+  "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 25573
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "57aa5932744c1781",
+  "name" : "verifyMobileCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 469105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "468a84d6f1b634d3",
+  "name" : "verifyDiscoverCardanoPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 304445
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cbfd44890ad9e739",
+  "name" : "verifyNextPrevNavigation@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 674768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fddadc8e97b02769",
+  "name" : "verifyCardanoComponentsNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 109245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc58a0cef025e87a",
+  "name" : "verifyCardanoDocsMarlowePageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 60777
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6b99ad168ba4fa6a",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 11605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b84ebabb48a357a",
+  "name" : "verifyGettingStartedPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 201471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea22eede3bf5b52b",
+  "name" : "verifyCardanoDocsCommunitySubmenuTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 45037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "443dcf5730249bf9",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 58835
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b175449941c171a",
+  "name" : "verifyMobileCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 280457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11132777853f134e",
+  "name" : "verifyDayAndNightSwitchTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 4027
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8585ec24072e4b47",
+  "name" : "verifyMobileExploreCardanoSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 21290
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7414c93ee087b100",
+  "name" : "verifyDiscoverCardanoPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 316179
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "679d2e0fd38869b0",
+  "name" : "verifyCardanoDocsMarloweSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 39932
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aa9318394e61f6b",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 117325
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31aa284879b36564",
+  "name" : "verifyCardanoDocsLearnPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 45319
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "56fe112580433956",
+  "name" : "verifyExploreCardanoSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 78410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78b16bd1de8d9503",
+  "name" : "verifyMobileCardanoComponentsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 52156
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c154d5720c487624",
+  "name" : "verifyNextAndPreviousButtonsForGettingStarted@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 379733
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f52e3a39e295e9cd",
+  "name" : "verifyCardanoDocsNewToCardanoSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 56739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e32c7b27bd51d218",
+  "name" : "verifyCardanoDocsNativeTokensNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 94598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "263ab47e0dea73a3",
+  "name" : "verifyMobileSocialMediaFooterLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 15460
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d9b9aab1e1a50096",
+  "name" : "verifyDayAndNightSwitchTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 4939
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "edb0e6a55f8a5e8c",
+  "name" : "verifySocialMediaFooterLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 21164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d776313caef6282e",
+  "name" : "verifyCardanoDocsNewToCardanoPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22171
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "21563f6a2baa66c9",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 52816
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94acbfe0e5817858",
+  "name" : "verifyMobileSocialMediaTopLinkTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 3457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69ea7de55d9c45bc",
+  "name" : "verifyMobileCardanoDocsMarloweNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 98478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b75e5f42a72ee2b",
+  "name" : "verifyCardanoDocsRosettaNextButtonsAndPreviousButtonTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 60702
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2c94cfa05c9c513",
+  "name" : "verifyCardanoExplorerIframeTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 22373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "265c4fe4afd75815",
+  "name" : "verifyCardanoDocsMarlowePageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 62096
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dda11910844bf85f",
+  "name" : "verifyCardanoDocsCommunityPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 171793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d86238ba23e38c61",
+  "name" : "verifyCardanoComponentsNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 111477
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f6a45ff08a28221",
+  "name" : "verifyCardanoExplorerIframeTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 19870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c21e2ed731ac606",
+  "name" : "verifyDiscoverCardanoPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 257277
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a5d0fae05038eb37",
+  "name" : "verifyCardanoDocsNativeTokensSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 39924
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6ba89164302436d",
+  "name" : "verifyDayAndNightSwitchTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 4590
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0a49b7d6bbdad4",
+  "name" : "verifyCardanoDocsLearnPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 46199
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6683323545484ab8",
+  "name" : "verifyCardanoDocsPlutsSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 17717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "914938bed093d11f",
+  "name" : "verifyNextAndPreviousNavigation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 76546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4bcf79307f08734",
+  "name" : "verifySocialMediaTopLinkTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 32427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e04965482cb49749",
+  "name" : "verifyMobileCoreConceptsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 8795
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "acd13b11a3cc0a4",
+  "name" : "verifyDiscoverCardanoPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 424166
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7448fc9d523f59a2",
+  "name" : "verifyDiscoverCardanoPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 389645
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "225c37921787e10b",
+  "name" : "verifyMobileCardanoDocsMarloweSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 64617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e0d606a90a02e0f",
+  "name" : "verifyNextPrevNavigation@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 686460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "334661d216bcd4a",
+  "name" : "verifyCardanoDocsCommunityPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 331161
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c2f1aeccd9600477",
+  "name" : "verifyMobileCardanoDocsRosettaSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 57126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "effcf7fb29d67aac",
+  "name" : "verifyFooterLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 12858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88844c96f09eb1fa",
+  "name" : "verifyCardanoComponentsSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 58666
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f3cc9277d1f0cf5",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 70834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc32f7a82d6bd3ab",
+  "name" : "verifyGettingStartedPageOnMobile@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 74698
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8153807c653e681b",
+  "name" : "verifySocialMediaTopLinkTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 35771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dab652938f232fb6",
+  "name" : "verifyMobileCardanoComponentsSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 101968
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37f3f7229ad825bf",
+  "name" : "verifyCardanoDocsPlutsPageLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 36691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "708b120c96080a2f",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 46709
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29f9329a58ea9501",
+  "name" : "verifyMobileIntroductionPageContentTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 13044
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ed08408c526eac58",
+  "name" : "verifyExploreCardanoSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 80027
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e72a3e4d9b27d735",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 81714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0f86fbd9757d94",
+  "name" : "verifyCardanoDocsToolsPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 28786
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7c8ebcfc134fba27",
+  "name" : "verifyCardanoDocsToolsPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 29701
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b7ab9980ade386b5",
+  "name" : "verifyCardanoDocsToolsPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 32338
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "172b31be6b4daa9d",
+  "name" : "verifyMobileCardanoDocsPlutsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 17097
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a99baec2ae5fa9dc",
+  "name" : "verifyCardanoDocsLearnPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 47634
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ce69dc6edefe9f6",
+  "name" : "verifyNextPrevNavigation@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 783226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9437437915a6f906",
+  "name" : "verifyExploreCardanoNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 171405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce0e1352b5a62e20",
+  "name" : "verifyMobileCardanoDocsToolsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 14355
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a62c64c589f83b96",
+  "name" : "verifyMobileCardanoDocsLearnSubmenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 149947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70223afe9b6cbd78",
+  "name" : "verifyCardanoDocsPlutsPageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 29193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d17f61b2e52f5cb7",
+  "name" : "verifyMobileCardanoDocsToolsSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 39129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd9e7e8ab6c7c9f5",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 47143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9087533c8f51b37",
+  "name" : "verifyIntroductionPageContentTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 8591
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f5e0b587ed895351",
+  "name" : "verifyIntroductionPageContentTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 8647
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e5583d26494f9d8d",
+  "name" : "verifyCardanoComponentsPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 317580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a70c12bd5f8ce9e",
+  "name" : "verifyCardanoDocsRosettaPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 109460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "889d229e6bb5f764",
+  "name" : "verifyIntroductionCardanoHaskellLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 7586
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab4ba953341b7fc6",
+  "name" : "verifyMobileCardanoDocsLearnPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 2933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7d997aaf748a239",
+  "name" : "verifyButtonsSectionStartingPageTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 19960
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd03f5e32f33e360",
+  "name" : "verifyMobileDayAndNightSwitchTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 7568
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "32b76f697e5f289d",
+  "name" : "verifyDayAndNightSwitchTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 6298
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7943818c32d866c",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 120592
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c979e9b8ccb4060",
+  "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 50863
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef6903c85da2570c",
+  "name" : "verifyExploreCardanoSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 79887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aee9860206f6c3cd",
+  "name" : "verifyCardanoDocsCommunitySubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 43361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa0d9351022f3d09",
+  "name" : "verifyMobileFooterLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 33638
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bcdc0987645aef7a",
+  "name" : "verifyNextAndPreviousNavigation@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 79231
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53ae47542055cede",
+  "name" : "verifyMobileCoreConceptsNextButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 11457
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bd737803c0edb8d5",
+  "name" : "verifyCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 23046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4df74acefd0e8270",
+  "name" : "verifyCardanoDocsMarlowePageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 83260
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "40d592a4be2e153c",
+  "name" : "verifyCardanoComponentsPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 189491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8bc040cd984f67a",
+  "name" : "verifyIntroductionPageContentTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 8863
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5469cf3570cc8ac3",
+  "name" : "verifyCardanoDocsNativeTokensNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 83768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db479f3e12f88be2",
+  "name" : "verifyMobileCardanoDocsLearnSubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 105725
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c00de09bd7ec4ce",
+  "name" : "verifyMobileExploreCardanoNextButtonsAndPreviousButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 7762
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8e79ded67237082d",
+  "name" : "verifyCardanoDocsNewToCardanoNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 139041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f4a4c25598c5b0a",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 29771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65279ec60db71953",
+  "name" : "verifyMobileCardanoDocsPlutsPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 38564
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "59649c3606cf38ba",
+  "name" : "verifyMobileCardanoDocsToolsPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 7907
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b130154c400673b2",
+  "name" : "verifyNextPrevNavigation@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 683804
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaddccf0f71a88c",
+  "name" : "verifyMobileCardanoComponentsNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 170294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fc1077aa5de7aac",
+  "name" : "verifyMobileCardanoDocsRosettaPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 2423
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d53254521e07cf17",
+  "name" : "verifyFooterLinksTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f78c281dce9c06b3",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 135729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cca0f490b4991dc",
+  "name" : "verifyButtonsSectionStartingPageTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 25635
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bfe05ec351071e5",
+  "name" : "verifyCardanoComponentsSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 61342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1323995625644122",
+  "name" : "verifyIntroductionPageContentTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 7860
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "12a0894d0cb9d736",
+  "name" : "verifyCardanoComponentsPageLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 200411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27792dacd7c33b3a",
+  "name" : "verifyCardanoDocsToolsNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 50539
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "555c968e61f98bc8",
+  "name" : "verifyCardanoDocsMarlowePageLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 53343
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b125c75d94f0084",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 33279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a423c3dc69f39212",
+  "name" : "verifyCardanoDocsCommunityPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 176406
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7227d38b3537df20",
+  "name" : "verifyCardanoDocsRosettaSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 30419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f003bd81922a74d",
+  "name" : "verifyCardanoDocsPlutsPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 36182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0db4cbfecf61e2e",
+  "name" : "verifyMobileCardanoDocsLearnPageLinksTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 2397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de6c1304856737cf",
+  "name" : "verifyCardanoDocsPlutsNextButtonsAndPreviousButtonTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 21510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76123013357d91d5",
+  "name" : "verifyMobileCardanoDocsMarloweNextButtonsAndPreviousButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 188259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "423e3c6633bbf9b7",
+  "name" : "verifyIntroductionPageContentTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 10677
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f790e1f2daa8dbc8",
+  "name" : "verifySocialMediaFooterLinksTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89bde3b9f7a47aa0",
+  "name" : "verifyNextAndPreviousNavigation@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 71333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "602adaa9106c7d40",
+  "name" : "verifyMobileCardanoDocsCommunityPageLinksTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 12085
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe117015fac8eb9d",
+  "name" : "verifyMobileSocialMediaTopLinkTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 4008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2a14464d3f836f2",
+  "name" : "verifyIntroductionCardanoHaskellLinksTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 8556
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c7abc75cebfd64e",
+  "name" : "verifyCardanoDocsToolsSubmenuTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 22322
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9afaa86d1e5e78d3",
+  "name" : "verifyFooterLinksTest@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 20350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "712f6a29256dc549",
+  "name" : "verifyCardanoDocsPlutsSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 13726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d966c581aa82df3",
+  "name" : "verifyCardanoDocsPlutsSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 13263
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c43ada26ca7ff8c7",
+  "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 42915
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5e49b6f82be0b0fe",
+  "name" : "verifyCardanoDocsLearnNextButtonsAndPreviousButtonTest@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 69107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b964c666b8524148",
+  "name" : "verifyCardanoComponentsPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 273615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a825a0a1c20f0ac9",
+  "name" : "verifyCardanoDocsLearnSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 57307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35cbe1e02c0407b8",
+  "name" : "verifyCardanoDocsNativeTokensPageLinksTest@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 65867
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f03cc52b09aa52e6",
+  "name" : "verifyMobileCardanoDocsCommunitySubmenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 120269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1366656ec7c61f61",
+  "name" : "verifySocialMediaTopLinkTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 32451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

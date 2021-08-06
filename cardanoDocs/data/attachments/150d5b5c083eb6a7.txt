@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: MobileTest.MobileCardanoDocsCardanoComponentsTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 848.992 sec <<< FAILURE!
+verifyMobileCardanoComponentsPageLinksTest@IPhone(version="11", platform="IOS")(MobileTest.MobileCardanoDocsCardanoComponentsTest)  Time elapsed: 49.711 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 102
+	at MobileTest.MobileCardanoDocsCardanoComponentsTest.verifyMobileCardanoComponentsPageLinksTest(MobileCardanoDocsCardanoComponentsTest.java:71)
+
+verifyMobileCardanoComponentsPageLinksTest@Android(version="10", platform="ANDROID")(MobileTest.MobileCardanoDocsCardanoComponentsTest)  Time elapsed: 52.156 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: toIndex = 102
+	at MobileTest.MobileCardanoDocsCardanoComponentsTest.verifyMobileCardanoComponentsPageLinksTest(MobileCardanoDocsCardanoComponentsTest.java:71)
+

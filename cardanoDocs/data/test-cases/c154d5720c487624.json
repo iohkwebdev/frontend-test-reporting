@@ -1,0 +1,53 @@
+{
+  "uid" : "c154d5720c487624",
+  "name" : "verifyNextAndPreviousButtonsForGettingStarted@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileTest.MobileCardanoDocsGettingStartedTest:MobileTest.MobileCardanoDocsGettingStartedTest#verifyNextAndPreviousButtonsForGettingStarted@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 379733
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ef17b8b0b61a09",
+      "name" : "System out",
+      "source" : "7ef17b8b0b61a09.txt",
+      "type" : "text/plain",
+      "size" : 788
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.MobileCardanoDocsGettingStartedTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.MobileCardanoDocsGettingStartedTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.MobileCardanoDocsGettingStartedTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c154d5720c487624.json",
+  "parameterValues" : [ ]
+}
