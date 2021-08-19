@@ -1,0 +1,53 @@
+{
+  "uid" : "998376baf1758128",
+  "name" : "verifyFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 40384
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7321b4ce010a350f",
+      "name" : "System out",
+      "source" : "7321b4ce010a350f.txt",
+      "type" : "text/plain",
+      "size" : 529
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "998376baf1758128.json",
+  "parameterValues" : [ ]
+}
