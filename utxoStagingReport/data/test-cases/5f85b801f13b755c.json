@@ -1,0 +1,53 @@
+{
+  "uid" : "5f85b801f13b755c",
+  "name" : "verifyFooterSection@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyFooterSection@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 41111
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "427ac2f1e6b526f5",
+      "name" : "System out",
+      "source" : "427ac2f1e6b526f5.txt",
+      "type" : "text/plain",
+      "size" : 542
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileTest.UtxoHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileTest.UtxoHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileTest.UtxoHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f85b801f13b755c.json",
+  "parameterValues" : [ ]
+}

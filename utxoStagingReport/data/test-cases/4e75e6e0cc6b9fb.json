@@ -1,0 +1,53 @@
+{
+  "uid" : "4e75e6e0cc6b9fb",
+  "name" : "verifyFormSection@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 31282
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b09a838664ccc910",
+      "name" : "System out",
+      "source" : "b09a838664ccc910.txt",
+      "type" : "text/plain",
+      "size" : 529
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e75e6e0cc6b9fb.json",
+  "parameterValues" : [ ]
+}

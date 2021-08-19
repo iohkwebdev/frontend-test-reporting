@@ -5,23 +5,23 @@
     "name" : "Product defects",
     "children" : [ {
       "children" : [ {
-        "name" : "verifyUtxoMobileVideoItems@IPhone(version=\"11\", platform=\"IOS\")",
-        "uid" : "a46a2a147cb9223b",
+        "name" : "verifyVideoItems@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "e60d2b75ac18fd9c",
         "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
         "status" : "failed",
         "time" : {
-          "duration" : 24359
+          "duration" : 17959
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "verifyVideoItems@Safari(version=\"14\", platform=\"MAC\")",
-        "uid" : "387c680e83c23806",
+        "name" : "verifyUtxoMobileVideoItems@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "7c0b17990ab7c3cf",
         "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
         "status" : "failed",
         "time" : {
-          "duration" : 17959
+          "duration" : 24359
         },
         "flaky" : false,
         "newFailed" : false,

@@ -4,195 +4,8 @@
   "children" : [ {
     "name" : "DesktopTest.UtxoHomePageTest",
     "children" : [ {
-      "name" : "verifyVideoItems@Firefox(version=\"88\", platform=\"MAC\")",
-      "uid" : "84312c3967e3f290",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 36670
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFooterSection@Firefox(version=\"88\", platform=\"MAC\")",
-      "uid" : "d4a615cc118f1089",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 40144
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFooterSection@Edge(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "d087dbda6099a0a4",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 41194
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFormSection@Firefox(version=\"88\", platform=\"MAC\")",
-      "uid" : "806748c3558abd73",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 24889
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyVideoItems@Edge(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "83ce4b09f9392bea",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 37679
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFormSection@Chrome(version=\"90\", platform=\"MAC\")",
-      "uid" : "938a49a2cf202957",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 25837
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyUtxoMenuItems@Firefox(version=\"88\", platform=\"MAC\")",
-      "uid" : "51868cedf3808a25",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 38925
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyUtxoMenuItems@Chrome(version=\"90\", platform=\"MAC\")",
-      "uid" : "ed0be331f7262a76",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 37947
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")",
-      "uid" : "a991e7293183819d",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 40976
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyVideoItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "c076879ddd637888",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 38486
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyVideoItems@Firefox(version=\"88\", platform=\"WINDOWS\")",
-      "uid" : "6f07705c15c5e0cb",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 37408
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFooterSection@Firefox(version=\"88\", platform=\"WINDOWS\")",
-      "uid" : "f70038b7b5b526af",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 40455
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyUtxoMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "e84f483849725593",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 37843
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "998376baf1758128",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 40384
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFormSection@Edge(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "c4f2005c6d6ff537",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 31282
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyVideoItems@Chrome(version=\"90\", platform=\"MAC\")",
-      "uid" : "fd8e6a9cfd2b78fd",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 37505
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFormSection@Chrome(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "2468ab48e534fccb",
-      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "passed",
-      "time" : {
-        "duration" : 27838
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
       "name" : "verifyFooterSection@Safari(version=\"14\", platform=\"MAC\")",
-      "uid" : "22aca714dc7acf21",
+      "uid" : "b1c87d4facf809c9",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
       "status" : "passed",
       "time" : {
@@ -202,19 +15,19 @@
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "verifyUtxoMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")",
-      "uid" : "a73b6684bd81e688",
+      "name" : "verifyFooterSection@Firefox(version=\"88\", platform=\"WINDOWS\")",
+      "uid" : "7a912a9d04ec80fa",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
       "status" : "passed",
       "time" : {
-        "duration" : 50082
+        "duration" : 40455
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "verifyFormSection@Safari(version=\"14\", platform=\"MAC\")",
-      "uid" : "34864c0bbf310510",
+      "uid" : "da06984407a5b33",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
       "status" : "passed",
       "time" : {
@@ -224,8 +37,41 @@
       "newFailed" : false,
       "parameters" : [ ]
     }, {
+      "name" : "verifyFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "7a2c4c592845cee3",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40384
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoItems@Safari(version=\"14\", platform=\"MAC\")",
+      "uid" : "e60d2b75ac18fd9c",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "failed",
+      "time" : {
+        "duration" : 17959
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoItems@Firefox(version=\"88\", platform=\"WINDOWS\")",
+      "uid" : "87c4e459746a99c8",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37408
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
       "name" : "verifyFormSection@Firefox(version=\"88\", platform=\"WINDOWS\")",
-      "uid" : "2acd2bfbe8bed148",
+      "uid" : "6f602704e956d9fa",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
       "status" : "passed",
       "time" : {
@@ -236,7 +82,7 @@
       "parameters" : [ ]
     }, {
       "name" : "verifyFooterSection@Chrome(version=\"90\", platform=\"MAC\")",
-      "uid" : "646fcc7280061517",
+      "uid" : "225a2721bdf4009c",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
       "status" : "passed",
       "time" : {
@@ -246,23 +92,177 @@
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "verifyVideoItems@Safari(version=\"14\", platform=\"MAC\")",
-      "uid" : "387c680e83c23806",
+      "name" : "verifyVideoItems@Firefox(version=\"88\", platform=\"MAC\")",
+      "uid" : "1f7c70e5bc4c09b4",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
-      "status" : "failed",
+      "status" : "passed",
       "time" : {
-        "duration" : 17959
+        "duration" : 36670
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoItems@Chrome(version=\"90\", platform=\"MAC\")",
+      "uid" : "5840c92fcce37795",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37505
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoItems@Edge(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "a1b7bfe1409e854f",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37679
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterSection@Firefox(version=\"88\", platform=\"MAC\")",
+      "uid" : "946a9993f3517e80",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMenuItems@Chrome(version=\"90\", platform=\"MAC\")",
+      "uid" : "8aaa8220cc207000",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37947
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "14a4f3177a452d6f",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50082
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyVideoItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "ea57e2e54fe86e98",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38486
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFormSection@Chrome(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "cf4c2146e6a1c809",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27838
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMenuItems@Firefox(version=\"88\", platform=\"MAC\")",
+      "uid" : "5dae9d41753c120c",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38925
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFormSection@Firefox(version=\"88\", platform=\"MAC\")",
+      "uid" : "2d6f679ab32ed8b2",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24889
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterSection@Edge(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "2a1fe65559d6d011",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 41194
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFormSection@Edge(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "4e75e6e0cc6b9fb",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 31282
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "verifyUtxoMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")",
-      "uid" : "98dfe3ed58e449ba",
+      "uid" : "e9749dc4d6597cbb",
       "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
       "status" : "passed",
       "time" : {
         "duration" : 37563
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "939df86e0c05d238",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37843
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFormSection@Chrome(version=\"90\", platform=\"MAC\")",
+      "uid" : "ef7f9525994cbd7e",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25837
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")",
+      "uid" : "4c2069719688eb01",
+      "parentUid" : "34b973ebc4fab855cfc64a35f98edfc0",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40976
       },
       "flaky" : false,
       "newFailed" : false,
@@ -272,52 +272,19 @@
   }, {
     "name" : "MobileTest.UtxoHomePageTest",
     "children" : [ {
-      "name" : "verifyFooterSection@Android(version=\"10\", platform=\"ANDROID\")",
-      "uid" : "3db0f0f3dc471e52",
+      "name" : "verifyUtxoMobileMenuItems@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "110796c3bbabab83",
       "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
       "status" : "passed",
       "time" : {
-        "duration" : 39437
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyUtxoMobileMenuItems@Android(version=\"10\", platform=\"ANDROID\")",
-      "uid" : "7934b9b890c49383",
-      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
-      "status" : "passed",
-      "time" : {
-        "duration" : 69361
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyUtxoMobileVideoItems@Android(version=\"10\", platform=\"ANDROID\")",
-      "uid" : "720c3407d75041f3",
-      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
-      "status" : "passed",
-      "time" : {
-        "duration" : 40011
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "verifyFormSection@Android(version=\"10\", platform=\"ANDROID\")",
-      "uid" : "3461186fa9eaed8a",
-      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
-      "status" : "passed",
-      "time" : {
-        "duration" : 29645
+        "duration" : 68144
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "verifyFormSection@IPhone(version=\"11\", platform=\"IOS\")",
-      "uid" : "15e64751d5a016f6",
+      "uid" : "23f1f9a26e1253b8",
       "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
       "status" : "passed",
       "time" : {
@@ -327,19 +294,8 @@
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "verifyUtxoMobileVideoItems@IPhone(version=\"11\", platform=\"IOS\")",
-      "uid" : "a46a2a147cb9223b",
-      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
-      "status" : "failed",
-      "time" : {
-        "duration" : 24359
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
       "name" : "verifyFooterSection@IPhone(version=\"11\", platform=\"IOS\")",
-      "uid" : "e173081e717e8a56",
+      "uid" : "5f85b801f13b755c",
       "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
       "status" : "passed",
       "time" : {
@@ -349,12 +305,56 @@
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "verifyUtxoMobileMenuItems@IPhone(version=\"11\", platform=\"IOS\")",
-      "uid" : "e50ced636af9cff4",
+      "name" : "verifyFormSection@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "6eac9c5c5c7ca223",
       "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
       "status" : "passed",
       "time" : {
-        "duration" : 68144
+        "duration" : 29645
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMobileVideoItems@IPhone(version=\"11\", platform=\"IOS\")",
+      "uid" : "7c0b17990ab7c3cf",
+      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
+      "status" : "failed",
+      "time" : {
+        "duration" : 24359
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMobileMenuItems@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "127cf50beadf679",
+      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFooterSection@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "b43241f1aade23e7",
+      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyUtxoMobileVideoItems@Android(version=\"10\", platform=\"ANDROID\")",
+      "uid" : "f5bc0da54952f570",
+      "parentUid" : "97ee08a8a048935c40fc3decfcf42076",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40011
       },
       "flaky" : false,
       "newFailed" : false,
