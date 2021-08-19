@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "34b973ebc4fab855cfc64a35f98edfc0",
+    "name" : "DesktopTest.UtxoHomePageTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 24
+    }
+  }, {
+    "uid" : "97ee08a8a048935c40fc3decfcf42076",
+    "name" : "MobileTest.UtxoHomePageTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

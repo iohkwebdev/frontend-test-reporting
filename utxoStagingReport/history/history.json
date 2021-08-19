@@ -1,0 +1,546 @@
+{
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f70038b7b5b526af",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40455
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34864c0bbf310510",
+      "status" : "passed",
+      "time" : {
+        "duration" : 31996
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22aca714dc7acf21",
+      "status" : "passed",
+      "time" : {
+        "duration" : 43470
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyFormSection@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3461186fa9eaed8a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29645
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyUtxoMobileVideoItems@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a46a2a147cb9223b",
+      "status" : "failed",
+      "time" : {
+        "duration" : 24359
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51868cedf3808a25",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38925
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyUtxoMobileVideoItems@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "720c3407d75041f3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40011
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2acd2bfbe8bed148",
+      "status" : "passed",
+      "time" : {
+        "duration" : 26323
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e84f483849725593",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37843
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed0be331f7262a76",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37947
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyVideoItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f07705c15c5e0cb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37408
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98dfe3ed58e449ba",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37563
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyFooterSection@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e173081e717e8a56",
+      "status" : "passed",
+      "time" : {
+        "duration" : 41111
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2468ab48e534fccb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27838
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d087dbda6099a0a4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 41194
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4a615cc118f1089",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40144
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyFormSection@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15e64751d5a016f6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25590
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "806748c3558abd73",
+      "status" : "passed",
+      "time" : {
+        "duration" : 24889
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyVideoItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83ce4b09f9392bea",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37679
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyUtxoMobileMenuItems@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7934b9b890c49383",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69361
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a991e7293183819d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40976
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyUtxoMobileMenuItems@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e50ced636af9cff4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 68144
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyVideoItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84312c3967e3f290",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36670
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyVideoItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd8e6a9cfd2b78fd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37505
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyVideoItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c076879ddd637888",
+      "status" : "passed",
+      "time" : {
+        "duration" : 38486
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "646fcc7280061517",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40610
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a73b6684bd81e688",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50082
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyFooterSection@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3db0f0f3dc471e52",
+      "status" : "passed",
+      "time" : {
+        "duration" : 39437
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4f2005c6d6ff537",
+      "status" : "passed",
+      "time" : {
+        "duration" : 31282
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "938a49a2cf202957",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25837
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyVideoItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "387c680e83c23806",
+      "status" : "failed",
+      "time" : {
+        "duration" : 17959
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "998376baf1758128",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40384
+      }
+    } ]
+  }
+}
