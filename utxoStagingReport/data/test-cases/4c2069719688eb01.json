@@ -1,0 +1,53 @@
+{
+  "uid" : "4c2069719688eb01",
+  "name" : "verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 40976
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b09a838664ccc910",
+      "name" : "System out",
+      "source" : "b09a838664ccc910.txt",
+      "type" : "text/plain",
+      "size" : 529
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopTest.UtxoHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c2069719688eb01.json",
+  "parameterValues" : [ ]
+}

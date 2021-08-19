@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f70038b7b5b526af",
+      "uid" : "7a912a9d04ec80fa",
       "status" : "passed",
       "time" : {
         "duration" : 40455
@@ -26,7 +26,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "34864c0bbf310510",
+      "uid" : "da06984407a5b33",
       "status" : "passed",
       "time" : {
         "duration" : 31996
@@ -43,7 +43,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "22aca714dc7acf21",
+      "uid" : "b1c87d4facf809c9",
       "status" : "passed",
       "time" : {
         "duration" : 43470
@@ -60,7 +60,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3461186fa9eaed8a",
+      "uid" : "6eac9c5c5c7ca223",
       "status" : "passed",
       "time" : {
         "duration" : 29645
@@ -77,7 +77,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a46a2a147cb9223b",
+      "uid" : "7c0b17990ab7c3cf",
       "status" : "failed",
       "time" : {
         "duration" : 24359
@@ -94,7 +94,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "51868cedf3808a25",
+      "uid" : "5dae9d41753c120c",
       "status" : "passed",
       "time" : {
         "duration" : 38925
@@ -111,7 +111,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "720c3407d75041f3",
+      "uid" : "f5bc0da54952f570",
       "status" : "passed",
       "time" : {
         "duration" : 40011
@@ -128,7 +128,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2acd2bfbe8bed148",
+      "uid" : "6f602704e956d9fa",
       "status" : "passed",
       "time" : {
         "duration" : 26323
@@ -145,7 +145,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e84f483849725593",
+      "uid" : "939df86e0c05d238",
       "status" : "passed",
       "time" : {
         "duration" : 37843
@@ -162,7 +162,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ed0be331f7262a76",
+      "uid" : "8aaa8220cc207000",
       "status" : "passed",
       "time" : {
         "duration" : 37947
@@ -179,7 +179,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6f07705c15c5e0cb",
+      "uid" : "87c4e459746a99c8",
       "status" : "passed",
       "time" : {
         "duration" : 37408
@@ -196,7 +196,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "98dfe3ed58e449ba",
+      "uid" : "e9749dc4d6597cbb",
       "status" : "passed",
       "time" : {
         "duration" : 37563
@@ -213,7 +213,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e173081e717e8a56",
+      "uid" : "5f85b801f13b755c",
       "status" : "passed",
       "time" : {
         "duration" : 41111
@@ -230,7 +230,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2468ab48e534fccb",
+      "uid" : "cf4c2146e6a1c809",
       "status" : "passed",
       "time" : {
         "duration" : 27838
@@ -247,7 +247,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d087dbda6099a0a4",
+      "uid" : "2a1fe65559d6d011",
       "status" : "passed",
       "time" : {
         "duration" : 41194
@@ -264,7 +264,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d4a615cc118f1089",
+      "uid" : "946a9993f3517e80",
       "status" : "passed",
       "time" : {
         "duration" : 40144
@@ -281,27 +281,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "15e64751d5a016f6",
+      "uid" : "23f1f9a26e1253b8",
       "status" : "passed",
       "time" : {
         "duration" : 25590
-      }
-    } ]
-  },
-  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Firefox(version=\"88\", platform=\"MAC\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "806748c3558abd73",
-      "status" : "passed",
-      "time" : {
-        "duration" : 24889
       }
     } ]
   },
@@ -315,14 +298,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "83ce4b09f9392bea",
+      "uid" : "a1b7bfe1409e854f",
       "status" : "passed",
       "time" : {
         "duration" : 37679
       }
     } ]
   },
-  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyUtxoMobileMenuItems@Android(version=\"10\", platform=\"ANDROID\")" : {
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Firefox(version=\"88\", platform=\"MAC\")" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -332,27 +315,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7934b9b890c49383",
+      "uid" : "2d6f679ab32ed8b2",
       "status" : "passed",
       "time" : {
-        "duration" : 69361
-      }
-    } ]
-  },
-  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "a991e7293183819d",
-      "status" : "passed",
-      "time" : {
-        "duration" : 40976
+        "duration" : 24889
       }
     } ]
   },
@@ -366,10 +332,44 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e50ced636af9cff4",
+      "uid" : "110796c3bbabab83",
       "status" : "passed",
       "time" : {
         "duration" : 68144
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyUtxoMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c2069719688eb01",
+      "status" : "passed",
+      "time" : {
+        "duration" : 40976
+      }
+    } ]
+  },
+  "MobileTest.UtxoHomePageTest:MobileTest.UtxoHomePageTest#verifyUtxoMobileMenuItems@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "127cf50beadf679",
+      "status" : "passed",
+      "time" : {
+        "duration" : 69361
       }
     } ]
   },
@@ -383,7 +383,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "84312c3967e3f290",
+      "uid" : "1f7c70e5bc4c09b4",
       "status" : "passed",
       "time" : {
         "duration" : 36670
@@ -400,7 +400,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fd8e6a9cfd2b78fd",
+      "uid" : "5840c92fcce37795",
       "status" : "passed",
       "time" : {
         "duration" : 37505
@@ -417,7 +417,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c076879ddd637888",
+      "uid" : "ea57e2e54fe86e98",
       "status" : "passed",
       "time" : {
         "duration" : 38486
@@ -434,7 +434,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "646fcc7280061517",
+      "uid" : "225a2721bdf4009c",
       "status" : "passed",
       "time" : {
         "duration" : 40610
@@ -451,7 +451,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a73b6684bd81e688",
+      "uid" : "14a4f3177a452d6f",
       "status" : "passed",
       "time" : {
         "duration" : 50082
@@ -468,7 +468,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3db0f0f3dc471e52",
+      "uid" : "b43241f1aade23e7",
       "status" : "passed",
       "time" : {
         "duration" : 39437
@@ -485,27 +485,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c4f2005c6d6ff537",
+      "uid" : "4e75e6e0cc6b9fb",
       "status" : "passed",
       "time" : {
         "duration" : 31282
-      }
-    } ]
-  },
-  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Chrome(version=\"90\", platform=\"MAC\")" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "938a49a2cf202957",
-      "status" : "passed",
-      "time" : {
-        "duration" : 25837
       }
     } ]
   },
@@ -519,10 +502,27 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "387c680e83c23806",
+      "uid" : "e60d2b75ac18fd9c",
       "status" : "failed",
       "time" : {
         "duration" : 17959
+      }
+    } ]
+  },
+  "DesktopTest.UtxoHomePageTest:DesktopTest.UtxoHomePageTest#verifyFormSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef7f9525994cbd7e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 25837
       }
     } ]
   },
@@ -536,7 +536,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "998376baf1758128",
+      "uid" : "7a2c4c592845cee3",
       "status" : "passed",
       "time" : {
         "duration" : 40384
