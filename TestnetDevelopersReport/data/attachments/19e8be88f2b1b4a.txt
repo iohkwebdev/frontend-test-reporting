@@ -1,0 +1,123 @@
+-------------------------------------------------------------------------------
+Test set: DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest
+-------------------------------------------------------------------------------
+Tests run: 42, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 1,727.568 sec <<< FAILURE!
+verifyFooterSection@Chrome(version="90", platform="WINDOWS")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 172.491 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 5 out of bounds for length 0
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyFooterSection(CardanoDevelopersHomePageTest.java:83)
+
+verifyEmbededSupportSection@Chrome(version="90", platform="MAC")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 4.633 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"div iframe"}
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.11.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'mac-10-144-208-165.browserstack.com', ip: '10.144.208.165', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51915}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.LbIV9i}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ddcabeadd61e121fa23f1d4d8c2ed696
+*** Element info: {Using=css selector, value=div iframe}
+Command duration or timeout: 0 milliseconds
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"div iframe"}
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.11.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'mac-10-144-208-165.browserstack.com', ip: '10.144.208.165', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51915}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.LbIV9i}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ddcabeadd61e121fa23f1d4d8c2ed696
+*** Element info: {Using=css selector, value=div iframe}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: driver.version: EventFiringWebDriver
+
+verifyEmbededSupportSection@Chrome(version="90", platform="WINDOWS")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 11.779 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":".sc-6hk0h1-0"}
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: '10-144-225-207', ip: '10.144.225.207', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7228}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\Windows\proxy\scoped_dir11136_1571609013}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: b7b3ca8c63e9bfbbb33c2489fdbdff1b
+*** Element info: {Using=css selector, value=.sc-6hk0h1-0}
+Command duration or timeout: 0 milliseconds
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":".sc-6hk0h1-0"}
+  (Session info: chrome=90.0.4430.72)
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: '10-144-225-207', ip: '10.144.225.207', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7228}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\Windows\proxy\scoped_dir11136_1571609013}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: b7b3ca8c63e9bfbbb33c2489fdbdff1b
+*** Element info: {Using=css selector, value=.sc-6hk0h1-0}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: driver.version: EventFiringWebDriver
+
+verifyEmbededSupportSection@Edge(version="90", platform="WINDOWS")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 10.449 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":".sc-6hk0h1-0"}
+  (Session info: MicrosoftEdge=90.0.818.39)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:1966}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 1d13902da71d1037541b3e3caa5...}
+Session ID: 1d13902da71d1037541b3e3caa51850a377e4091
+*** Element info: {Using=css selector, value=.sc-6hk0h1-0}
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+
+verifyEmbededSupportSection@Firefox(version="88", platform="MAC")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 12.037 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: .sc-6hk0h1-0
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 33313, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 7c485933a81e70763b3b259b57f...}
+Session ID: 7c485933a81e70763b3b259b57febba81a7fa576
+*** Element info: {Using=css selector, value=.sc-6hk0h1-0}
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+
+verifyEmbededSupportSection@Firefox(version="88", platform="WINDOWS")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 9.516 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: .sc-6hk0h1-0
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7220, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 495d3adc5a2b44222c1af73596c...}
+Session ID: 495d3adc5a2b44222c1af73596c3c1991441a6ed
+*** Element info: {Using=css selector, value=.sc-6hk0h1-0}
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+
+verifyEmbededSupportSection@Safari(version="14", platform="MAC")(DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest)  Time elapsed: 4.513 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G95, safari:platformVersion: 11.5.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 0e60e7e0e8157abbdf39d153e10..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 0e60e7e0e8157abbdf39d153e10fc2bf929be97a
+*** Element info: {Using=css selector, value=div iframe}
+	at DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest.verifyEmbededSupportSection(CardanoDevelopersHomePageTest.java:101)
+

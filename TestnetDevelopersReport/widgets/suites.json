@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "f93f473cce7a7dca1d0be2c99e1a6eeb",
+    "name" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 7,
+      "skipped" : 0,
+      "passed" : 35,
+      "unknown" : 0,
+      "total" : 42
+    }
+  }, {
+    "uid" : "8b58ad81a2354e47b4e6874130200e7c",
+    "name" : "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "e6e32cbe370ecb9132d1ac0c2aed3f04",
+    "name" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "75e600c1a22631f1f1cad0d0f2da456d",
+    "name" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "fd342fb9e9ab59f1ee5319b03aa7e378",
+    "name" : "MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "f3f2d0987b26dc7",
+  "name" : "verifyVirtualMachinesLeftMenuItems@Chrome(version=\"90\", platform=\"MAC\")",
+  "historyId" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 209752
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a752ee81118cface",
+      "name" : "System out",
+      "source" : "a752ee81118cface.txt",
+      "type" : "text/plain",
+      "size" : 323
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3f2d0987b26dc7.json",
+  "parameterValues" : [ ]
+}

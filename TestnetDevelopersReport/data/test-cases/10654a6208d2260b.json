@@ -1,0 +1,53 @@
+{
+  "uid" : "10654a6208d2260b",
+  "name" : "verifyTestNetsCardanoSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 149652
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "516251ac1b32b14e",
+      "name" : "System out",
+      "source" : "516251ac1b32b14e.txt",
+      "type" : "text/plain",
+      "size" : 314
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10654a6208d2260b.json",
+  "parameterValues" : [ ]
+}

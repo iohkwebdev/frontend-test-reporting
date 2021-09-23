@@ -1,0 +1,53 @@
+{
+  "uid" : "f685117625af4429",
+  "name" : "verifyProgrammingLanguagesLeftMenuItems@Safari(platform=\"MAC\")",
+  "historyId" : "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyProgrammingLanguagesLeftMenuItems@Safari(platform=\"MAC\")",
+  "time" : {
+    "duration" : 6023
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "54e09d97c90050aa",
+      "name" : "System out",
+      "source" : "54e09d97c90050aa.txt",
+      "type" : "text/plain",
+      "size" : 1765
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f685117625af4429.json",
+  "parameterValues" : [ ]
+}

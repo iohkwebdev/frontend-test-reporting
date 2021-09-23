@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1,188.562 sec <<< FAILURE!
+verifyCopyFunctionality@Safari(platform="MAC")(DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest)  Time elapsed: 6.042 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G71, safari:platformVersion: 11.5, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: C4D0BEB6-69FF-43FD-886C-1E5AB580EE79
+*** Element info: {Using=xpath, value=//ul[@class='Article__Nav-sllvub-4 kzNYjC position-top']//a[.='Glow']}
+	at DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest.verifyCopyFunctionality(CardanoDeveloersProgrammingLanguagesPageTest.java:59)
+

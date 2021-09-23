@@ -1,0 +1,53 @@
+{
+  "uid" : "193b91fddb6737a8",
+  "name" : "verifyMainMenuItems",
+  "historyId" : "MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest:MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest#verifyMainMenuItems",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c984b0256d20df5d",
+      "name" : "System out",
+      "source" : "c984b0256d20df5d.txt",
+      "type" : "text/plain",
+      "size" : 313
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "193b91fddb6737a8.json",
+  "parameterValues" : [ ]
+}

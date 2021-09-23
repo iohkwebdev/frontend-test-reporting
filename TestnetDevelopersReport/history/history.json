@@ -1,0 +1,1047 @@
+{
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySocialsSectionAboveFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68471e09df76aab8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 83126
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFooterSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "980cbf597bcd7ac3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 99487
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89ae2d873c67606",
+      "status" : "passed",
+      "time" : {
+        "duration" : 139952
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "275b4041439b7b3a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 146755
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyMainMenuItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67ec5197ae59b15d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 16317
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySocialsSectionAboveFooterSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de70c7250adb2dde",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36249
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySearchBar@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "debddb435549d97f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 12500
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySocialsSectionAboveFooterSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b69918734661dda",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36698
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFindOutMoreButton@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf307238fb95e14d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8306
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyCopyFunctionality@Safari(platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9bee8d0f8be01f89",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.safari.SafariDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G71, safari:platformVersion: 11.5, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: C4D0BEB6-69FF-43FD-886C-1E5AB580EE79 *** Element info: {Using=xpath, value=//ul[@class='Article__Nav-sllvub-4 kzNYjC position-top']//a[.='Glow']}",
+      "time" : {
+        "duration" : 6042
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyMainMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "115880f2716daf8f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18490
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyEmbededSupportSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bfac216e400dc399",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: .sc-6hk0h1-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 33313, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 7c485933a81e70763b3b259b57f...} Session ID: 7c485933a81e70763b3b259b57febba81a7fa576 *** Element info: {Using=css selector, value=.sc-6hk0h1-0}",
+      "time" : {
+        "duration" : 12037
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySocialsSectionAboveFooterSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "985b4fda7ca07d05",
+      "status" : "passed",
+      "time" : {
+        "duration" : 34407
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyEmbededSupportSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "803cf34bb68847c4",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".sc-6hk0h1-0\"}   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:1966}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 1d13902da71d1037541b3e3caa5...} Session ID: 1d13902da71d1037541b3e3caa51850a377e4091 *** Element info: {Using=css selector, value=.sc-6hk0h1-0}",
+      "time" : {
+        "duration" : 10449
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyCopyFunctionality@Firefox(platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff3e3c54f1ac20c3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 494084
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySearchBar@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93b8e0e95953ba81",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15659
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFindOutMoreButton@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e561ac6ad211f5ea",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10760
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySearchBar@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7cd7eef3ffcda8ff",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15458
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b69b6e26a6501b2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 166859
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyCopyFunctionality@Chrome(platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee161e2684e450d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 483307
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyProgrammingLanguagesLeftMenuItems@Chrome(platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb50a4117f311b3b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 92974
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFindOutMoreButton@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce73f8d80c50be6d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13346
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyEmbededSupportSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be2d34fb777b5117",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".sc-6hk0h1-0\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 41 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-225-207', ip: '10.144.225.207', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7228}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir11136_1571609013}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: b7b3ca8c63e9bfbbb33c2489fdbdff1b *** Element info: {Using=css selector, value=.sc-6hk0h1-0} Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 11779
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySupportRequestButton@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84438eb068e368c6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9658
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFindOutMoreButton@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb2f4c84c4ecb8bc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8795
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySocialsSectionAboveFooterSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c6efef363b2310d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 84795
+      }
+    } ]
+  },
+  "MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest:MobileCardanoDevelopersPageTests.MobileCardanoDevelopersHomePageTest#verifyMainMenuItems" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "193b91fddb6737a8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4077dca99df2fea",
+      "status" : "passed",
+      "time" : {
+        "duration" : 225990
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySupportRequestButton@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d1a20a8004f41ed",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11099
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySocialsSectionAboveFooterSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e86d4cf402efbb58",
+      "status" : "passed",
+      "time" : {
+        "duration" : 42097
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyEmbededSupportSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e4f302b82c3abd6",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div iframe\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.11.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 33 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-208-165.browserstack.com', ip: '10.144.208.165', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51915}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.LbIV9i}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: ddcabeadd61e121fa23f1d4d8c2ed696 *** Element info: {Using=css selector, value=div iframe} Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 4633
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyMainMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a2d7778eb245cd2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18920
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySearchBar@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d685323af22e2d2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13614
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3f2d0987b26dc7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 209752
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d5bcdbec55ced34",
+      "status" : "passed",
+      "time" : {
+        "duration" : 199987
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a90a8776aa3503",
+      "status" : "passed",
+      "time" : {
+        "duration" : 210153
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFooterSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8f8c06a0454db17",
+      "status" : "passed",
+      "time" : {
+        "duration" : 212240
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFindOutMoreButton@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33c419a63fad5c06",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9308
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFindOutMoreButton@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef5aba55ed20828c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10895
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6887fa51100dcf1b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 181921
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyProgrammingLanguagesLeftMenuItems@Safari(platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f685117625af4429",
+      "status" : "passed",
+      "time" : {
+        "duration" : 6023
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySearchBar@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21836fdba5c1d66e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13836
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyMainMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37d616533d55ac9f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 29878
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac7c2e153c2d7c9c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 218059
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySupportRequestButton@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c084f0d5565a188d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11878
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySupportRequestButton@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10b894326b980441",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10608
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersVirtualMachinesPageTest#verifyVirtualMachinesLeftMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28facc28e79e2f29",
+      "status" : "passed",
+      "time" : {
+        "duration" : 208534
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyMainMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2efa73085a8d3e3a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 19519
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyEmbededSupportSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d68cb4f5ff3e6145",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G95, safari:platformVersion: 11.5.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 0e60e7e0e8157abbdf39d153e10..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 0e60e7e0e8157abbdf39d153e10fc2bf929be97a *** Element info: {Using=css selector, value=div iframe}",
+      "time" : {
+        "duration" : 4513
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFooterSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2eb962de1d6cc716",
+      "status" : "broken",
+      "statusDetails" : "Index 5 out of bounds for length 0",
+      "time" : {
+        "duration" : 172491
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySearchBar@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b931cdfb9b07aa3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14886
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97a9f6d24aab7d17",
+      "status" : "passed",
+      "time" : {
+        "duration" : 155600
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFooterSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7706fb67087447b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 96298
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyMainMenuItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb5c456661d8922e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 17256
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySupportRequestButton@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e096b24f1fa5148",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9778
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest:DesktopCardanoDevelopersPageTests.CardanoDeveloersProgrammingLanguagesPageTest#verifyProgrammingLanguagesLeftMenuItems@Firefox(platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4dc061d87fc6ec50",
+      "status" : "passed",
+      "time" : {
+        "duration" : 99103
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFooterSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56bf5971302edef1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 91734
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifySupportRequestButton@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f21ba8897fdd3f3c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 12687
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyFooterSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de56a207663af92c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 76346
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersHomePageTest#verifyEmbededSupportSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54a7402ac2f7e571",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: .sc-6hk0h1-0 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:14b0:a8a9:a785:c3ab%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7220, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 495d3adc5a2b44222c1af73596c...} Session ID: 495d3adc5a2b44222c1af73596c3c1991441a6ed *** Element info: {Using=css selector, value=.sc-6hk0h1-0}",
+      "time" : {
+        "duration" : 9516
+      }
+    } ]
+  },
+  "DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest:DesktopCardanoDevelopersPageTests.CardanoDevelopersTestNetsPageTest#verifyTestNetsCardanoSubmenuTest@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10654a6208d2260b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 149652
+      }
+    } ]
+  }
+}
