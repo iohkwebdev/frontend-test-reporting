@@ -1,0 +1,104 @@
+{
+  "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyAlgoliaSearch@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4152de890f74e28",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9432
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyAlgoliaSearch@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62aa5aed39a15b11",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10399
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyAlgoliaSearch@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf981669dd9eeff6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 6826
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyAlgoliaSearch@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1bd52eed4bffb3e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 12196
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyAlgoliaSearch@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a16e8265a4002fe",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8367
+      }
+    } ]
+  },
+  "DesktopTest.CardanoDocsHomeTest:DesktopTest.CardanoDocsHomeTest#verifyAlgoliaSearch@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b08cdffe5338bdab",
+      "status" : "passed",
+      "time" : {
+        "duration" : 7321
+      }
+    } ]
+  }
+}

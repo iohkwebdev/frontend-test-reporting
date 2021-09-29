@@ -1,0 +1,75 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "DesktopTest.CardanoDocsHomeTest",
+    "children" : [ {
+      "name" : "verifyAlgoliaSearch@Safari(version=\"14\", platform=\"MAC\")",
+      "uid" : "bf981669dd9eeff6",
+      "parentUid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 6826
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyAlgoliaSearch@Firefox(version=\"88\", platform=\"WINDOWS\")",
+      "uid" : "62aa5aed39a15b11",
+      "parentUid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10399
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyAlgoliaSearch@Chrome(version=\"90\", platform=\"MAC\")",
+      "uid" : "8a16e8265a4002fe",
+      "parentUid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyAlgoliaSearch@Firefox(version=\"88\", platform=\"MAC\")",
+      "uid" : "c4152de890f74e28",
+      "parentUid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9432
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyAlgoliaSearch@Edge(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "e1bd52eed4bffb3e",
+      "parentUid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 12196
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyAlgoliaSearch@Chrome(version=\"90\", platform=\"WINDOWS\")",
+      "uid" : "b08cdffe5338bdab",
+      "parentUid" : "6de818e400a8bdb92c74a50a9e75f0b9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 7321
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6de818e400a8bdb92c74a50a9e75f0b9"
+  } ]
+}

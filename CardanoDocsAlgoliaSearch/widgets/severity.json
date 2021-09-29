@@ -1,0 +1,49 @@
+[ {
+  "uid" : "e1bd52eed4bffb3e",
+  "name" : "verifyAlgoliaSearch@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 12196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b08cdffe5338bdab",
+  "name" : "verifyAlgoliaSearch@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 7321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf981669dd9eeff6",
+  "name" : "verifyAlgoliaSearch@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 6826
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a16e8265a4002fe",
+  "name" : "verifyAlgoliaSearch@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 8367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62aa5aed39a15b11",
+  "name" : "verifyAlgoliaSearch@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 10399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4152de890f74e28",
+  "name" : "verifyAlgoliaSearch@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 9432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

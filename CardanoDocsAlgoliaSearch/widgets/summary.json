@@ -1,0 +1,20 @@
+{
+  "reportName": "Algolia Search CardanoDocs Report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 0,
+    "broken": 0,
+    "skipped": 0,
+    "passed": 6,
+    "unknown": 0,
+    "total": 6
+  },
+  "time": {
+    "minDuration": 6826,
+    "maxDuration": 12196,
+    "sumDuration": 54541,
+    "start": 1632926606000,
+     "stop": 1632927026000,
+    "duration":420000
+  }
+}

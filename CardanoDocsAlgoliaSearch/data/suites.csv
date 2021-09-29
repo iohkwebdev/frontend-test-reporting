@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","6826","","DesktopTest.CardanoDocsHomeTest","","DesktopTest.CardanoDocsHomeTest","","verifyAlgoliaSearch@Safari(version=""14"", platform=""MAC"")",""
+"passed","","","10399","","DesktopTest.CardanoDocsHomeTest","","DesktopTest.CardanoDocsHomeTest","","verifyAlgoliaSearch@Firefox(version=""88"", platform=""WINDOWS"")",""
+"passed","","","8367","","DesktopTest.CardanoDocsHomeTest","","DesktopTest.CardanoDocsHomeTest","","verifyAlgoliaSearch@Chrome(version=""90"", platform=""MAC"")",""
+"passed","","","9432","","DesktopTest.CardanoDocsHomeTest","","DesktopTest.CardanoDocsHomeTest","","verifyAlgoliaSearch@Firefox(version=""88"", platform=""MAC"")",""
+"passed","","","12196","","DesktopTest.CardanoDocsHomeTest","","DesktopTest.CardanoDocsHomeTest","","verifyAlgoliaSearch@Edge(version=""90"", platform=""WINDOWS"")",""
+"passed","","","7321","","DesktopTest.CardanoDocsHomeTest","","DesktopTest.CardanoDocsHomeTest","","verifyAlgoliaSearch@Chrome(version=""90"", platform=""WINDOWS"")",""
