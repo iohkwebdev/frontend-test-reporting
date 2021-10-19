@@ -1,0 +1,53 @@
+{
+  "uid" : "90ca541b6c994590",
+  "name" : "verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 33017
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "86063b92050c8e93",
+      "name" : "System out",
+      "source" : "86063b92050c8e93.txt",
+      "type" : "text/plain",
+      "size" : 15700
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.CardanoSummitHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.CardanoSummitHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.CardanoSummitHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90ca541b6c994590.json",
+  "parameterValues" : [ ]
+}

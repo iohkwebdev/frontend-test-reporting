@@ -1,0 +1,20 @@
+{
+  "reportName": "Post summit site Report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 6,
+    "broken": 12,
+    "skipped": 0,
+    "passed": 60,
+    "unknown": 0,
+    "total": 78
+  },
+  "time": {
+    "minDuration": 7797,
+    "maxDuration": 850396,
+    "sumDuration": 10831760,
+    "start": 1634587211000,
+    "stop": 1634608811000,
+    "duration": 21600000
+  }
+}

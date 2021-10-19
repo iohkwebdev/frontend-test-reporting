@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: DesktopSummitTests.CardanoSessionsSummitTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 12,097.897 sec <<< FAILURE!
+verifySessionPageVideoPlayback@Chrome(version="90", platform="MAC")(DesktopSummitTests.CardanoSessionsSummitTest)  Time elapsed: 1,435.048 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at DesktopSummitTests.CardanoSessionsSummitTest.verifySessionPageVideoPlayback(CardanoSessionsSummitTest.java:65)
+
+verifySessionPageVideoPlayback@Chrome(version="90", platform="WINDOWS")(DesktopSummitTests.CardanoSessionsSummitTest)  Time elapsed: 1,512.871 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at DesktopSummitTests.CardanoSessionsSummitTest.verifySessionPageVideoPlayback(CardanoSessionsSummitTest.java:65)
+
+verifySessionPageVideoPlayback@Edge(version="90", platform="WINDOWS")(DesktopSummitTests.CardanoSessionsSummitTest)  Time elapsed: 1,447.953 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at DesktopSummitTests.CardanoSessionsSummitTest.verifySessionPageVideoPlayback(CardanoSessionsSummitTest.java:65)
+
+verifySessionPageVideoPlayback@Firefox(version="88", platform="MAC")(DesktopSummitTests.CardanoSessionsSummitTest)  Time elapsed: 1,423.133 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at DesktopSummitTests.CardanoSessionsSummitTest.verifySessionPageVideoPlayback(CardanoSessionsSummitTest.java:65)
+
+verifySessionPageVideoPlayback@Firefox(version="88", platform="WINDOWS")(DesktopSummitTests.CardanoSessionsSummitTest)  Time elapsed: 1,683.709 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at DesktopSummitTests.CardanoSessionsSummitTest.verifySessionPageVideoPlayback(CardanoSessionsSummitTest.java:65)
+
+verifySessionPageVideoPlayback@Safari(version="14", platform="MAC")(DesktopSummitTests.CardanoSessionsSummitTest)  Time elapsed: 1,801.644 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at DesktopSummitTests.CardanoSessionsSummitTest.verifySessionPageVideoPlayback(CardanoSessionsSummitTest.java:65)
+

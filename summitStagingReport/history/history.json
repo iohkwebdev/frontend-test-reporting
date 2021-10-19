@@ -1,0 +1,1326 @@
+{
+  "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91ce9423723ba08f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 104640
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f336dd23a24bd77",
+      "status" : "passed",
+      "time" : {
+        "duration" : 31592
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageVideoPlayback@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78b6b183aabddac7",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "369e17582bf6739c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#react\\-select\\-3\\-placeholder\"}   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:6953}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: a72888b263242f6548cfe26e48b...} Session ID: a72888b263242f6548cfe26e48b2e910e9d35b52 *** Element info: {Using=id, value=react-select-3-placeholder}",
+      "time" : {
+        "duration" : 149101
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyNewsLetterSignupSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1246deefd624a3c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11485
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyNewsLetterSignupSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f6ff8961a98da79",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8850
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "206ecca458899f87",
+      "status" : "passed",
+      "time" : {
+        "duration" : 157166
+      }
+    } ]
+  },
+  "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "677719997a90fb02",
+      "status" : "passed",
+      "time" : {
+        "duration" : 105396
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifySpeakerSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "873e95a6efe340f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18849
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageToggles@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bde8a682889b2d4e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 541547
+      }
+    } ]
+  },
+  "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7195a60043c41b7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 86861
+      }
+    } ]
+  },
+  "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e522af2ff55e8b97",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"react-select-3-placeholder\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 10.0.19043 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 36 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-165-12', ip: '10.144.165.12', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:7493}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir2168_1089771216}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: a4a22f30dc9e19dd3b901006d7a79109 *** Element info: {Using=id, value=react-select-3-placeholder} Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 61816
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c60de786784d2f6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 630068
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageFooterItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1219522f153bbaa",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:3472}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: ea27ebbc5858c2e24463b3a7879...} Session ID: ea27ebbc5858c2e24463b3a7879d21eb393581c7",
+      "time" : {
+        "duration" : 156125
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifySpeakerSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc3d08f002dac6cc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 43398
+      }
+    } ]
+  },
+  "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a73ee9e85659f27c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 170538
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b169faef43c2600b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 682085
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersPageDropdownSorting@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fcaa3a7d5fbeab96",
+      "status" : "passed",
+      "time" : {
+        "duration" : 239892
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyExploreWorldsSection@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ff5dee03bcd3643",
+      "status" : "passed",
+      "time" : {
+        "duration" : 66186
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageToggles@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98ca2c3819693a0d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 417256
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0cf390a1594029f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27710
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifySpeakerSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aab274d6ce7f54e8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 36015
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageVideoPlayback@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "517eebf9a9b882d9",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37539f49cecba3ba",
+      "status" : "passed",
+      "time" : {
+        "duration" : 46356
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyNewsLetterSignupSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "daa7f6f5288be367",
+      "status" : "passed",
+      "time" : {
+        "duration" : 7797
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "738f28e3fcfafc7f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 30936
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersPageDropdownSorting@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8aa74536f24f2e4e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 227998
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageFooterItems@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd9b50f4c11ce3",
+      "status" : "broken",
+      "statusDetails" : "The element reference of <a href=\"https://summit.cardano.org/partners\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 1476, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 620f73dd2b6c8052eb7b05b411f...} Session ID: 620f73dd2b6c8052eb7b05b411fd8e471ddb69eb",
+      "time" : {
+        "duration" : 153232
+      }
+    } ]
+  },
+  "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3315f9d5463633e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 132646
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyNewsLetterSignupSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c243861df9fd3ba6",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14804
+      }
+    } ]
+  },
+  "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "378a88a1d2bc714b",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: #react\\-select\\-3\\-placeholder For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9348, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 9589ce4fdc7b56b5f32940f5def...} Session ID: 9589ce4fdc7b56b5f32940f5def52c32a77b5e36 *** Element info: {Using=id, value=react-select-3-placeholder}",
+      "time" : {
+        "duration" : 72875
+      }
+    } ]
+  },
+  "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1ec86128608d1dd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 134570
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyAllArticlesMenu@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2745e5febd5858bd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10200
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyNewsLetterSignupSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2d82ba157dff842",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10178
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyAllArticlesMenu@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32c4b4b2a16eb5d4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 53778
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersPageDropdownSorting@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5f03eb106f82cce",
+      "status" : "passed",
+      "time" : {
+        "duration" : 251679
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersPageDropdownSorting@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7db53e968063d1c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 316749
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a74bbd14d8e8773c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 583779
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyAllArticlesMenu@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae5d11ad62ee8ba2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 16633
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyExploreWorldsSection@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11c206b51f7f7b9a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 68392
+      }
+    } ]
+  },
+  "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a2a9ab4a23965b4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 113773
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90ca541b6c994590",
+      "status" : "passed",
+      "time" : {
+        "duration" : 33017
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageFooterItems@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "41a9eb3e9404eb66",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 21 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-208-15.browserstack.com', ip: '10.144.208.15', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62138}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.THEUe1}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: adc8d9acd8a37001719e02f6af63d05a Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 38990
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersPageDropdownSorting@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3bb0c7da7f50cf",
+      "status" : "passed",
+      "time" : {
+        "duration" : 297563
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyExploreWorldsSection@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1fa93c072fc1793",
+      "status" : "passed",
+      "time" : {
+        "duration" : 180485
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifySpeakerSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aeff3ae481c7119f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 56121
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyExploreWorldsSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ecff98759ba785b5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 48851
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyNewsLetterSignupSection@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6d5d6f62bb7fed4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13991
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageToggles@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd44bb5fed28a113",
+      "status" : "passed",
+      "time" : {
+        "duration" : 463749
+      }
+    } ]
+  },
+  "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "420b23a726e19ffb",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G95, safari:platformVersion: 11.5.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 5bc3decdc61d743eccb411e8d3b..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 5bc3decdc61d743eccb411e8d3b80e8df872b7f0 *** Element info: {Using=id, value=react-select-3-placeholder}",
+      "time" : {
+        "duration" : 53595
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyAllArticlesMenu@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37f7488fa92f5f6f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 21874
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageFooterItems@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1795dbaa20fcb75",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 16 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-224-99', ip: '10.144.224.99', os.name: 'windows', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:12190}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir5648_364533520}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 5bfcfb0d318870b8cfce531b81087685 Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 46724
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bbb71fa03c3154a3",
+      "status" : "passed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff10953db3d5f85b",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: #react\\-select\\-3\\-placeholder For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 2805, moz:profile: /var/folders/3y/zz_w6_s56sl..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: b1c29f47c249e3ce16e0a6a8895...} Session ID: b1c29f47c249e3ce16e0a6a8895044e01422d458 *** Element info: {Using=id, value=react-select-3-placeholder}",
+      "time" : {
+        "duration" : 56383
+      }
+    } ]
+  },
+  "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a581a2d6fc7b7904",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"react-select-3-placeholder\"}   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.11.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 15 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-185-44-128-134.browserstack.com', ip: '185.44.128.134', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:52911}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.skZmrO}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 623d524bca36a87b50a4acf70dce929a *** Element info: {Using=id, value=react-select-3-placeholder} Command duration or timeout: 0 milliseconds",
+      "time" : {
+        "duration" : 54947
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersPageDropdownSorting@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3eb6d4d7471fefa",
+      "status" : "passed",
+      "time" : {
+        "duration" : 275303
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifySpeakerSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "542309bdf51574a1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 21042
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageToggles@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ac77bdd5116a34d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 411744
+      }
+    } ]
+  },
+  "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a6583cce05bee78",
+      "status" : "passed",
+      "time" : {
+        "duration" : 123559
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageVideoPlayback@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b093ae538c5b39cd",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageVideoPlayback@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2991c523118e6635",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageFooterItems@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b39a0d8f624104ae",
+      "status" : "broken",
+      "statusDetails" : "The element reference of <a href=\"https://summit.cardano.org/partners\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 47580, moz:profile: /var/folders/yj/h3bj394n2tn..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.7.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 2e4a1ddc3558ded9356794e974c...} Session ID: 2e4a1ddc3558ded9356794e974c1b2b876de342e",
+      "time" : {
+        "duration" : 68575
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyExploreWorldsSection@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fb2f98e896965b3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 37808
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageToggles@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f2c5b8add8f362",
+      "status" : "passed",
+      "time" : {
+        "duration" : 426233
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyAllArticlesMenu@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b31c0a453fd83f85",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9108
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyAllArticlesMenu@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9fd4f97e3f693c47",
+      "status" : "passed",
+      "time" : {
+        "duration" : 16245
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageVideoPlayback@Firefox(version=\"88\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c957bc1b8fda4fc",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1bf12d2c30f70ca",
+      "status" : "passed",
+      "time" : {
+        "duration" : 304405
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b65f687e5579d184",
+      "status" : "passed",
+      "time" : {
+        "duration" : 850396
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageFooterItems@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "295a0d5fb9f20b36",
+      "status" : "broken",
+      "statusDetails" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:1441:fd97:16d5:8d8e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G95, safari:platformVersion: 11.5.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 7ad832fe85562b8209e57eff448..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 7ad832fe85562b8209e57eff44883a95472c849c",
+      "time" : {
+        "duration" : 39584
+      }
+    } ]
+  },
+  "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Safari(version=\"14\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e92f9d6c6d4d446",
+      "status" : "passed",
+      "time" : {
+        "duration" : 90968
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyHomePageMenuItems@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "572bd87971dc5a8c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 47611
+      }
+    } ]
+  },
+  "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Firefox(version=\"88\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2e7c20e3801143",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22536
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageVideoPlayback@Chrome(version=\"90\", platform=\"MAC\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d57b2996b5ee7562",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifySpeakerSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f79ca2ef03a26f21",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20871
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSessionsSummitTest:DesktopSummitTests.CardanoSessionsSummitTest#verifySessionPageToggles@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52b937272b8a7a12",
+      "status" : "passed",
+      "time" : {
+        "duration" : 460336
+      }
+    } ]
+  },
+  "DesktopSummitTests.CardanoSummitHomePageTest:DesktopSummitTests.CardanoSummitHomePageTest#verifyExploreWorldsSection@Chrome(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd3c29addda23d34",
+      "status" : "passed",
+      "time" : {
+        "duration" : 50467
+      }
+    } ]
+  },
+  "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Edge(version=\"90\", platform=\"WINDOWS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbafd6ff06b5204e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 195728
+      }
+    } ]
+  }
+}

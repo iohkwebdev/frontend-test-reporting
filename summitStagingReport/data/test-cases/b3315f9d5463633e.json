@@ -1,0 +1,53 @@
+{
+  "uid" : "b3315f9d5463633e",
+  "name" : "verifyPartnersSections@Chrome(version=\"90\", platform=\"MAC\")",
+  "historyId" : "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 132646
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c180ae1ead84aeee",
+      "name" : "System out",
+      "source" : "c180ae1ead84aeee.txt",
+      "type" : "text/plain",
+      "size" : 283
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3315f9d5463633e.json",
+  "parameterValues" : [ ]
+}
