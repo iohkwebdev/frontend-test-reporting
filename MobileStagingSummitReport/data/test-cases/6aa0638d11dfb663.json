@@ -1,0 +1,149 @@
+{
+  "uid" : "6aa0638d11dfb663",
+  "name" : "verifyContactPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileSummitTests.ContactMobileTest:MobileSummitTests.ContactMobileTest#verifyContactPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 65119
+  },
+  "status" : "broken",
+  "statusMessage" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#react\\-select\\-3\\-option\\-3\"}   (Session info: chrome=94.0.4606.61) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:43f:a363:9ff7:f0c3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18086, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18086, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://62.20..., --disable-features=TranslateUI]}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8206, udid: RFCN20AAK3L}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20AAK3L, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20AAK3L, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://62.20..., --disable-features=TranslateUI]}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8206, takesScreenshot: true, udid: RFCN20AAK3L, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 40e1e3778c48e97882e3429fdc90703d9878fb74 *** Element info: {Using=id, value=react-select-3-option-3}",
+  "statusTrace" : "org.openqa.selenium.NoSuchElementException: \nno such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#react\\-select\\-3\\-option\\-3\"}\n  (Session info: chrome=94.0.4606.61)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:43f:a363:9ff7:f0c3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18086, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18086, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://62.20..., --disable-features=TranslateUI]}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8206, udid: RFCN20AAK3L}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20AAK3L, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20AAK3L, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://62.20..., --disable-features=TranslateUI]}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8206, takesScreenshot: true, udid: RFCN20AAK3L, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 40e1e3778c48e97882e3429fdc90703d9878fb74\n*** Element info: {Using=id, value=react-select-3-option-3}\n\tat MobileSummitTests.ContactMobileTest.verifyContactPageTest(ContactMobileTest.java:52)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ {
+      "name" : "15:08:18.057 [main] INFO com.github.webdriverextensions.junitrunner.WebDriverRunner - Running test ContactMobileTest.verifyContactPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.057 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.057 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@2018374766",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.057 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.061 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.063 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.063 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1231600974",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.063 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:08:18.066 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1954f3933bcaa3fc",
+      "name" : "System out",
+      "source" : "1954f3933bcaa3fc.txt",
+      "type" : "text/plain",
+      "size" : 3925
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.ContactMobileTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.ContactMobileTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.ContactMobileTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6aa0638d11dfb663.json",
+  "parameterValues" : [ ]
+}

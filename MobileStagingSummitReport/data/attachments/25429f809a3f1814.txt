@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MobileSummitTests.CardanoMobileSummitHomePageTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1,192.526 sec <<< FAILURE!
+verifyHeaderVideoTest@IPhone(version="11", platform="IOS")(MobileSummitTests.CardanoMobileSummitHomePageTest)  Time elapsed: 17.954 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at MobileSummitTests.CardanoMobileSummitHomePageTest.verifyHeaderVideoTest(CardanoMobileSummitHomePageTest.java:64)
+

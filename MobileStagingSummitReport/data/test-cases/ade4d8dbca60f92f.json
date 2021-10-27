@@ -1,0 +1,51 @@
+{
+  "uid" : "ade4d8dbca60f92f",
+  "name" : "verfiySpeakersSections@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verfiySpeakersSections@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : { },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6696bc78a095b4e2",
+      "name" : "System out",
+      "source" : "6696bc78a095b4e2.txt",
+      "type" : "text/plain",
+      "size" : 302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ade4d8dbca60f92f.json",
+  "parameterValues" : [ ]
+}

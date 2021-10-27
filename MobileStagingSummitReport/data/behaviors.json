@@ -1,0 +1,285 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "verifyHeaderVideoTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "1489444c8877162d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "duration" : 17954
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyExploreWorldsTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "302788f6ba935c81",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 89515
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyMobileBurgerMenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "21be035f994eb2c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 79238
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyAllArticlesButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "30495280c986788d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 20294
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifySessionPageTogglesTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "8c41860a1e78a314",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 570856
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyMobileBurgerMenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "211f4c48e7d18d68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 59788
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyNewsSectionsTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "e4256500415f5cb1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 277665
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verfiySpeakersPageDropdownSortingTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "ac487db898cf8648",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 320896
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyMobileBurgerMenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "b4a5add8ca1d6475",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 65149
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifySessionPageTogglesTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "799439af25ed1d8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 543145
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifySessionPageVideoPlaybackTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "211b370e5b878ec1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "duration" : 28346
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyViewButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "ec102f2cf9cdc8de",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 35056
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyPartnerSectionTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "f0d7e2809f7b5f76",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 43283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verfiySpeakersPageDropdownSortingTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "500b7a279aeed928",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 402212
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyExploreWorldsTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "acf9edd39b028b63",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 74183
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyHeaderVideoTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "dfc659ace712bed4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 22726
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyPartnerSectionTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "a4df54a9abecf827",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 90462
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyContactPageTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "19a4ebadb3c126fd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "duration" : 60752
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verfiySpeakersSections@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "caa37ed06af6ae3a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : { },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyContactPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "6aa0638d11dfb663",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "duration" : 65119
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyAllArticlesButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "6c595394364f3579",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 13090
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyViewButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "3a92de9945aa4983",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 27105
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifySessionPageVideoPlaybackTest@Android(version=\"10\", platform=\"ANDROID\")",
+    "uid" : "afa94c256d636e19",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : { },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyMobileBurgerMenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "a214e2502ad40e8b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "duration" : 75371
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verfiySpeakersSections@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "ade4d8dbca60f92f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : { },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+    "uid" : "efeda546be2e9af0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "duration" : 87636
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "Version, platform , capabilities used for testing" ],
+  "name" : "Browsers"
+}, {
+  "values" : [ "Tested on Android and IOS" ],
+  "name" : "MobileSection"
+}, {
+  "values" : [ "\"11\", platform = Platform.IOS, desiredCapabilities = BrowserStackCapabilities.iosCardanoAfricaLandingPageMobileCapabilities)" ],
+  "name" : "@IPhone(version"
+}, {
+  "values" : [ "\"10\", platform = Platform.ANDROID, desiredCapabilities = BrowserStackCapabilities.androidCardanoAfricaLandingPageMobileCapabilities)" ],
+  "name" : "@Android(version"
+} ]

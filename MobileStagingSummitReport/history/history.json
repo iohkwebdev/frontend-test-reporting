@@ -1,0 +1,441 @@
+{
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyAllArticlesButtonTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c595394364f3579",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13090
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageVideoPlaybackTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afa94c256d636e19",
+      "status" : "failed",
+      "time" : { }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verfiySpeakersSections@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "caa37ed06af6ae3a",
+      "status" : "passed",
+      "time" : { }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyPartnerSectionTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4df54a9abecf827",
+      "status" : "passed",
+      "time" : {
+        "duration" : 90462
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyPartnerSectionTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0d7e2809f7b5f76",
+      "status" : "passed",
+      "time" : {
+        "duration" : 43283
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyHeaderVideoTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dfc659ace712bed4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 22726
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyMobileBurgerMenuTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a214e2502ad40e8b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 75371
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyExploreWorldsTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "302788f6ba935c81",
+      "status" : "passed",
+      "time" : {
+        "duration" : 89515
+      }
+    } ]
+  },
+  "MobileSummitTests.ContactMobileTest:MobileSummitTests.ContactMobileTest#verifyContactPageTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6aa0638d11dfb663",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#react\\-select\\-3\\-option\\-3\"}   (Session info: chrome=94.0.4606.61) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:43f:a363:9ff7:f0c3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18086, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18086, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://62.20..., --disable-features=TranslateUI]}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8206, udid: RFCN20AAK3L}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20AAK3L, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20AAK3L, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://62.20..., --disable-features=TranslateUI]}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8206, takesScreenshot: true, udid: RFCN20AAK3L, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 40e1e3778c48e97882e3429fdc90703d9878fb74 *** Element info: {Using=id, value=react-select-3-option-3}",
+      "time" : {
+        "duration" : 65119
+      }
+    } ]
+  },
+  "MobileSummitTests.ContactMobileTest:MobileSummitTests.ContactMobileTest#verifyContactPageTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19a4ebadb3c126fd",
+      "status" : "broken",
+      "statusDetails" : "An element could not be located on the page using the given search parameters. For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'Mateis-MacBook-Pro.local', ip: 'fe80:0:0:0:43f:a363:9ff7:f0c3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.2' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {bootstrapPath: /usr/local/.browserstack/co..., browserName: safari, browserstack.isTargetBased: true, databaseEnabled: false, deviceName: iPhone 11, deviceOrientation: PORTRAIT, javascriptEnabled: true, keychainPassword: [REDACTED VALUE], keychainPath: [REDACTED VALUE], locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 0, noReset: true, orientation: PORTRAIT, platform: MAC, platformName: MAC, realMobile: true, safariIgnoreFraudWarning: true, takesScreenshot: true, udid: 00008030-001E45A61E87802E, useXctestrunFile: true, webStorageEnabled: false} Session ID: 0dc6f1255dae21e163f6ade4094a0e7d08a40ebb *** Element info: {Using=id, value=react-select-3-option-3}",
+      "time" : {
+        "duration" : 60752
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyAllArticlesButtonTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30495280c986788d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 20294
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyHeaderVideoTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1489444c8877162d",
+      "status" : "failed",
+      "time" : {
+        "duration" : 17954
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verfiySpeakersPageDropdownSortingTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "500b7a279aeed928",
+      "status" : "passed",
+      "time" : {
+        "duration" : 402212
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyViewButtonsTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a92de9945aa4983",
+      "status" : "passed",
+      "time" : {
+        "duration" : 27105
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageTogglesTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c41860a1e78a314",
+      "status" : "passed",
+      "time" : {
+        "duration" : 570856
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verfiySpeakersSections@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ade4d8dbca60f92f",
+      "status" : "passed",
+      "time" : { }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyMobileBurgerMenuTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "211f4c48e7d18d68",
+      "status" : "passed",
+      "time" : {
+        "duration" : 59788
+      }
+    } ]
+  },
+  "MobileSummitTests.NewsPageTest:MobileSummitTests.NewsPageTest#verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efeda546be2e9af0",
+      "status" : "broken",
+      "statusDetails" : "Index 0 out of bounds for length 0",
+      "time" : {
+        "duration" : 87636
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verifyMobileBurgerMenuTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21be035f994eb2c8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 79238
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verifyMobileBurgerMenuTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4a5add8ca1d6475",
+      "status" : "passed",
+      "time" : {
+        "duration" : 65149
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyExploreWorldsTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acf9edd39b028b63",
+      "status" : "passed",
+      "time" : {
+        "duration" : 74183
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageVideoPlaybackTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "211b370e5b878ec1",
+      "status" : "failed",
+      "time" : {
+        "duration" : 28346
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyViewButtonsTest@IPhone(version=\"11\", platform=\"IOS\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec102f2cf9cdc8de",
+      "status" : "passed",
+      "time" : {
+        "duration" : 35056
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageTogglesTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "799439af25ed1d8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 543145
+      }
+    } ]
+  },
+  "MobileSummitTests.NewsPageTest:MobileSummitTests.NewsPageTest#verifyNewsSectionsTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4256500415f5cb1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 277665
+      }
+    } ]
+  },
+  "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verfiySpeakersPageDropdownSortingTest@Android(version=\"10\", platform=\"ANDROID\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac487db898cf8648",
+      "status" : "passed",
+      "time" : {
+        "duration" : 320896
+      }
+    } ]
+  }
+}

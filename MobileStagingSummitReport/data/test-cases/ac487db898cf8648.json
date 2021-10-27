@@ -1,0 +1,53 @@
+{
+  "uid" : "ac487db898cf8648",
+  "name" : "verfiySpeakersPageDropdownSortingTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest:MobileSummitTests.CardanoMobileSummitSpeakersPageTest#verfiySpeakersPageDropdownSortingTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 320896
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6696bc78a095b4e2",
+      "name" : "System out",
+      "source" : "6696bc78a095b4e2.txt",
+      "type" : "text/plain",
+      "size" : 302
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac487db898cf8648.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "799439af25ed1d8",
+  "name" : "verifySessionPageTogglesTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageTogglesTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 543145
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aa6747953107af57",
+      "name" : "System out",
+      "source" : "aa6747953107af57.txt",
+      "type" : "text/plain",
+      "size" : 980
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "799439af25ed1d8.json",
+  "parameterValues" : [ ]
+}

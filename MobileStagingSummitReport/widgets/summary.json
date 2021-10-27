@@ -1,0 +1,20 @@
+{
+  "reportName": "Summit mobile test report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 3,
+    "broken": 3,
+    "skipped": 0,
+    "passed": 20,
+    "unknown": 0,
+    "total": 26
+  },
+  "time": {
+    "minDuration": 13090,
+    "maxDuration": 570856,
+    "sumDuration": 3069841,
+    "start": 1635255255000,
+    "stop": 1635262455000,
+    "duration": 7200000
+  }
+}

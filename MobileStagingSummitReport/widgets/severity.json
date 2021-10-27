@@ -1,0 +1,203 @@
+[ {
+  "uid" : "ac487db898cf8648",
+  "name" : "verfiySpeakersPageDropdownSortingTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 320896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "211f4c48e7d18d68",
+  "name" : "verifyMobileBurgerMenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 59788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4a5add8ca1d6475",
+  "name" : "verifyMobileBurgerMenuTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 65149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "caa37ed06af6ae3a",
+  "name" : "verfiySpeakersSections@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : { },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "302788f6ba935c81",
+  "name" : "verifyExploreWorldsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 89515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acf9edd39b028b63",
+  "name" : "verifyExploreWorldsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 74183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1489444c8877162d",
+  "name" : "verifyHeaderVideoTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 17954
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0d7e2809f7b5f76",
+  "name" : "verifyPartnerSectionTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 43283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c595394364f3579",
+  "name" : "verifyAllArticlesButtonTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 13090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ade4d8dbca60f92f",
+  "name" : "verfiySpeakersSections@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : { },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a214e2502ad40e8b",
+  "name" : "verifyMobileBurgerMenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 75371
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "500b7a279aeed928",
+  "name" : "verfiySpeakersPageDropdownSortingTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 402212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6aa0638d11dfb663",
+  "name" : "verifyContactPageTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 65119
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8c41860a1e78a314",
+  "name" : "verifySessionPageTogglesTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 570856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "799439af25ed1d8",
+  "name" : "verifySessionPageTogglesTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 543145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "211b370e5b878ec1",
+  "name" : "verifySessionPageVideoPlaybackTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 28346
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a92de9945aa4983",
+  "name" : "verifyViewButtonsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 27105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21be035f994eb2c8",
+  "name" : "verifyMobileBurgerMenuTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 79238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4256500415f5cb1",
+  "name" : "verifyNewsSectionsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 277665
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efeda546be2e9af0",
+  "name" : "verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 87636
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "afa94c256d636e19",
+  "name" : "verifySessionPageVideoPlaybackTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : { },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfc659ace712bed4",
+  "name" : "verifyHeaderVideoTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 22726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec102f2cf9cdc8de",
+  "name" : "verifyViewButtonsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 35056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30495280c986788d",
+  "name" : "verifyAllArticlesButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 20294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4df54a9abecf827",
+  "name" : "verifyPartnerSectionTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 90462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19a4ebadb3c126fd",
+  "name" : "verifyContactPageTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 60752
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

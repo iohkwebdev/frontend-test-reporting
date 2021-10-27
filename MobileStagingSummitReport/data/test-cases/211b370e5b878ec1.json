@@ -1,0 +1,188 @@
+{
+  "uid" : "211b370e5b878ec1",
+  "name" : "verifySessionPageVideoPlaybackTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageVideoPlaybackTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 28346
+  },
+  "status" : "failed",
+  "statusTrace" : "junit.framework.AssertionFailedError\n\tat MobileSummitTests.CardanoMobileSummitSessionsTest.verifySessionPageVideoPlaybackTest(CardanoMobileSummitSessionsTest.java:61)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ {
+      "name" : "15:28:49.998 [main] INFO com.github.webdriverextensions.junitrunner.WebDriverRunner - Running test CardanoMobileSummitSessionsTest.verifySessionPageVideoPlaybackTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.000 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.001 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1011463560",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.001 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.019 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.023 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.023 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1039704280",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.023 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.028 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.031 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.031 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@2039292789",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.031 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "15:28:50.038 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "aa6747953107af57",
+      "name" : "System out",
+      "source" : "aa6747953107af57.txt",
+      "type" : "text/plain",
+      "size" : 980
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "211b370e5b878ec1.json",
+  "parameterValues" : [ ]
+}

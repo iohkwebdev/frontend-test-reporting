@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: MobileSummitTests.CardanoMobileSummitSessionsTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 2,893.78 sec <<< FAILURE!
+verifySessionPageVideoPlaybackTest@IPhone(version="11", platform="IOS")(MobileSummitTests.CardanoMobileSummitSessionsTest)  Time elapsed: 28.346 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at MobileSummitTests.CardanoMobileSummitSessionsTest.verifySessionPageVideoPlaybackTest(CardanoMobileSummitSessionsTest.java:61)
+
+verifySessionPageVideoPlaybackTest@Android(version="10", platform="ANDROID")(MobileSummitTests.CardanoMobileSummitSessionsTest)  Time elapsed: 1,658.917 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at MobileSummitTests.CardanoMobileSummitSessionsTest.verifySessionPageVideoPlaybackTest(CardanoMobileSummitSessionsTest.java:61)
+

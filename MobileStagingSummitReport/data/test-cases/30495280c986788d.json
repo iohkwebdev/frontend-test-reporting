@@ -1,0 +1,53 @@
+{
+  "uid" : "30495280c986788d",
+  "name" : "verifyAllArticlesButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileSummitTests.CardanoMobileSummitHomePageTest:MobileSummitTests.CardanoMobileSummitHomePageTest#verifyAllArticlesButtonTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 20294
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "25429f809a3f1814",
+      "name" : "System out",
+      "source" : "25429f809a3f1814.txt",
+      "type" : "text/plain",
+      "size" : 617
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.CardanoMobileSummitHomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.CardanoMobileSummitHomePageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.CardanoMobileSummitHomePageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30495280c986788d.json",
+  "parameterValues" : [ ]
+}

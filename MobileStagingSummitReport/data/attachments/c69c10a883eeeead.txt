@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MobileSummitTests.NewsPageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 681.486 sec <<< FAILURE!
+verifyNewsSectionsTest@IPhone(version="11", platform="IOS")(MobileSummitTests.NewsPageTest)  Time elapsed: 87.636 sec  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at MobileSummitTests.NewsPageTest.verifyNewsSectionsTest(NewsPageTest.java:56)
+

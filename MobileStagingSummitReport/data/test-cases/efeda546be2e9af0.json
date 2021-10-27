@@ -1,0 +1,179 @@
+{
+  "uid" : "efeda546be2e9af0",
+  "name" : "verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.NewsPageTest:MobileSummitTests.NewsPageTest#verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 87636
+  },
+  "status" : "broken",
+  "statusMessage" : "Index 0 out of bounds for length 0",
+  "statusTrace" : "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0\n\tat MobileSummitTests.NewsPageTest.verifyNewsSectionsTest(NewsPageTest.java:56)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ {
+      "name" : "14:55:34.568 [main] INFO com.github.webdriverextensions.junitrunner.WebDriverRunner - Running test NewsPageTest.verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.569 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.569 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@464887203",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.569 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.574 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.578 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.578 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1678353562",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.578 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "14:55:34.582 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Initial context is: WEBVIEW_16030.1",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current context is: NATIVE_APP",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current context is: WEBVIEW_16030.2",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "c69c10a883eeeead",
+      "name" : "System out",
+      "source" : "c69c10a883eeeead.txt",
+      "type" : "text/plain",
+      "size" : 573
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 12,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.NewsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.NewsPageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.NewsPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "efeda546be2e9af0.json",
+  "parameterValues" : [ ]
+}
