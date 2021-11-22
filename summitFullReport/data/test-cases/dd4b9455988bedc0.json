@@ -1,0 +1,53 @@
+{
+  "uid" : "dd4b9455988bedc0",
+  "name" : "verifyMediaPartnersSections@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileSummitTests.MediaPartnersTest:MobileSummitTests.MediaPartnersTest#verifyMediaPartnersSections@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 274475
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a3c73319dde154d",
+      "name" : "System out",
+      "source" : "3a3c73319dde154d.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.MediaPartnersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd4b9455988bedc0.json",
+  "parameterValues" : [ ]
+}

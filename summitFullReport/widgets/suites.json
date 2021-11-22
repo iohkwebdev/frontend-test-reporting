@@ -1,0 +1,114 @@
+{
+  "total" : 12,
+  "items" : [ {
+    "uid" : "a1611e7092f056005536cdaf10d6f218",
+    "name" : "DesktopSummitTests.ContactPageTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "f6d51d497a7c40ad0df1a11e55823b8e",
+    "name" : "MobileSummitTests.CardanoMobileSummitHomePageTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "5db3fb40883d07b3c376b78cc2c7cd63",
+    "name" : "DesktopSummitTests.CardanoSummitHomePageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 30,
+      "unknown" : 0,
+      "total" : 36
+    }
+  }, {
+    "uid" : "a7df53d37fee179f1c3f7d17ac548fa5",
+    "name" : "MobileSummitTests.CardanoMobileSummitSpeakersPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "6b2dd82919bb6fdf230f07c3af37a306",
+    "name" : "DesktopSummitTests.CardanoSummitSpeakersPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "5a8c441af17173a75dda86b3d85a465b",
+    "name" : "DesktopSummitTests.CardanoSessionsSummitTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "4ae9dc6442772df86b9548e5419f1b92",
+    "name" : "DesktopSummitTests.MediaPartnersTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "1660e5940043e4fefb6b65d6cb8b59d2",
+    "name" : "DesktopSummitTests.NewsPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "38f75a21c8cc8ba48660cdad79ca8c5f",
+    "name" : "MobileSummitTests.CardanoMobileSummitSessionsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "f54d06b7b862a7ce111fb1e50e323a21",
+    "name" : "MobileSummitTests.NewsPageTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

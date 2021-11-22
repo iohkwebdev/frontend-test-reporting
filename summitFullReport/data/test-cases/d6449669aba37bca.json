@@ -1,0 +1,53 @@
+{
+  "uid" : "d6449669aba37bca",
+  "name" : "verifyContactPage@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 450878
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1f9d454dbb7e511d",
+      "name" : "System out",
+      "source" : "1f9d454dbb7e511d.txt",
+      "type" : "text/plain",
+      "size" : 8399
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6449669aba37bca.json",
+  "parameterValues" : [ ]
+}

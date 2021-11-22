@@ -1,0 +1,20 @@
+{
+  "reportName": "Summit site full report",
+  "testRuns": [],
+  "statistic": {
+    "failed": 2,
+    "broken": 9,
+    "skipped": 0,
+    "passed": 87,
+    "unknown": 0,
+    "total": 98
+  },
+  "time": {
+    "minDuration": 2872,
+    "maxDuration": 859882,
+    "sumDuration": 17325587,
+    "start": 1637406672000,
+    "stop": 1637435472000,
+    "duration": 28800000
+  }
+}

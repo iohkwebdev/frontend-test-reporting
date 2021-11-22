@@ -1,0 +1,53 @@
+{
+  "uid" : "bc083371579e5c4c",
+  "name" : "verfiySpeakersSections@Firefox(version=\"88\", platform=\"MAC\")",
+  "historyId" : "DesktopSummitTests.CardanoSummitSpeakersPageTest:DesktopSummitTests.CardanoSummitSpeakersPageTest#verfiySpeakersSections@Firefox(version=\"88\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 586889
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "58a8bfc8cb841d6c",
+      "name" : "System out",
+      "source" : "58a8bfc8cb841d6c.txt",
+      "type" : "text/plain",
+      "size" : 301
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.CardanoSummitSpeakersPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.CardanoSummitSpeakersPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.CardanoSummitSpeakersPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc083371579e5c4c.json",
+  "parameterValues" : [ ]
+}

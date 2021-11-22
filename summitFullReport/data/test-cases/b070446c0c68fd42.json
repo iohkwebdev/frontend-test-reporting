@@ -1,0 +1,53 @@
+{
+  "uid" : "b070446c0c68fd42",
+  "name" : "verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.NewsPageTest:MobileSummitTests.NewsPageTest#verifyNewsSectionsTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 34371
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6654665b126ccb4f",
+      "name" : "System out",
+      "source" : "6654665b126ccb4f.txt",
+      "type" : "text/plain",
+      "size" : 280
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.NewsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.NewsPageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.NewsPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b070446c0c68fd42.json",
+  "parameterValues" : [ ]
+}

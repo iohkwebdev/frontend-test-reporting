@@ -1,0 +1,53 @@
+{
+  "uid" : "7a3c3a9f8c634241",
+  "name" : "verifyNewsSections@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Edge(version=\"90\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 169407
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d9a693f901a60e9b",
+      "name" : "System out",
+      "source" : "d9a693f901a60e9b.txt",
+      "type" : "text/plain",
+      "size" : 281
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.NewsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.NewsPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.NewsPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a3c3a9f8c634241.json",
+  "parameterValues" : [ ]
+}

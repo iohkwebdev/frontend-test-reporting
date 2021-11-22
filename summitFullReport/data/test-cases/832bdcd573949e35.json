@@ -1,0 +1,53 @@
+{
+  "uid" : "832bdcd573949e35",
+  "name" : "verifyContactPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "historyId" : "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 409938
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1f9d454dbb7e511d",
+      "name" : "System out",
+      "source" : "1f9d454dbb7e511d.txt",
+      "type" : "text/plain",
+      "size" : 8399
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "832bdcd573949e35.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "f8aed90d6fc06547",
+  "name" : "verifyNewsSectionsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "historyId" : "MobileSummitTests.NewsPageTest:MobileSummitTests.NewsPageTest#verifyNewsSectionsTest@Android(version=\"10\", platform=\"ANDROID\")",
+  "time" : {
+    "duration" : 123212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6654665b126ccb4f",
+      "name" : "System out",
+      "source" : "6654665b126ccb4f.txt",
+      "type" : "text/plain",
+      "size" : 280
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.NewsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.NewsPageTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.NewsPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8aed90d6fc06547.json",
+  "parameterValues" : [ ]
+}

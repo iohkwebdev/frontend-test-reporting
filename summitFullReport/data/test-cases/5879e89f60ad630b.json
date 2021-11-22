@@ -1,0 +1,53 @@
+{
+  "uid" : "5879e89f60ad630b",
+  "name" : "verifyNewsSections@Chrome(version=\"90\", platform=\"MAC\")",
+  "historyId" : "DesktopSummitTests.NewsPageTest:DesktopSummitTests.NewsPageTest#verifyNewsSections@Chrome(version=\"90\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 105359
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d9a693f901a60e9b",
+      "name" : "System out",
+      "source" : "d9a693f901a60e9b.txt",
+      "type" : "text/plain",
+      "size" : 281
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.NewsPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.NewsPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.NewsPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5879e89f60ad630b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "eca7922adde702a5",
+  "name" : "verifyContactPageTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.ContactMobileTest:MobileSummitTests.ContactMobileTest#verifyContactPageTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 464725
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ede8dce4cab6806",
+      "name" : "System out",
+      "source" : "ede8dce4cab6806.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.ContactMobileTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.ContactMobileTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.ContactMobileTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eca7922adde702a5.json",
+  "parameterValues" : [ ]
+}

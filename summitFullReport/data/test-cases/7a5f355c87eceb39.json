@@ -1,0 +1,53 @@
+{
+  "uid" : "7a5f355c87eceb39",
+  "name" : "verifyMediaPartnersSections@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.MediaPartnersTest:MobileSummitTests.MediaPartnersTest#verifyMediaPartnersSections@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 49645
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a3c73319dde154d",
+      "name" : "System out",
+      "source" : "3a3c73319dde154d.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.MediaPartnersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a5f355c87eceb39.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "e4886ccbb120e18b",
+  "name" : "verifySessionPageTogglesTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "historyId" : "MobileSummitTests.CardanoMobileSummitSessionsTest:MobileSummitTests.CardanoMobileSummitSessionsTest#verifySessionPageTogglesTest@IPhone(version=\"11\", platform=\"IOS\")",
+  "time" : {
+    "duration" : 521824
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "20950906e90dca0b",
+      "name" : "System out",
+      "source" : "20950906e90dca0b.txt",
+      "type" : "text/plain",
+      "size" : 301
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  }, {
+    "name" : "package",
+    "value" : "MobileSummitTests.CardanoMobileSummitSessionsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4886ccbb120e18b.json",
+  "parameterValues" : [ ]
+}

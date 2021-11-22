@@ -1,0 +1,149 @@
+{
+  "uid" : "b433f96e5524bbd4",
+  "name" : "verifyContactPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopSummitTests.ContactPageTest:DesktopSummitTests.ContactPageTest#verifyContactPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 88066
+  },
+  "status" : "broken",
+  "statusMessage" : "Returned value cannot be converted to Boolean: {error=stale element reference, message=The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"26c576d4-89bc-465e-bded-6a6019244e39\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed, stacktrace=WebDriverError@chrome://marionette/content/error.js:181:5 StaleElementReferenceError@chrome://marionette/content/error.js:442:5 element.resolveElement@chrome://marionette/content/element.js:687:11 evaluate.fromJSON@chrome://marionette/content/evaluate.js:232:26 evaluate.fromJSON/<@chrome://marionette/content/evaluate.js:223:38 evaluate.fromJSON@chrome://marionette/content/evaluate.js:223:20 evaluate.fromJSON@chrome://marionette/content/evaluate.js:240:29 receiveMessage@chrome://marionette/content/actors/MarionetteCommandsChild.jsm:74:29 } Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: driver.version: unknown",
+  "statusTrace" : "org.openqa.selenium.WebDriverException: \nReturned value cannot be converted to Boolean: {error=stale element reference, message=The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"26c576d4-89bc-465e-bded-6a6019244e39\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed, stacktrace=WebDriverError@chrome://marionette/content/error.js:181:5\nStaleElementReferenceError@chrome://marionette/content/error.js:442:5\nelement.resolveElement@chrome://marionette/content/element.js:687:11\nevaluate.fromJSON@chrome://marionette/content/evaluate.js:232:26\nevaluate.fromJSON/<@chrome://marionette/content/evaluate.js:223:38\nevaluate.fromJSON@chrome://marionette/content/evaluate.js:223:20\nevaluate.fromJSON@chrome://marionette/content/evaluate.js:240:29\nreceiveMessage@chrome://marionette/content/actors/MarionetteCommandsChild.jsm:74:29\n}\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1'\nDriver info: driver.version: unknown\n\tat DesktopSummitTests.ContactPageTest.verifyContactPage(ContactPageTest.java:52)\nCaused by: java.lang.ClassCastException: class com.google.common.collect.Maps$TransformedEntriesMap cannot be cast to class java.lang.Boolean (com.google.common.collect.Maps$TransformedEntriesMap is in unnamed module of loader 'app'; java.lang.Boolean is in module java.base of loader 'bootstrap')\n\tat DesktopSummitTests.ContactPageTest.verifyContactPage(ContactPageTest.java:52)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ {
+      "name" : "12:34:01.662 [main] INFO com.github.webdriverextensions.junitrunner.WebDriverRunner - Running test ContactPageTest.verifyContactPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.664 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.665 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@565240798",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.665 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.679 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.687 [main] DEBUG com.gargoylesoftware.htmlunit.WebClient - Get page for window named '', using WebRequest[<url=\"about:blank\", GET, EncodingType[name=application/x-www-form-urlencoded], [], {Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8, Accept-Encoding=gzip, deflate}, null>]",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.687 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - setEnclosedPage: HtmlPage(about:blank)@1510522718",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.687 [main] DEBUG com.gargoylesoftware.htmlunit.WebWindowImpl - destroyChildren",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "12:34:01.735 [main] DEBUG com.gargoylesoftware.htmlunit.util.EncodingSniffer - Encoding found in HTTP headers: 'UTF-8'.",
+      "time" : { },
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1f9d454dbb7e511d",
+      "name" : "System out",
+      "source" : "1f9d454dbb7e511d.txt",
+      "type" : "text/plain",
+      "size" : 8399
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 9,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.ContactPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b433f96e5524bbd4.json",
+  "parameterValues" : [ ]
+}

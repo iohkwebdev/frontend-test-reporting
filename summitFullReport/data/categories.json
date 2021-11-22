@@ -1,0 +1,175 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 13 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: 'mac-10-144-144-151.browserstack.com', ip: '10.144.144.151', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_51' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64110}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=/var/folders/yj/h3bj394n2tn74bp3vdngj35c0000jy/T/.com.google.Chrome.HJdnzA}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 9b139a4878b3ac93c9f0622c2046a30a Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyHomePageFooterItems@Chrome(version=\"90\", platform=\"MAC\")",
+        "uid" : "bc26931d5b9f1fc7",
+        "parentUid" : "8e8f1f1a06139dd3a90211e96e3ce89b",
+        "status" : "broken",
+        "time" : {
+          "duration" : 37747
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e8f1f1a06139dd3a90211e96e3ce89b"
+    }, {
+      "name" : " For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G95, safari:platformVersion: 11.5.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 2846a85975a359796f8c28408e6..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}} Session ID: 2846a85975a359796f8c28408e6057ba95477e54",
+      "children" : [ {
+        "name" : "verifyHomePageFooterItems@Safari(version=\"14\", platform=\"MAC\")",
+        "uid" : "51da86c10d56feec",
+        "parentUid" : "437554f2e8d52ba884e734317ab78d3e",
+        "status" : "broken",
+        "time" : {
+          "duration" : 43864
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "437554f2e8d52ba884e734317ab78d3e"
+    }, {
+      "name" : "An unknown error has occurred Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, browserName: chrome, chromedriverPort: 18080, databaseEnabled: false, desired: {browserName: chrome, chromedriverPort: 18080, deviceName: android, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI]}, newCommandTimeout: 0, platformName: Android, skipServerInstallation: true, systemPort: 8200, udid: RFCN20RCASP}, deviceApiLevel: 29, deviceManufacturer: samsung, deviceModel: SM-G981B, deviceName: RFCN20RCASP, deviceScreenDensity: 480, deviceScreenSize: 1080x2400, deviceUDID: RFCN20RCASP, goog:chromeOptions: {args: [--proxy-bypass-list=<-loopb..., test-type, --proxy-server=http://194.1..., --disable-features=TranslateUI]}, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 0, pixelRatio: 3, platform: LINUX, platformName: LINUX, platformVersion: 10, skipServerInstallation: true, statBarHeight: 77, systemPort: 8200, takesScreenshot: true, udid: RFCN20RCASP, viewportRect: {height: 2101, left: 0, top: 77, width: 1080}, warnings: {}, webStorageEnabled: false} Session ID: 9202a4c4bba9bef55521da96b33513acd8325e76",
+      "children" : [ {
+        "name" : "verfiySpeakersPageDropdownSortingTest@Android(version=\"10\", platform=\"ANDROID\")",
+        "uid" : "9daedec56e83f4d9",
+        "parentUid" : "60ecdccc6e30c974cf153ff9523fdba9",
+        "status" : "broken",
+        "time" : {
+          "duration" : 111134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "60ecdccc6e30c974cf153ff9523fdba9"
+    }, {
+      "name" : "Remote browser did not respond to getCurrentUrl Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "verfiySpeakersSections@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "74103e4b70cd18dc",
+        "parentUid" : "73199f30a0423188d13295afb1364d16",
+        "status" : "broken",
+        "time" : { },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73199f30a0423188d13295afb1364d16"
+    }, {
+      "name" : "The element reference of <a href=\"/partners\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 75503, moz:profile: /var/folders/3y/zz_w6_s56sl..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: aac5fcb96f8f6c62e73ab3755fe...} Session ID: aac5fcb96f8f6c62e73ab3755fe06267cfccd048",
+      "children" : [ {
+        "name" : "verifyHomePageFooterItems@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "5d04d1eabc2c6251",
+        "parentUid" : "59ed2493d54e045a802b3966fd88547e",
+        "status" : "broken",
+        "time" : {
+          "duration" : 38904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "59ed2493d54e045a802b3966fd88547e"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: chrome=90.0.4430.72)   (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information) Command duration or timeout: 12 milliseconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58' System info: host: '10-144-165-238', ip: '10.144.165.238', os.name: 'windows', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_181' Driver info: org.openqa.selenium.chrome.ChromeDriver Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:5422}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, webauthn:extension:largeBlob=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}), userDataDir=C:\\Windows\\proxy\\scoped_dir4308_761919328}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=90.0.4430.72, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}] Session ID: 8211b4bf8c3b479966d88378f286a616 Command duration or timeout: 0 milliseconds",
+      "children" : [ {
+        "name" : "verifyHomePageFooterItems@Chrome(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "d07682809d78f9ef",
+        "parentUid" : "88fdf709141879c8f0d2b39ac879531f",
+        "status" : "broken",
+        "time" : {
+          "duration" : 45162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88fdf709141879c8f0d2b39ac879531f"
+    }, {
+      "name" : "stale element reference: element is not attached to the page document   (Session info: MicrosoftEdge=90.0.818.39) For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: msedge, browserVersion: 90.0.818.39, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:1166}, msedge: {msedgedriverVersion: 90.0.818.39 (bd674c5081fc01..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 5781abda20eaf730fdd8df028db...} Session ID: 5781abda20eaf730fdd8df028dbcef42c68f26af",
+      "children" : [ {
+        "name" : "verifyHomePageFooterItems@Edge(version=\"90\", platform=\"WINDOWS\")",
+        "uid" : "13e9ec532ee650b8",
+        "parentUid" : "32fbbb754243274bddd179866de74bd0",
+        "status" : "broken",
+        "time" : {
+          "duration" : 69519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "32fbbb754243274bddd179866de74bd0"
+    }, {
+      "name" : "Returned value cannot be converted to Boolean: {error=stale element reference, message=The element reference of [object String] \"{\\\"element-6066-11e4-a52e-4f735466cecf\\\":\\\"26c576d4-89bc-465e-bded-6a6019244e39\\\"}\" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed, stacktrace=WebDriverError@chrome://marionette/content/error.js:181:5 StaleElementReferenceError@chrome://marionette/content/error.js:442:5 element.resolveElement@chrome://marionette/content/element.js:687:11 evaluate.fromJSON@chrome://marionette/content/evaluate.js:232:26 evaluate.fromJSON/<@chrome://marionette/content/evaluate.js:223:38 evaluate.fromJSON@chrome://marionette/content/evaluate.js:223:20 evaluate.fromJSON@chrome://marionette/content/evaluate.js:240:29 receiveMessage@chrome://marionette/content/actors/MarionetteCommandsChild.jsm:74:29 } Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: driver.version: unknown",
+      "children" : [ {
+        "name" : "verifyContactPage@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "b433f96e5524bbd4",
+        "parentUid" : "49648c2f4b544505e2f198b8e971b0b8",
+        "status" : "broken",
+        "time" : {
+          "duration" : 88066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49648c2f4b544505e2f198b8e971b0b8"
+    }, {
+      "name" : "The element reference of <a href=\"/partners\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03' System info: host: 'TM-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '16.0.1' Driver info: org.openqa.selenium.remote.RemoteWebDriver Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 7512, moz:profile: C:\\Windows\\proxy\\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.3, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: c8e0c987c87a33453fb4c897ccf...} Session ID: c8e0c987c87a33453fb4c897ccf911bc3c066ab0",
+      "children" : [ {
+        "name" : "verifyHomePageFooterItems@Firefox(version=\"88\", platform=\"WINDOWS\")",
+        "uid" : "6511c11529655aef",
+        "parentUid" : "4a03c5ea2bea2a975d4f1dc3ad845805",
+        "status" : "broken",
+        "time" : {
+          "duration" : 41338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4a03c5ea2bea2a975d4f1dc3ad845805"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "children" : [ {
+        "name" : "verifyHeaderVideoTest@IPhone(version=\"11\", platform=\"IOS\")",
+        "uid" : "b11427e315bb2185",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "duration" : 17300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    }, {
+      "name" : "Element is not displayed     Element: <form action=\"#\"><small>Please complete the fields marked *</small><label for=\"details\" id=\"details\" style=\"margin-top:10px\" class=\"ContactForm__Label-sc-1m5nlod-8 bnriiN\">Your details</label><div class=\"ContactForm__FieldWithIconContainer-sc-1m5nlod-4 ContactForm__NameFieldContainer-sc-1m5nlod-5 fPkUYA cVToeV\"><input type=\"text\" name=\"name\" value=\"\" required=\"\" placeholder=\"Full name *\" class=\"ContactForm__TextField-sc-1m5nlod-3 fVvhbh\"></div><div class=\"ContactForm__FieldWithIconContainer-sc-1m5nlod-4 ContactForm__EmailFieldContainer-sc-1m5nlod-6 fPkUYA jGfhaf\"><input type=\"email\" name=\"email\" value=\"\" required=\"\" placeholder=\"Email address*\" class=\"ContactForm__TextField-sc-1m5nlod-3 fVvhbh\"></div><label for=\"interest\" id=\"interest\" class=\"ContactForm__Label-sc-1m5nlod-8 bnriiN\">What is the nature of your inquiry?</label><style data-emotion=\"css b62m3t-container\">.css-b62m3t-container{position:relative;box-sizing:border-box;}</style><div class=\"ContactForm__StyledSelect-sc-1m5nlod-16 gStGav css-b62m3t-container\"><style data-emotion=\"css 7pg0cj-a11yText\">.css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}</style><span id=\"react-select-2-live-region\" class=\"css-7pg0cj-a11yText\"></span><span aria-live=\"polite\" aria-atomic=\"false\" aria-relevant=\"additions text\" class=\"css-7pg0cj-a11yText\"></span><style data-emotion=\"css 1l4ncsg-control\">.css-1l4ncsg-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:0;border-style:solid;border-width:1px;box-shadow:0 5px 12px 0 rgba(0, 0, 0, 0.09);cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;box-sizing:border-box;background:none;border:solid 1px #eaeaea;height:45px;}.css-1l4ncsg-control:hover{border-color:hsl(0, 0%, 70%);}</style><div class=\" css-1l4ncsg-control\"><style data-emotion=\"css 88yu9z\">.css-88yu9z{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;padding:2px 8px;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;box-sizing:border-box;padding-left:15px;}</style><div class=\" css-88yu9z\"><style data-emotion=\"css 14el2xx-placeholder\">.css-14el2xx-placeholder{color:hsl(0, 0%, 50%);grid-area:1/1/2/3;margin-left:2px;margin-right:2px;box-sizing:border-box;}</style><div class=\" css-14el2xx-placeholder\" id=\"react-select-2-placeholder\">Please select...</div><style data-emotion=\"css 1hac4vs-dummyInput\">.css-1hac4vs-dummyInput{background:0;border:0;caret-color:transparent;font-size:inherit;grid-area:1/1/2/3;outline:0;padding:0;width:1px;color:transparent;left:-100px;opacity:0;position:relative;-webkit-transform:scale(.01);-moz-transform:scale(.01);-ms-transform:scale(.01);transform:scale(.01);}</style><input id=\"react-select-2-input\" tabindex=\"0\" inputmode=\"none\" value=\"\" aria-autocomplete=\"list\" aria-expanded=\"false\" aria-haspopup=\"true\" aria-controls=\"react-select-2-listbox\" aria-owns=\"react-select-2-listbox\" aria-labelledby=\"interest\" role=\"combobox\" aria-readonly=\"true\" aria-describedby=\"react-select-2-placeholder\" class=\"css-1hac4vs-dummyInput\"></div><style data-emotion=\"css 1wy0on6\">.css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}</style><div class=\" css-1wy0on6\"><style data-emotion=\"css 1hyfx7x\">.css-1hyfx7x{display:none;}</style><span class=\" css-1hyfx7x\"></span><style data-emotion=\"css 2os88v-indicatorContainer\">.css-2os88v-indicatorContainer{color:#000;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:8px;-webkit-transition:color 150ms;transition:color 150ms;box-sizing:border-box;padding-left:5px;}.css-2os88v-indicatorContainer:hover{color:hsl(0, 0%, 60%);}</style><div class=\" css-2os88v-indicatorContainer\" aria-hidden=\"true\"><style data-emotion=\"css 8mmkcg\">.css-8mmkcg{display:inline-block;fill:currentColor;line-height:1;stroke:currentColor;stroke-width:0;}</style><svg height=\"20\" width=\"20\" viewBox=\"0 0 20 20\" aria-hidden=\"true\" focusable=\"false\" class=\"css-8mmkcg\"><path d=\"M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z\"></path></svg></div></div></div><input type=\"hidden\" name=\"interest\" value=\"\"></div><div></div><button class=\"elements__Button-sc-d1y78g-3 jYZLmw variant--contained color--black isDisabled ContactForm__StyledButton-sc-1m5nlod-20 eEBIw\" type=\"submit\" disabled=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" focusable=\"false\" aria-hidden=\"true\" fill=\"none\" class=\"Spinner__Svg-sc-dadpqp-0 dJUXTC elements__Spinner-sc-d1y78g-2 jVykvW\"><circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"currentColor\" stroke-width=\"4\"></circle><path fill=\"currentColor\" d=\"M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z\"></path></svg><span class=\"elements__TextWrapper-sc-d1y78g-1 eIwcfv\">Submit</span></button><div class=\"elements__Wrapper-sc-384quu-0 ihqTDi xs-80 lg-120\" aria-hidden=\"true\"></div></form>",
+      "children" : [ {
+        "name" : "verifyContactPage@Firefox(version=\"88\", platform=\"MAC\")",
+        "uid" : "73a27497ae7eaf12",
+        "parentUid" : "4dfac7e463aeb9b4003658c620f42b21",
+        "status" : "failed",
+        "time" : {
+          "duration" : 33042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4dfac7e463aeb9b4003658c620f42b21"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

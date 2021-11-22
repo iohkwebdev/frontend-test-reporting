@@ -1,0 +1,53 @@
+{
+  "uid" : "fcdba9997d2c69e7",
+  "name" : "verifyPartnersSections@Safari(version=\"14\", platform=\"MAC\")",
+  "historyId" : "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Safari(version=\"14\", platform=\"MAC\")",
+  "time" : {
+    "duration" : 120480
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ca4895dbc1e6284",
+      "name" : "System out",
+      "source" : "8ca4895dbc1e6284.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcdba9997d2c69e7.json",
+  "parameterValues" : [ ]
+}

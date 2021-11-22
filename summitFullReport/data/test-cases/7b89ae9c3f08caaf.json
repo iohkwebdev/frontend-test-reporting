@@ -1,0 +1,53 @@
+{
+  "uid" : "7b89ae9c3f08caaf",
+  "name" : "verifyPartnersSections@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "historyId" : "DesktopSummitTests.MediaPartnersTest:DesktopSummitTests.MediaPartnersTest#verifyPartnersSections@Firefox(version=\"88\", platform=\"WINDOWS\")",
+  "time" : {
+    "duration" : 124640
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ca4895dbc1e6284",
+      "name" : "System out",
+      "source" : "8ca4895dbc1e6284.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  }, {
+    "name" : "package",
+    "value" : "DesktopSummitTests.MediaPartnersTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b89ae9c3f08caaf.json",
+  "parameterValues" : [ ]
+}
